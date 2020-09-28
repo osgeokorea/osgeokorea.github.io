@@ -32,8 +32,10 @@
   - [올해의 개발자상 추천]()
 
 ## ■ 참가비 및 후원금 모집
-후원금 모집 마감: 11월 6일
-별도의 참가비는 없으며, 자발적인 후원금 모집은 다음을 참고하세요. [후원금 모집](sponsor)
+후원금 모집 마감일: 11월 6일    
+후원금 및 세금계산서 발행 문의: osgeo.kr@gmail.com / 031-450-3411     
+
+이번 행사는 별도의 참가비가 없으며, 자발적인 후원금 모집은 다음을 참고하세요. [후원금 모집](sponsor)
 
 ## ■ 후원
 
@@ -52,8 +54,8 @@
 행사 소식은 [OSGeo Korean Chapter 메일링 리스트](http://groups.google.com/group/osgeo-kr) 또는 [Facebook Group](https://www.facebook.com/groups/OSGeoKR)을 통해 지속적으로 제공합니다.
 
 ## ■ 조직위원회
-[신상희](shshin@gaia3d.com) [유병혁](bhyu@knps.or.kr) [최준영](novacite@gmail.com) [김지윤](aliasgis@gmail.com) [이준호](juno1238@gmail.com)
-[강혜경](hkkang@krihs.re.kr) [오동하](dongha@bdi.re.kr) [차승훈](kacgung@gmail.com) [윤정환](lenablue12@gmail.com) [최규성](kyusung.choi@gmail.com)
+[신상희](shshin@gaia3d.com) [유병혁](bhyu@knps.or.kr) [최준영](novacite@gmail.com) [김지윤](aliasgis@gmail.com) [이준호](juno1238@gmail.com)     
+[강혜경](hkkang@krihs.re.kr) [오동하](dongha@bdi.re.kr) [차승훈](kacgung@gmail.com) [윤정환](lenablue12@gmail.com) [최규성](kyusung.choi@gmail.com)     
 [정윤재](choung12osu@gmail.com) [권오균](kok02@lx.or.kr) [이민파](mapplus@gmail.com)
 
 ## ■ 행동강령
