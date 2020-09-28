@@ -1,6 +1,6 @@
 # FOSS4G Korea Online 2020
 [![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](https://foss4g.osgeo.kr/)
-[![Englsh](https://img.shields.io/badge/language-English-orange.svg)](https://foss4g.osgeo.kr/en)
+[![Englsh](https://img.shields.io/badge/language-English-orange.svg)](en/en)
 
 ![screenshot](images/foss4gkorea2020-logo.png?width=300)
 
