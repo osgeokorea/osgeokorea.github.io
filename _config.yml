@@ -1,4 +1,5 @@
-# theme: jekyll-theme-minimal
-title: null
-
 theme: jekyll-theme-minimal
+title: null
+logo: https://foss4g.osgeo.kr/images/foss4gkorea2020-logo.png
+description: FOSS4G Korea 2020
+show_downloads: true   
