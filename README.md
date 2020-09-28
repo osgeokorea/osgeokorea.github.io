@@ -1,10 +1,13 @@
+# FOSS4G Korea Online 2020
 [![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](#korean)
 [![Englsh](https://img.shields.io/badge/language-English-orange.svg)](#english)
 
-## FOSS4G Korea 2020
 ![screenshot](images/foss4gkorea2020-logo.png?width=400)
 
-[OSGeo Korean Chapter](https://www.osgeo.kr/)
+
+[OSGeo Korean Chapter](https://www.osgeo.kr/)의 연례 행사이자 대한민국 오픈소스 GIS 관련 최대 축제인 **FOSS4G Korea 2020** 행사를 2020년 11월 12일부터 13일까지 양일간 개최합니다.
+
+이번 행사는 처음으로 온라인으로 개최할 예정이며, 한국어 트랙과 영어 트랙으로 구분하여 진행합니다.
 
 ## 일정
 12-13th November 2020
@@ -12,21 +15,24 @@
 
 ## 프로그램
 ### 워크숍
-
+  - [발표자 모집]()
 
 ### 구두발표
+  - [발표자 모집]()
 
+## 올해의 오픈소스 GIS 활동가상과 개발자상
+2020년부터 OSGeo Korean Chpater에서는 오픈소스 GIS 분야의 활동가상과 개발자상을 수여합니다.
+  - [올해의 활동가상 추천]()
+  - [올해의 개발자상 추천]()
 
-
-## 등록 및 참가비
-별도의 등록 절차는 없습니다.
-참가비 및 후원은 다음을 참고하세요
+## 참가비 및 후원금 모집
+별도의 참가비는 없으며, 자발적인 후원금 모집은 다음을 참고하세요. [후원금 모집]()
 
 ## 새소식
 행사 소식은 [OSGeo Korean Chapter 메일링 리스트](http://groups.google.com/group/osgeo-kr) 또는 [Facebook Group](https://www.facebook.com/groups/OSGeoKR)을 통해 지속적으로 제공합니다.
 
 ## 조직위원회
-[이민파](shshin@gaia3d.com)
+[이민파](mapplus@gmail.com)
 [신상희](shshin@gaia3d.com)
 [유병혁](bhyu@knps.or.kr)
 [최준영](novacite@gmail.com)
