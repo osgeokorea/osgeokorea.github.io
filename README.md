@@ -2,7 +2,7 @@
 [![Englsh](https://img.shields.io/badge/language-English-orange.svg)](#english)
 
 ## FOSS4G Korea 2020
-![screenshot](images/foss4gkorea2020-logo.png?width=600)
+![screenshot](images/foss4gkorea2020-logo.png?width=400)
 
 [OSGeo Korean Chapter](https://www.osgeo.kr/)
 
@@ -11,10 +11,10 @@
 
 
 ## 프로그램
-# 워크숍
+### 워크숍
 
 
-# 구두발표
+### 구두발표
 
 
 
