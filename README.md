@@ -5,9 +5,8 @@
 
 이번 행사는 처음으로 **온라인**으로 개최할 예정이며, **한국어 트랙**과 **영어 트랙**으로 구분하여 진행합니다.
 
-## ■ 일정
+## ■ 행사 일정
 12-13th November 2020
-
 
 ## ■ 프로그램
 워크숍과 발표자 모집 마감일: 10월 24일
@@ -51,18 +50,22 @@
 ### ⊙ 개인
 
 ## ■ 새소식
-행사 소식은 [OSGeo Korean Chapter 메일링 리스트](http://groups.google.com/group/osgeo-kr) 또는 [Facebook Group](https://www.facebook.com/groups/OSGeoKR)을 통해 지속적으로 제공합니다.
+행사 소식은 홈페이지, [OSGeo Korean Chapter 메일링 리스트](http://groups.google.com/group/osgeo-kr) 또는 [Facebook Group](https://www.facebook.com/groups/OSGeoKR)을 통해 지속적으로 제공합니다.
 
 ## ■ 조직위원회
-[신상희](shshin@gaia3d.com) [유병혁](bhyu@knps.or.kr) [최준영](novacite@gmail.com) [김지윤](aliasgis@gmail.com) [이준호](juno1238@gmail.com)     
-[강혜경](hkkang@krihs.re.kr) [오동하](dongha@bdi.re.kr) [차승훈](kacgung@gmail.com) [윤정환](lenablue12@gmail.com) [최규성](kyusung.choi@gmail.com)     
+[신상희](shshin@gaia3d.com) [유병혁](bhyu@knps.or.kr) [최준영](novacite@gmail.com) [김지윤](aliasgis@gmail.com) [이준호](juno1238@gmail.com) 
+[강혜경](hkkang@krihs.re.kr) [오동하](dongha@bdi.re.kr) [차승훈](kacgung@gmail.com) [윤정환](lenablue12@gmail.com) [최규성](kyusung.choi@gmail.com) 
 [정윤재](choung12osu@gmail.com) [권오균](kok02@lx.or.kr) [이민파](mapplus@gmail.com)
+
+## ■ 특별한 감사
+행사 지원에 도움 주신 두 분 및 소속사에 진심으로 감사드립니다.
+  - 로고 디자인 및 후원금 모집 팜플렛 제작: [에스제이엠앤씨(주)](https://www.sjmnc.kr/) 이다솔님
+  - 후원금 관리 및 운영 지원: [(주)망고시스템](http://www.mangosystem.com/) 김윤지님
 
 ## ■ 행동강령
 FOSS4G Korea 2020 Online 참가자는 FOSS4G Korea 온라인 행동 강령에 따라 타인에 대해 정중하게 행동해야합니다. [Code of Conduct](code-of-conduct).
 
 ## 문의
 [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) 또는 [OSGeo Korean Chapter Mailing List](http://groups.google.com/group/osgeo-kr)
-
 
 ![OSGeo Korean Chapter](images/osgeo.kr-logo.png)
