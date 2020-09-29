@@ -4,7 +4,7 @@
 
 ## ■ 후원 모집
 후원금 모집 마감일: 11월 6일     
-후원금 및 세금계산서 발행 문의: osgeo.kr@gmail.com / 031-450-3411      
+후원금 및 세금계산서 발행 문의: [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) / 031-450-3411     
 
 ![Sponsor](sponsor/sponsor-01.jpg "Sponsor")
 
