@@ -1,4 +1,4 @@
-Code of Conduct for FOSS4G Korea 2020
+# Code of Conduct for FOSS4G Korea 2020
 [![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](https://foss4g.osgeo.kr/)
 [![Englsh](https://img.shields.io/badge/language-English-orange.svg)](en)
 
