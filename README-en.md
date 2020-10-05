@@ -26,7 +26,7 @@ The presentation of the main conference will be conducted using the online webin
   - [Call for Presentations - English](https://forms.gle/Bq5otwsbp2Mm3TaC6)
 
 ### ⊙ Annual General Meeting
-After all the presentation is over, we will have OSGeo Korean Chapter's AGM(Annual General Meeting). 
+There will be OSGeo Korean Chapter's Annual General Meeting after finishing all the sessions. 
   - Schedule: 13th November, 18:00 (Seoul, South Korea Time) ~
   - [OSGeo Korean Chapter 2020 AGM](https://docs.google.com/presentation/d/1tdGaq_xfQuu1uIYcz2EoC-nhbao-vWg3u8JHS2waG4Y/edit?usp=sharing)
 
@@ -62,7 +62,7 @@ Event news is continuously provided through the homepage, mailing list, Facebook
   - Sponsorship management and operation support: [Mango System](http://www.mangosystem.com/) Yoonji Kim
 
 ## ■ Code of Conduct
-Participants at FOSS4G Korea Online 2020 are expected to act respectfully toward others in accordance with the [Code of Conduct](code-of-conduct-en).
+Participants at FOSS4G Korea Online 2020 are expected to act respectfully toward others in accordance with the [Code of Conduct](https://www.osgeo.org/code_of_conduct/).
 
 ## Contact
 [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) or [OSGeo Korean Chapter Mailing List](http://groups.google.com/group/osgeo-kr)
