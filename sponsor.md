@@ -1,6 +1,6 @@
 # FOSS4G Korea Online 2020
 [![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](https://foss4g.osgeo.kr/)
-[![Englsh](https://img.shields.io/badge/language-English-orange.svg)](en)
+[![Englsh](https://img.shields.io/badge/language-English-orange.svg)](README-en)
 
 ## ■ 후원 모집
 후원금 모집 마감일: 11월 6일     
