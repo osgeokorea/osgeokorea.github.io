@@ -6,13 +6,13 @@
 이번 행사는 처음으로 **온라인**으로 개최할 예정이며, **한국어 트랙**과 **영어 트랙**으로 구분하여 진행합니다.
 
 ## ■ 행사 일정
-12-13th November 2020
+2020년 11월 12일(목) ~ 13일(금)
 
 ## ■ 프로그램
 워크숍과 발표자 모집 마감일 **10월 24일**까지이며 이후 상세 프로그램 확정 후 공지 예정입니다.
 
 ### ⊙ 워크숍 데이
-온라인 기술 워크숍은 2회(13:00 ~ 16:00, 16:00 ~ 19:00)로 진행하며, 신청자가 2개 이상인 경우 조정 예정입니다.
+온라인 기술 워크숍은 2회(13:00 ~ 16:00, 16:00 ~ 19:00)로 진행하며, 기술워크숍 신청이 3개 이상인 경우 조정 예정입니다.
   - 일정: 11월 12일 13:00 ~ 19:00(Seoul, South Korea Time)
   - [기술 워크숍 모집 - 한국어](https://docs.google.com/spreadsheets/d/1lyPPPjkQuBEgSRoautad0lGpyDeWOZSMr0ymF2NRkfA/edit#gid=0)
   - [기술 워크숍 모집 - English](https://docs.google.com/spreadsheets/d/1lyPPPjkQuBEgSRoautad0lGpyDeWOZSMr0ymF2NRkfA/edit#gid=0)
@@ -31,7 +31,7 @@
 ## ■ 올해의 오픈소스 GIS 활동가상과 개발자상
 2020년부터 OSGeo Korean Chpater에서는 OSGeo Korean Chapter 커뮤니티 회원들의 의견 수렴을 통하여
 한 해 동안 한국어지부와 오픈소스 GIS 분야에서 기여한 2명을 대상으로 **올해의 활동가상**과 **개발자상**을 수여합니다.
-  - 추천인 모집 마감일: 10월 31일
+  - 2020년 수상 후보자 모집 마감일: 10월 31일
   - [올해의 활동가상 및 개발자상 후보자 추천하기](https://forms.gle/QtEKGrLuAuTSRX5D8)
 
 ## ■ 참가비 및 후원금 모집
@@ -57,9 +57,9 @@
   - [Facebook Group - OSGeo Korean Chapter](https://www.facebook.com/groups/OSGeoKR)
 
 ## ■ 조직위원회
-[신상희](shshin@gaia3d.com) [유병혁](bhyu@knps.or.kr) [최준영](novacite@gmail.com) [김지윤](aliasgis@gmail.com) [이준호](juno1238@gmail.com) 
-[강혜경](hkkang@krihs.re.kr) [오동하](dongha@bdi.re.kr) [차승훈](kacgung@gmail.com) [윤정환](lenablue12@gmail.com) [최규성](kyusung.choi@gmail.com) 
-[정윤재](choung12osu@gmail.com) [권오균](kok02@lx.or.kr) [이민파](mapplus@gmail.com)
+[신상희](shshin@gaia3d.com), [유병혁](bhyu@knps.or.kr), [최준영](novacite@gmail.com), [김지윤](aliasgis@gmail.com), [이준호](juno1238@gmail.com),
+[강혜경](hkkang@krihs.re.kr), [오동하](dongha@bdi.re.kr), [차승훈](kacgung@gmail.com), [윤정환](lenablue12@gmail.com), [최규성](kyusung.choi@gmail.com), 
+[정윤재](choung12osu@gmail.com), [권오균](kok02@lx.or.kr), [이민파](mapplus@gmail.com)
 
 ## ■ 특별한 감사
 행사 지원에 도움 주신 두 분 및 소속사에 진심으로 감사드립니다.

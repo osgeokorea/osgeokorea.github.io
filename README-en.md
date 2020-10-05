@@ -3,15 +3,15 @@
 
 **[OSGeo Korean Chapter](https://www.osgeo.kr/)** are running two days online **FOSS4G Korea 2020** event on 12-13th November 2020.   
 
-**FOSS4G Korea** is OSGeo Korean Chapter's annual event and the largest festival related to open source GIS in Korea.   
+**FOSS4G Korea** is OSGeo Korean Chapter's annual event and the largest festival focused on open source geospatial solutions in Korea.   
 
 This event will be held for the first time on **Online**, and will be divided into **Korean track** and **English track**.
 
-## ■ When
+## ■ Dates
 12-13th November 2020
 
 ## ■ Programme
-*** The deadline for submissions of technical workshops and presentations is 24th October 2020 ***
+***The deadline for submissions of technical workshops and presentations is 24th October 2020***
 
 ### ⊙ Workshop Day
 Online technical workshops are held twice (13:00 ~ 16:00, 16:00 ~ 19:00) and will be adjusted if there are more than three applicants.
@@ -26,19 +26,18 @@ The presentation of the main conference will be conducted using the online webin
   - [Call for Presentations - English](https://forms.gle/Bq5otwsbp2Mm3TaC6)
 
 ### ⊙ Annual General Meeting
-After the presentation is over, we will hold our branch's annual general meeting. 
-This year's activities, financial information, and this year's activist award and developer award ceremony are included.
+There will be OSGeo Korean Chapter's Annual General Meeting after finishing all the sessions. 
   - Schedule: 13th November, 18:00 (Seoul, South Korea Time) ~
   - [OSGeo Korean Chapter 2020 AGM](https://docs.google.com/presentation/d/1tdGaq_xfQuu1uIYcz2EoC-nhbao-vWg3u8JHS2waG4Y/edit?usp=sharing)
 
-## ■ Sponsors & Cost
-There is no separate participation fee for this event, and refer to the following for voluntary donations.
+## ■ Sponsors & Registration
+There is no registration fee for this event. However we recommend voluntary donations.
   - Deadline to apply for donation: 6th November
   - Inquiries about issuance of donations and tax invoices: [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) / 031-450-3411     
   - [Sponsorship application](sponsor)
 
 ## ■ Sponsors
-We sincerely appreciate all the organizations and individuals who have supported our chapter.
+We sincerely appreciate all the organizations and individuals who have supported this great event.
 
 ### ⊙ Platinum
 
@@ -53,17 +52,17 @@ Event news is continuously provided through the homepage, mailing list, Facebook
   - [OSGeo Korean Chapter Mailing List](http://groups.google.com/group/osgeo-kr)
   - [Facebook Group - OSGeo Korean Chapter](https://www.facebook.com/groups/OSGeoKR)
 
-## ■ Committee
-[Sanghee Shin](shshin@gaia3d.com) [Byunghyuk Yu](bhyu@knps.or.kr) [Junyoung Choi](novacite@gmail.com) [Jiyoon Kim](aliasgis@gmail.com) [Junho Lee](juno1238@gmail.com) 
-[Hyekyung Kang](hkkang@krihs.re.kr) [Dongha Oh](dongha@bdi.re.kr) [Seunghoon Cha](kacgung@gmail.com) [Jeonghwan Yoon](lenablue12@gmail.com) [Kyusung Choi](kyusung.choi@gmail.com) 
-[Yoonjae Jeong](choung12osu@gmail.com) [Ohgyun Kwon](kok02@lx.or.kr) [Minpa Lee](mapplus@gmail.com)
+## ■ Organizing Committee
+[Sanghee Shin](shshin@gaia3d.com), [Byunghyuk Yu](bhyu@knps.or.kr), [Junyoung Choi](novacite@gmail.com), [Jiyoon Kim](aliasgis@gmail.com), [Junho Lee](juno1238@gmail.com), 
+[Hyekyung Kang](hkkang@krihs.re.kr), [Dongha Oh](dongha@bdi.re.kr), [Seunghoon Cha](kacgung@gmail.com), [Jeonghwan Yoon](lenablue12@gmail.com), [Kyusung Choi](kyusung.choi@gmail.com), 
+[Yoonjae Jeong](choung12osu@gmail.com), [Ohgyun Kwon](kok02@lx.or.kr), [Minpa Lee](mapplus@gmail.com)
 
 ## ■ Special thanks
-  - Logo design and sponsorship recruitment brochure creation: [SJ M&C](https://www.sjmnc.kr/) Dasol Lee
+  - FOSS4G Korea 2020 logo and sponsorship design: [SJ M&C](https://www.sjmnc.kr/) Dasol Lee
   - Sponsorship management and operation support: [Mango System](http://www.mangosystem.com/) Yoonji Kim
 
 ## ■ Code of Conduct
-Participants at FOSS4G Korea Online 2020 are expected to act respectfully toward others in accordance with the [Code of Conduct](code-of-conduct-en).
+Participants at FOSS4G Korea Online 2020 are expected to act respectfully toward others in accordance with the [Code of Conduct](https://www.osgeo.org/code_of_conduct/).
 
 ## Contact
 [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) or [OSGeo Korean Chapter Mailing List](http://groups.google.com/group/osgeo-kr)
