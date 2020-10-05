@@ -1,5 +1,5 @@
 [![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](https://foss4g.osgeo.kr/)
-[![Englsh](https://img.shields.io/badge/language-English-orange.svg)](README-en)
+[![English](https://img.shields.io/badge/language-English-orange.svg)](README-en)
 
 **[OSGeo Korean Chapter](https://www.osgeo.kr/)**의 연례 행사이자 대한민국 오픈소스 GIS 관련 최대 축제인 **FOSS4G Korea 2020** 행사를 **2020년 11월 12일부터 13일**까지 양일간 개최합니다.
 
@@ -12,23 +12,21 @@
 워크숍과 발표자 모집 마감일 **10월 24일**까지이며 이후 상세 프로그램 확정 후 공지 예정입니다.
 
 ### ⊙ 워크숍 데이
-온라인 기술 워크숍은 2회(13:00 ~ 16:00, 16:00 ~ 19:00) 또는 2개 이상일 경우 시간 조정 예정입니다.
-
+온라인 기술 워크숍은 2회(13:00 ~ 16:00, 16:00 ~ 19:00)로 진행하며, 신청자가 2개 이상인 경우 조정 예정입니다.
   - 일정: 11월 12일 13:00 ~ 19:00(Seoul, South Korea Time)
   - [기술 워크숍 모집 - 한국어](https://docs.google.com/spreadsheets/d/1lyPPPjkQuBEgSRoautad0lGpyDeWOZSMr0ymF2NRkfA/edit#gid=0)
-  - [기술 워크숍 모집 - 영어](https://docs.google.com/spreadsheets/d/1lyPPPjkQuBEgSRoautad0lGpyDeWOZSMr0ymF2NRkfA/edit#gid=0)
+  - [기술 워크숍 모집 - English](https://docs.google.com/spreadsheets/d/1lyPPPjkQuBEgSRoautad0lGpyDeWOZSMr0ymF2NRkfA/edit#gid=0)
 
 ### ⊙ 온라인 컨퍼런스
 메인 컨퍼런스의 구두 발표는 온라인 웨비나 플랫폼(Zoom)을 이용해 진행 예정입니다.
-
   - 일정: 11월 13일 10:00 ~ 18:00(Seoul, South Korea Time)
   - [구두발표 신청하기 - 한국어](https://forms.gle/9GkJ8bUEEcr5H41w5)
-  - [구두발표 신청하기 - 영어]()
+  - [구두발표 신청하기 - English](https://forms.gle/Bq5otwsbp2Mm3TaC6)
 
 ### ⊙ 연례 총회
 구두 발표가 끝난 후 우리 지부의 연례 총회를 개최 예정입니다. 올해 활동 내용, 재무정보, 올해의 활동가상 및 개발자상 수여식 등을 포함합니다.
-
   - 일정: 11월 13일 18:00(Seoul, South Korea Time) ~
+  - [2020 연례 총회 - OSGeo Korean Chapter](https://docs.google.com/presentation/d/1tdGaq_xfQuu1uIYcz2EoC-nhbao-vWg3u8JHS2waG4Y/edit?usp=sharing)
 
 ## ■ 올해의 오픈소스 GIS 활동가상과 개발자상
 2020년부터 OSGeo Korean Chpater에서는 OSGeo Korean Chapter 커뮤니티 회원들의 의견 수렴을 통하여
@@ -44,6 +42,7 @@
 
 ## ■ 후원
 후원해 주신 기관 및 개인 모두에게 진심으로 감사드립니다.  
+
 ### ⊙ 플래티넘
 
 ### ⊙ 골드
@@ -53,7 +52,9 @@
 ### ⊙ 개인
 
 ## ■ 새소식
-행사 소식은 홈페이지, [OSGeo Korean Chapter 메일링 리스트](http://groups.google.com/group/osgeo-kr) 또는 [Facebook Group](https://www.facebook.com/groups/OSGeoKR)을 통해 지속적으로 제공합니다.
+행사 소식은 홈페이지, 메일링 리스트, 페이스북, 트위터 등을 통해 지속적으로 제공합니다.
+  - [OSGeo Korean Chapter 메일링 리스트](http://groups.google.com/group/osgeo-kr)
+  - [Facebook Group - OSGeo Korean Chapter](https://www.facebook.com/groups/OSGeoKR)
 
 ## ■ 조직위원회
 [신상희](shshin@gaia3d.com) [유병혁](bhyu@knps.or.kr) [최준영](novacite@gmail.com) [김지윤](aliasgis@gmail.com) [이준호](juno1238@gmail.com) 

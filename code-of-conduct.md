@@ -1,6 +1,6 @@
 # Code of Conduct for FOSS4G Korea 2020
 [![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](https://foss4g.osgeo.kr/)
-[![Englsh](https://img.shields.io/badge/language-English-orange.svg)](README-en)
+[![English](https://img.shields.io/badge/language-English-orange.svg)](README-en)
 
 ## 일반 지침
 Zoom은 FOSS4G Korea 2020에 사용되는 온라인 컨퍼런스 플랫폼입니다.
