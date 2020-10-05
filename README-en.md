@@ -11,7 +11,7 @@ This event will be held for the first time on **Online**, and will be divided in
 12-13th November 2020
 
 ## ■ Programme
-*** The deadline for submissions of technical workshops and presentations is 24th October 2020 ***
+***The deadline for submissions of technical workshops and presentations is 24th October 2020***
 
 ### ⊙ Workshop Day
 Online technical workshops are held twice (13:00 ~ 16:00, 16:00 ~ 19:00) and will be adjusted if there are more than three applicants.
@@ -54,9 +54,9 @@ Event news is continuously provided through the homepage, mailing list, Facebook
   - [Facebook Group - OSGeo Korean Chapter](https://www.facebook.com/groups/OSGeoKR)
 
 ## ■ Committee
-[Sanghee Shin](shshin@gaia3d.com) [Byunghyuk Yu](bhyu@knps.or.kr) [Junyoung Choi](novacite@gmail.com) [Jiyoon Kim](aliasgis@gmail.com) [Junho Lee](juno1238@gmail.com) 
-[Hyekyung Kang](hkkang@krihs.re.kr) [Dongha Oh](dongha@bdi.re.kr) [Seunghoon Cha](kacgung@gmail.com) [Jeonghwan Yoon](lenablue12@gmail.com) [Kyusung Choi](kyusung.choi@gmail.com) 
-[Yoonjae Jeong](choung12osu@gmail.com) [Ohgyun Kwon](kok02@lx.or.kr) [Minpa Lee](mapplus@gmail.com)
+[Sanghee Shin](shshin@gaia3d.com), [Byunghyuk Yu](bhyu@knps.or.kr), [Junyoung Choi](novacite@gmail.com), [Jiyoon Kim](aliasgis@gmail.com), [Junho Lee](juno1238@gmail.com), 
+[Hyekyung Kang](hkkang@krihs.re.kr), [Dongha Oh](dongha@bdi.re.kr), [Seunghoon Cha](kacgung@gmail.com), [Jeonghwan Yoon](lenablue12@gmail.com), [Kyusung Choi](kyusung.choi@gmail.com), 
+[Yoonjae Jeong](choung12osu@gmail.com), [Ohgyun Kwon](kok02@lx.or.kr), [Minpa Lee](mapplus@gmail.com)
 
 ## ■ Special thanks
   - Logo design and sponsorship recruitment brochure creation: [SJ M&C](https://www.sjmnc.kr/) Dasol Lee
