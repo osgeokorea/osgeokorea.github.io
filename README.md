@@ -50,6 +50,7 @@
 
 ### ⊙ 플래티넘
 <a href="https://www.dabeeo.com"><img src="sponsor/dabeeo.png" width="150" height="48"></a>
+<a href="https://gaia3d.com/"><img src="sponsor/gaia3d.png" width="128" height="48"></a>
 
 ### ⊙ 골드
 
