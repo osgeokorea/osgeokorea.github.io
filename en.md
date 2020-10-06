@@ -1,5 +1,5 @@
 [![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](https://foss4g.osgeo.kr/)
-[![English](https://img.shields.io/badge/language-English-orange.svg)](README-en)
+[![English](https://img.shields.io/badge/language-English-orange.svg)](en)
 
 **[OSGeo Korean Chapter](https://www.osgeo.kr/)** are running two days online **FOSS4G Korea 2020** event on 12-13th November 2020.   
 
@@ -40,6 +40,8 @@ There is no registration fee for this event. However we recommend voluntary dona
 We sincerely appreciate all the organizations and individuals who have supported this great event.
 
 ### ⊙ Platinum
+<a href="https://www.dabeeo.com"><img src="sponsor/dabeeo.png" width="150" height="48"></a>
+<a href="https://gaia3d.com/"><img src="sponsor/gaia3d.png" width="128" height="48"></a>
 
 ### ⊙ Gold
 
