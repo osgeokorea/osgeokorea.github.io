@@ -31,7 +31,7 @@
 ## ■ 올해의 오픈소스 GIS 활동가상과 개발자상
 2020년부터 OSGeo Korean Chpater에서는 OSGeo Korean Chapter 커뮤니티 회원들의 의견 수렴을 통하여
 한 해 동안 한국어지부와 오픈소스 GIS 분야에서 기여한 2명을 대상으로 **올해의 활동가상**과 **개발자상**을 수여합니다.
-  - 2020년 수상 후보자 모집 마감일: 10월 31일
+  - 2020년 수상 후보자 추천 마감일: 10월 31일
   - [올해의 활동가상 및 개발자상 후보자 추천하기](https://forms.gle/QtEKGrLuAuTSRX5D8)
 
 ## ■ 새소식
@@ -49,7 +49,7 @@
 후원해 주신 기관 및 개인 모두에게 진심으로 감사드립니다.  
 
 ### ⊙ 플래티넘
-<img src="sponsor/dabeeo.png" width="150" height="48">
+<a href="https://www.dabeeo.com"><img src="sponsor/dabeeo.png" width="150" height="48"></a>
 
 ### ⊙ 골드
 
