@@ -9,7 +9,7 @@
 2020년 11월 12일(목) ~ 13일(금)
 
 ## ■ 프로그램
-워크숍과 발표자 모집 마감일 **10월 24일**까지이며 이후 상세 프로그램 확정 후 공지 예정입니다.
+워크숍과 발표자 모집 마감일은 **10월 24일**까지이며 이후 상세 프로그램 확정 후 공지 예정입니다.
 
 ### ⊙ 워크숍 데이
 온라인 기술 워크숍은 2회(13:00 ~ 16:00, 16:00 ~ 19:00)로 진행하며, 기술워크숍 신청이 3개 이상인 경우 조정 예정입니다.
@@ -31,9 +31,14 @@
 ## ■ 올해의 오픈소스 GIS 활동가상과 개발자상
 2020년부터 OSGeo Korean Chpater에서는 OSGeo Korean Chapter 커뮤니티 회원들의 의견 수렴을 통하여
 한 해 동안 한국어지부와 오픈소스 GIS 분야에서 기여한 2명을 대상으로 **올해의 활동가상**과 **개발자상**을 수여합니다.
-  - 2020년 수상 후보자 모집 마감일: 10월 31일
+  - 2020년 수상 후보자 추천 마감일: 10월 31일
   - [올해의 활동가상 및 개발자상 후보자 추천하기](https://forms.gle/QtEKGrLuAuTSRX5D8)
 
+## ■ 새소식
+행사 소식은 홈페이지, 메일링 리스트, 페이스북, 트위터 등을 통해 지속적으로 제공합니다.
+  - [OSGeo Korean Chapter 메일링 리스트](http://groups.google.com/group/osgeo-kr)
+  - [Facebook Group - OSGeo Korean Chapter](https://www.facebook.com/groups/OSGeoKR)
+  
 ## ■ 참가비 및 후원금 모집
 이번 행사는 별도의 참가비가 없으며, 자발적인 후원금 모집은 다음을 참고하세요.
   - 후원금 모집 마감일: 11월 6일    
@@ -44,17 +49,13 @@
 후원해 주신 기관 및 개인 모두에게 진심으로 감사드립니다.  
 
 ### ⊙ 플래티넘
+<a href="https://www.dabeeo.com"><img src="sponsor/dabeeo.png" width="150" height="48"></a>
 
 ### ⊙ 골드
 
 ### ⊙ 실버
 
 ### ⊙ 개인
-
-## ■ 새소식
-행사 소식은 홈페이지, 메일링 리스트, 페이스북, 트위터 등을 통해 지속적으로 제공합니다.
-  - [OSGeo Korean Chapter 메일링 리스트](http://groups.google.com/group/osgeo-kr)
-  - [Facebook Group - OSGeo Korean Chapter](https://www.facebook.com/groups/OSGeoKR)
 
 ## ■ 조직위원회
 [신상희](shshin@gaia3d.com), [유병혁](bhyu@knps.or.kr), [최준영](novacite@gmail.com), [김지윤](aliasgis@gmail.com), [이준호](juno1238@gmail.com),
@@ -72,4 +73,4 @@ FOSS4G Korea 2020 Online 참가자는 FOSS4G Korea 온라인 행동 강령에 �
 ## 문의
 [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) 또는 [OSGeo Korean Chapter Mailing List](http://groups.google.com/group/osgeo-kr)
 
-![OSGeo Korean Chapter](images/osgeo.kr-logo.png)
+<center><img src="images/osgeo.kr-logo.png" width="300" height="159"></center>
