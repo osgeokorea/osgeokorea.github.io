@@ -57,6 +57,7 @@
 ### ⊙ 골드
 <a href="http://www.mangosystem.com/"><img src="sponsor/mangosystem.png" width="142" height="48"></a>
 <a href=""><img src="sponsor/daea-sce.png" width="161" height="48"></a>
+<a href=""><img src="sponsor/dslab.png" width="164" height="48"></a>
 
 ### ⊙ 실버
 
