@@ -49,6 +49,7 @@ We sincerely appreciate all the organizations and individuals who have supported
 <a href=""><img src="sponsor/daea-sce.png" width="161" height="48"></a>
 <a href=""><img src="sponsor/dslab.png" width="164" height="48"></a>
 <a href="http://www.e-three.co.kr/"><img src="sponsor/e-three.png" width="150" height="48"></a>
+<a href="https://www.gntsolution.com/"><img src="sponsor/gntsolution.png" width="178" height="48"></a>
 
 ### ⊙ Silver
 
