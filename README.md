@@ -60,11 +60,12 @@
 <a href=""><img src="sponsor/dslab.png" width="164" height="48"></a>
 <a href="http://www.e-three.co.kr/"><img src="sponsor/e-three.png" width="150" height="48"></a>
 <a href="https://www.gntsolution.com/"><img src="sponsor/gntsolution.png" width="178" height="48"></a>
-
+<a href="http://gisutd.com/"><img src="sponsor/GISUnited.png" width="68" height="60"></a>
 
 ### ⊙ 실버
 
 ### ⊙ 개인
+장윤정(서울시립대학교)
 
 ## ■ 조직위원회
 [신상희](shshin@gaia3d.com), [유병혁](bhyu@knps.or.kr), [최준영](novacite@gmail.com), [김지윤](aliasgis@gmail.com), [이준호](juno1238@gmail.com),
