@@ -50,10 +50,12 @@ We sincerely appreciate all the organizations and individuals who have supported
 <a href=""><img src="sponsor/dslab.png" width="164" height="48"></a>
 <a href="http://www.e-three.co.kr/"><img src="sponsor/e-three.png" width="150" height="48"></a>
 <a href="https://www.gntsolution.com/"><img src="sponsor/gntsolution.png" width="178" height="48"></a>
+<a href="http://gisutd.com/"><img src="sponsor/GISUnited.png" width="68" height="60"></a>
 
 ### ⊙ Silver
 
 ### ⊙ Personal Sponsorship
+YunJung Jang(University of Seoul)
 
 ## ■ News
 Event news is continuously provided through the homepage, mailing list, Facebook, and Twitter.
