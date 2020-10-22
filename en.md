@@ -53,6 +53,7 @@ We sincerely appreciate all the organizations and individuals who have supported
 <a href="http://gisutd.com/"><img src="sponsor/GISUnited.png" width="68" height="60"></a>
 
 ### ⊙ Silver
+<a href="http://www.hermesys.co.kr/"><img src="sponsor/hermesys.png" width="121" height="48"></a>
 
 ### ⊙ Personal Sponsorship
 YunJung Jang(University of Seoul)
