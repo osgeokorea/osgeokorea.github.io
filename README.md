@@ -63,6 +63,7 @@
 <a href="http://gisutd.com/"><img src="sponsor/GISUnited.png" width="68" height="60"></a>
 
 ### ⊙ 실버
+<a href="http://www.hermesys.co.kr/"><img src="sponsor/hermesys.png" width="121" height="48"></a>
 
 ### ⊙ 개인
 장윤정(서울시립대학교)
