@@ -14,14 +14,14 @@
 ### ⊙ 워크숍 데이
 온라인 기술 워크숍은 2회(13:00 ~ 16:00, 16:00 ~ 19:00)로 진행하며, 기술워크숍 신청이 3개 이상인 경우 조정 예정입니다.
   - 일정: 11월 12일 13:00 ~ 19:00(Seoul, South Korea Time)
-  - [기술 워크숍 모집 - 한국어](https://docs.google.com/spreadsheets/d/1lyPPPjkQuBEgSRoautad0lGpyDeWOZSMr0ymF2NRkfA/edit#gid=0)
-  - [기술 워크숍 모집 - English](https://docs.google.com/spreadsheets/d/1lyPPPjkQuBEgSRoautad0lGpyDeWOZSMr0ymF2NRkfA/edit#gid=0)
+  - [기술 워크숍 모집 - 한국어](https://docs.google.com/spreadsheets/d/1lyPPPjkQuBEgSRoautad0lGpyDeWOZSMr0ymF2NRkfA/edit#gid=0) - 모집 마감!
+  - [기술 워크숍 모집 - English](https://docs.google.com/spreadsheets/d/1lyPPPjkQuBEgSRoautad0lGpyDeWOZSMr0ymF2NRkfA/edit#gid=0) - Closed!
 
 ### ⊙ 온라인 컨퍼런스
 메인 컨퍼런스의 구두 발표는 온라인 웨비나 플랫폼(Zoom)을 이용해 진행 예정입니다.
   - 일정: 11월 13일 10:00 ~ 18:00(Seoul, South Korea Time)
-  - [구두발표 신청하기 - 한국어](https://forms.gle/9GkJ8bUEEcr5H41w5)
-  - [구두발표 신청하기 - English](https://forms.gle/Bq5otwsbp2Mm3TaC6)
+  - [구두발표 신청하기 - 한국어](https://forms.gle/9GkJ8bUEEcr5H41w5) - 모집 마감!
+  - [구두발표 신청하기 - English](https://forms.gle/Bq5otwsbp2Mm3TaC6) - Closed!
 
 ### ⊙ 연례 총회
 구두 발표가 끝난 후 우리 지부의 연례 총회를 개최 예정입니다. 올해 활동 내용, 재무정보, 올해의 활동가상 및 개발자상 수여식 등을 포함합니다.
