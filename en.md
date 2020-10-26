@@ -16,14 +16,14 @@ This event will be held for the first time on **Online**, and will be divided in
 ### ⊙ Workshop Day
 Online technical workshops are held twice (13:00 ~ 16:00, 16:00 ~ 19:00) and will be adjusted if there are more than three applicants.
   - Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
-  - [Call for Technical Workshop - 한국어](https://docs.google.com/spreadsheets/d/1lyPPPjkQuBEgSRoautad0lGpyDeWOZSMr0ymF2NRkfA/edit#gid=0)
-  - [Call for Technical Workshop - English](https://docs.google.com/spreadsheets/d/1lyPPPjkQuBEgSRoautad0lGpyDeWOZSMr0ymF2NRkfA/edit#gid=0)
+  - [Call for Technical Workshop - 한국어](https://docs.google.com/spreadsheets/d/1lyPPPjkQuBEgSRoautad0lGpyDeWOZSMr0ymF2NRkfA/edit#gid=0) - Closed!
+  - [Call for Technical Workshop - English](https://docs.google.com/spreadsheets/d/1lyPPPjkQuBEgSRoautad0lGpyDeWOZSMr0ymF2NRkfA/edit#gid=0) - Closed!
 
 ### ⊙ Online Main Conference
 The presentation of the main conference will be conducted using the online webinar platform (Zoom).
   - Schedule: 13th November, 10:00 ~ 18:00 (Seoul, South Korea Time)
-  - [Call for Presentations - 한국어](https://forms.gle/9GkJ8bUEEcr5H41w5)
-  - [Call for Presentations - English](https://forms.gle/Bq5otwsbp2Mm3TaC6)
+  - [Call for Presentations - 한국어](https://forms.gle/9GkJ8bUEEcr5H41w5) - Closed!
+  - [Call for Presentations - English](https://forms.gle/Bq5otwsbp2Mm3TaC6) - Closed!
 
 ### ⊙ Annual General Meeting
 There will be OSGeo Korean Chapter's Annual General Meeting after finishing all the sessions. 
