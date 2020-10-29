@@ -1,3 +1,6 @@
+[![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](https://foss4g.osgeo.kr/)
+[![English](https://img.shields.io/badge/language-English-orange.svg)](en)
+
 ## ■ Workshop Day
 Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
 
