@@ -6,44 +6,48 @@ Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
   <thead>
     <tr>
       <th>Time(KST)</th>
-      <th>Language</th>
-      <th>Reader/Organization</th>
+      <th>Contents</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan=5>13:00 ~ 16:00</td>
-      <td>Korean</td>
-      <td><a href="mailto:jinha@purdue.edu">정진하</a>, <a href="mailto:oh231@purdue.edu">오승찬</a> / 퍼듀대학교</td> 
+      <td rowspan=6>13:00 ~ 16:00</td>
+      <td><b>제목: 파이썬을 이용한 라이다 자료 처리</b></td>
     </tr>
     <tr>
-      <td colspan=2><b>제목: 파이썬을 이용한 라이다 자료 처리</b></td>
+      <td>Language: Korean</td>
     </tr>
     <tr>
-      <td colspan=2>Zoom URL: Coming Soon!</td>
+      <td>Reader: <a href="mailto:jinha@purdue.edu">정진하</a>, <a href="mailto:oh231@purdue.edu">오승찬</a> / 퍼듀대학교</td>
     </tr>
     <tr>
-      <td colspan=2>인터넷 연결이 가능한 컴퓨터</td>
+      <td>Zoom URL: Coming Soon!</td>
     </tr>
     <tr>
-      <td colspan=2>.</td>
+      <td>파이썬을 이용한 라이다 자료 처리 실습</td>
     </tr>
     <tr>
-      <td rowspan=5>13:00 ~ 16:00</td>
-      <td>English</td>
-      <td><a href="mailto:chandan.gisnitk@gmail.com">Chandan M C</a> / Indian Institute of Technology Kharagpur</td> 
+      <td>준비물:<br>
+        - 인터넷 연결이 가능한 컴퓨터</td>
     </tr>
     <tr>
-      <td colspan=2><b>Topic: Land use change modelling using Cellular Automata based SLEUTH</b></td>
+      <td rowspan=6>13:00 ~ 16:00</td>
+      <td><b>Topic: Land use change modelling using Cellular Automata based SLEUTH</b></td>
     </tr>
     <tr>
-      <td colspan=2>Zoom URL: Coming Soon!</td>
+      <td>Language: English</td>
     </tr>
     <tr>
-      <td colspan=2>Monitoring urban growth and predicting future scenarios of built up foot print has drawn considerable attention across the globe over last two decades. Researchers have adopted geospatial techniques to quantify, validate and predict urban growth. SLEUTH is one such urban growth model working on the principles of Cellular Automata.  SLEUTH model has been extensively used because of its excellent compatibility, availability of open source files and demo data sets to execute the program. Numerous applications have been reported over different parts of the world to successfully address urban growth planning and management. This workshop offers a unique opportunity to understand, explore and modify source files as per user’s requirement along with hands on training session.</td>
+      <td>Reader: <a href="mailto:chandan.gisnitk@gmail.com">Chandan M C</a> / Indian Institute of Technology Kharagpur</td>
     </tr>
     <tr>
-      <td colspan=2>Requirements for attendees:<br>
+      <td>Zoom URL: Coming Soon!</td>
+    </tr>
+    <tr>
+      <td>Monitoring urban growth and predicting future scenarios of built up foot print has drawn considerable attention across the globe over last two decades. Researchers have adopted geospatial techniques to quantify, validate and predict urban growth. SLEUTH is one such urban growth model working on the principles of Cellular Automata.  SLEUTH model has been extensively used because of its excellent compatibility, availability of open source files and demo data sets to execute the program. Numerous applications have been reported over different parts of the world to successfully address urban growth planning and management. This workshop offers a unique opportunity to understand, explore and modify source files as per user’s requirement along with hands on training session.</td>
+    </tr>
+    <tr>
+      <td>Requirements for attendees:<br>
           - Laptop or a PC (windows/Linux)<br>
           - Download necessary satellite data (If possible)<br> 
           - Download and install GRASS and QGIS from OSGEO website<br>
