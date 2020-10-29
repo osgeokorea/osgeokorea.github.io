@@ -1,6 +1,5 @@
 ## ■ Workshop Day
-Online technical workshops are held twice (13:00 ~ 16:00, 16:00 ~ 19:00) and will be adjusted if there are more than three applicants.
-  - Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
+Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
 
 ### ⊙ Session 1
 <table>
