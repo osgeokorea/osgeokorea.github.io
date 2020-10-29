@@ -15,7 +15,7 @@ Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
     <tr>
       <td rowspan=4>13:00 ~ 16:00</td>
       <td>Korean</td>
-      <td><a href="mailto:jinha@purdue.edu">정진하</a>, <a href="mailto:oh231@purdue.edu">오승찬</a>: 퍼듀대학교</td> 
+      <td><a href="mailto:jinha@purdue.edu">정진하</a>, <a href="mailto:oh231@purdue.edu">오승찬</a> / 퍼듀대학교</td> 
       <td>파이썬을 이용한 라이다 자료 처리</td>
     </tr>
     <tr>
@@ -30,7 +30,7 @@ Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
     <tr>
       <td rowspan=4>13:00 ~ 16:00</td>
       <td>English</td>
-      <td><a href="mailto:chandan.gisnitk@gmail.com">Chandan M C</a>: Indian Institute of Technology Kharagpur</td> 
+      <td><a href="mailto:chandan.gisnitk@gmail.com">Chandan M C</a> / Indian Institute of Technology Kharagpur</td> 
       <td>Land use change modelling using Cellular Automata based SLEUTH</td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@ Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
     <tr>
       <td rowspan=4>16:00 ~ 19:00</td>
       <td>English</td>
-      <td><a href="mailto:c.pousali@yahoo.in">Pousali Chakraborty</a>: ASSRG(Referred by N N Salghuna)</td> 
+      <td><a href="mailto:c.pousali@yahoo.in">Pousali Chakraborty</a> / ASSRG(Referred by N N Salghuna)</td> 
       <td>Effect of UHI on urban microclimate through 3d simulation in Envimet</td>
     </tr>
     <tr>
@@ -86,7 +86,7 @@ Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
     <tr>
       <td rowspan=4>16:00 ~ 19:00</td>
       <td>English</td>
-      <td><a href="mailto:mcarrera@gvsig.com">Mario Carrera</a>: gvSIG Association</td> 
+      <td><a href="mailto:mcarrera@gvsig.com">Mario Carrera</a> / gvSIG Association</td> 
       <td>GIS applied to municipality management</td>
     </tr>
     <tr>
