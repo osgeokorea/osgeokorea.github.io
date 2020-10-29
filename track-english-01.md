@@ -272,6 +272,60 @@ Schedule: 13th November, 10:00 ~ 18:00 (Seoul, South Korea Time)
   </tbody>
 </table>
 
+### Session 5 / Moderator: HaeKyong Kang
+<table>
+  <thead>
+    <tr>
+      <th>Time(KST)</th>
+      <th>Contents</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan=3>16:20~16:40</td>
+      <td><b>Monitoring Forest Change in the Amazon Using Multi-Temporal Remote Sensing Data and Machine Learning Classification on Google Earth Engine</b></td>
+    </tr>
+    <tr>
+      <td>Vasil YORDANOV / Politecnico di Milano</td>
+    </tr>
+    <tr>
+      <td>This work implements an approach for geospatial time-series processing in the analysis of deforestation. The method includes machine learning satellite image classification deployed on the cloud-based processing service Google Earth Engine.  Twenty years of forest dynamics in the Amazonas were analysed where the classified maps were validated against high-resolution imagery through the open-source software CollectEarth. An artificial neural network-based simulation, built thanks to the derived historical forest trends, was implemented to obtain a simulation of the future forest loss. The processing approach is adaptable to different regions and periods of time, allowing also the monitoring of short/long-term implementation of forest preserving policies.</td>
+    </tr>
+    <tr>
+      <td rowspan=3>16:40~17:00</td>
+      <td><b>SIMILE Project: Integrated Lake Water Quality Monitoring</b></td>
+    </tr>
+    <tr>
+      <td>Carlo Andrea Biraghi / Politecnico di Milano</td>
+    </tr>
+    <tr>
+      <td>SIMILE (Informative System for the Integrated Monitoring of Insubric Lakes and their Ecosystems) is an Interreg Italy-Switzerland 2014-2021 project (2019-2022) involving partners from the scientific and technical sector (PoliMI; CNR; SUPSI) and from the institutional one (Lombardy Region; Ticino Canton) working in synergy. The main project goal is the protection of lakes water quality for through a geoinformatic coordination of existing monitoring systems with new open data collection methods. ESA Sentinels images will be integrated with high frequency in situ sensors and VGI produced with a Citizen Science approach. The presentation will illustrate the current project progress status.</td>
+    </tr>
+    <tr>
+      <td rowspan=3>17:00~17:20</td>
+      <td><b>Development of Online QGIS Training Material for UN OpenGIS</b></td>
+    </tr>
+    <tr>
+      <td>Lorenzo Amici / Department of Civil and Environmental Engineering - Politecnico di Milano</td>
+    </tr>
+    <tr>
+      <td>The proposed work presents the development of training material on geo-analysis functions
+          available into the premier FOSS4G QGIS. The material is conceived to be used by the UN
+          OpenGIS Committee (http://www.unopengis.org/unopengis) to train UN staff involved in the
+          peace-keeping operations. The preparation of the material encompasses the definition of
+          hands-on exercises with sample spatial datasets, shared on the Zenodo platform
+          (https://zenodo.org), and the development of documentation source code using the Sphinx
+          Python library for its publication on the Web. The material has been co-design with the Korea
+          Research Institute for Human Settlement and it has been made available online through the Read
+          the Docs hosting platform (https://qgis3-10-geoanalysis-un.readthedocs.io).</td>
+    </tr>
+    <tr>
+      <td>17:20 ~ 17:30</td>
+      <td>Q&A & Coffee Break</td>
+    </tr>
+  </tbody>
+</table>
+
 ### ⊙ OSGeo Korean Chapter AGM
 <table>
   <thead>
@@ -287,4 +341,3 @@ Schedule: 13th November, 10:00 ~ 18:00 (Seoul, South Korea Time)
     </tr>
   </tbody>
 </table>
-
