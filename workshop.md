@@ -63,27 +63,28 @@ Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
   <thead>
     <tr>
       <th>Time(KST)</th>
-      <th>Language</th>
-      <th>Reader/Organization</th>
+      <th>Contents</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan=5>16:00 ~ 19:00</td>
-      <td>English</td>
-      <td><a href="mailto:c.pousali@yahoo.in">Pousali Chakraborty</a> / ASSRG(Referred by N N Salghuna)</td> 
+      <td rowspan=6>16:00 ~ 19:00</td>
+      <td><b>Topic: Effect of UHI on urban microclimate through 3d simulation in Envimet</b></td> 
     </tr>
     <tr>
-      <td colspan=2><b>Topic: Effect of UHI on urban microclimate through 3d simulation in Envimet</b></td>
+      <td>Language: English</td>
     </tr>
     <tr>
-      <td colspan=2>Zoom URL: Coming Soon!</td>
+      <td>Reader: <a href="mailto:c.pousali@yahoo.in">Pousali Chakraborty</a> / ASSRG(Referred by N N Salghuna)</td>
     </tr>
     <tr>
-      <td colspan=2>The difference in land surface temperature (LST) between an urban region and its nearby non–urban region, also known as SUHI, often affect the health and wellbeing of urban population as well as deteriorating the air quality. Along with various spatiotemporal measurement, model simulations are also being used to study the effect of UHI. Envimet is such a 3D simulation software used to observe and monitor the interactions between surface-vegetation-atmosphere, and allows to analyse on a micro-scale perspective based on changing urban character and climatic factors. Envimet has a rising popularity because of its greater accuracy, open source files and user-friendly interface.A large no. of real time situations around the globe have been simulated using Envimet to successfully analyse the issue regarding UHI and find feasible solutions. This workshop aims to deliver an overview through a ppt presentation on the usage and analysis in Envimet to acknowledge the urban heat issue and a hands-on training if no. of attendees exceeds 3.</td>
+      <td>Zoom URL: Coming Soon!</td>
     </tr>
     <tr>
-      <td colspan=2>Requirements for attendees:<br>
+      <td>The difference in land surface temperature (LST) between an urban region and its nearby non–urban region, also known as SUHI, often affect the health and wellbeing of urban population as well as deteriorating the air quality. Along with various spatiotemporal measurement, model simulations are also being used to study the effect of UHI. Envimet is such a 3D simulation software used to observe and monitor the interactions between surface-vegetation-atmosphere, and allows to analyse on a micro-scale perspective based on changing urban character and climatic factors. Envimet has a rising popularity because of its greater accuracy, open source files and user-friendly interface.A large no. of real time situations around the globe have been simulated using Envimet to successfully analyse the issue regarding UHI and find feasible solutions. This workshop aims to deliver an overview through a ppt presentation on the usage and analysis in Envimet to acknowledge the urban heat issue and a hands-on training if no. of attendees exceeds 3.</td>
+    </tr>
+    <tr>
+      <td>Requirements for attendees:<br>
           - Laptop or a PC (windows/Linux)<br>
           - For hands-on training, if participants exceed 3:<br>
           - Stable internet connection<br>
@@ -92,28 +93,30 @@ Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
           - Download weather data for a specific day according to preference/ access WeatherOnline.in</td>
     </tr>
     <tr>
-      <td rowspan=5>16:00 ~ 19:00</td>
-      <td>English</td>
-      <td><a href="mailto:mcarrera@gvsig.com">Mario Carrera</a> / gvSIG Association</td> 
+      <td rowspan=6>16:00 ~ 19:00</td>
+      <td><b>Topic: GIS applied to municipality management</b></td> 
     </tr>
     <tr>
-      <td colspan=2><b>Topic: GIS applied to municipality management</b></td>
+      <td>Language: English</td>
     </tr>
     <tr>
-      <td colspan=2>Zoom URL: Coming Soon!</td>
+      <td>Reader: <a href="mailto:mcarrera@gvsig.com">Mario Carrera</a> / gvSIG Association</td>
     </tr>
     <tr>
-      <td colspan=2>This workshop introduces participants to GIS applied to municipality management. 
+      <td>Zoom URL: Coming Soon!</td>
+    </tr>
+    <tr>
+      <td>This workshop introduces participants to GIS applied to municipality management. 
       Most of the municipalities have their geographic information in CAD format, where it's not easy to have and manage alphanumeric information, and where technicians usually have a lot of different information in a same file, being difficult to manage it because of the file size. 
       At this workshow we will show how to convert this type of layers to a Geographic Information System, adding more information to the new layers. 
       Participants will learn about how to use the main functionalities of a GIS to manage the information of a municipality, for example editing, geoprocessing, or how to connect to the information offered by many of the public administrations through web servers, among other things, using the free and open source software gvSIG Desktop.</td>
     </tr>
     <tr>
-      <td colspan=2>Requirements for attendees:<br>
+      <td>Requirements for attendees:<br>
           - Laptop or a PC (windows/Linux)<br>
-          - For hands-on training, if participants exceed 3: 
-          - Stable internet connection. 
-          - Download gvSIG Desktop portable version (new 2.5.1 final version will be available before the conference). 
+          - For hands-on training, if participants exceed 3: <br>
+          - Stable internet connection. <br>
+          - Download gvSIG Desktop portable version (new 2.5.1 final version will be available before the conference). <br>
           - Data to download will be facilitated. 
     </tr>
   </tbody>
