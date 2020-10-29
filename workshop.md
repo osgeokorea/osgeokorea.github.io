@@ -117,7 +117,7 @@ Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
           - For hands-on training, if participants exceed 3: <br>
           - Stable internet connection. <br>
           - Download gvSIG Desktop portable version (new 2.5.1 final version will be available before the conference). <br>
-          - Data to download will be facilitated. 
+          - Data to download will be facilitated. </td>
     </tr>
   </tbody>
 </table>
