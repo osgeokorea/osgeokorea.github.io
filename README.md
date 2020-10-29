@@ -9,13 +9,11 @@
 2020년 11월 12일(목) ~ 13일(금)
 
 ## ■ 프로그램
-워크숍과 발표자 모집 마감일은 **10월 24일**까지이며 이후 상세 프로그램 확정 후 공지 예정입니다.
 
 ### ⊙ 워크숍 데이
-온라인 기술 워크숍은 2회(13:00 ~ 16:00, 16:00 ~ 19:00)로 진행하며, 기술워크숍 신청이 3개 이상인 경우 조정 예정입니다.
+온라인 기술 워크숍은 2회(13:00 ~ 16:00, 16:00 ~ 19:00)로 진행합니다.
   - 일정: 11월 12일 13:00 ~ 19:00(Seoul, South Korea Time)
-  - [기술 워크숍 모집 - 한국어](https://docs.google.com/spreadsheets/d/1lyPPPjkQuBEgSRoautad0lGpyDeWOZSMr0ymF2NRkfA/edit#gid=0) - 모집 마감!
-  - [기술 워크숍 모집 - English](https://docs.google.com/spreadsheets/d/1lyPPPjkQuBEgSRoautad0lGpyDeWOZSMr0ymF2NRkfA/edit#gid=0) - Closed!
+  - [상세 프로그램](workshop)
 
 ### ⊙ 온라인 컨퍼런스
 메인 컨퍼런스의 구두 발표는 온라인 웨비나 플랫폼(Zoom)을 이용해 진행 예정입니다.
