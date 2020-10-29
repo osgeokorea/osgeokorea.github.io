@@ -3,7 +3,8 @@
 
 ## ■ 온라인 컨퍼런스 - 한국어 트랙
 일정: 11월 13일 10:00 ~ 18:00(Seoul, South Korea Time)  
-Zoom URL: Coming Soon!
+
+**Zoom URL: Coming Soon!**
 
 ### ⊙ 오전 세션
 <table>
@@ -64,7 +65,7 @@ Zoom URL: Coming Soon!
   </thead>
   <tbody>
     <tr>
-      <td rowspan=3>10:30 ~ 11:00</td>
+      <td rowspan=3>13:00 ~ 13:30</td>
       <td><b>OpenDroneMap: The Missing Guide 한국어 번역하기</b></td>
     </tr>
     <tr>
