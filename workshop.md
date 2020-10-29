@@ -21,7 +21,7 @@ Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
       <td>Language: Korean</td>
     </tr>
     <tr>
-      <td>Reader: <a href="mailto:jinha@purdue.edu">정진하</a>, <a href="mailto:oh231@purdue.edu">오승찬</a> / 퍼듀대학교</td>
+      <td>Leader: <a href="mailto:jinha@purdue.edu">정진하</a>, <a href="mailto:oh231@purdue.edu">오승찬</a> / 퍼듀대학교</td>
     </tr>
     <tr>
       <td>Zoom URL: Coming Soon!</td>
@@ -41,7 +41,7 @@ Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
       <td>Language: English</td>
     </tr>
     <tr>
-      <td>Reader: <a href="mailto:chandan.gisnitk@gmail.com">Chandan M C</a> / Indian Institute of Technology Kharagpur</td>
+      <td>Leader: <a href="mailto:chandan.gisnitk@gmail.com">Chandan M C</a> / Indian Institute of Technology Kharagpur</td>
     </tr>
     <tr>
       <td>Zoom URL: Coming Soon!</td>
@@ -78,7 +78,7 @@ Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
       <td>Language: English</td>
     </tr>
     <tr>
-      <td>Reader: <a href="mailto:c.pousali@yahoo.in">Pousali Chakraborty</a> / ASSRG(Referred by N N Salghuna)</td>
+      <td>Leader: <a href="mailto:c.pousali@yahoo.in">Pousali Chakraborty</a> / ASSRG(Referred by N N Salghuna)</td>
     </tr>
     <tr>
       <td>Zoom URL: Coming Soon!</td>
@@ -103,7 +103,7 @@ Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
       <td>Language: English</td>
     </tr>
     <tr>
-      <td>Reader: <a href="mailto:mcarrera@gvsig.com">Mario Carrera</a> / gvSIG Association</td>
+      <td>Leader: <a href="mailto:mcarrera@gvsig.com">Mario Carrera</a> / gvSIG Association</td>
     </tr>
     <tr>
       <td>Zoom URL: Coming Soon!</td>
