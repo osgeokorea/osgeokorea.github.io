@@ -17,7 +17,7 @@ Schedule: 13th November, 10:00 ~ 18:00 (Seoul, South Korea Time)
   <tbody>
     <tr>
       <td>10:00 ~ 10:30</td>
-      <td><b>Code of Conduct / OSGeo Korean Chapter</b></td>
+      <td><b>Opening / Code of Conduct / OSGeo Korean Chapter</b></td>
     </tr>
     <tr>
       <td rowspan=3>10:30 ~ 10:50</td>
