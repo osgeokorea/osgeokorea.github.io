@@ -11,16 +11,14 @@ This event will be held for the first time on **Online**, and will be divided in
 12-13th November 2020
 
 ## ■ Programme
-***The deadline for submissions of technical workshops and presentations is 24th October 2020***
+Online technical workshops and presentation of the main conference will be conducted using the online webinar platform (Zoom).
 
 ### ⊙ Workshop Day
-Online technical workshops are held twice (13:00 ~ 16:00, 16:00 ~ 19:00).
-  - Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
+Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
   - [Technical Workshop Programme](workshop)
 
 ### ⊙ Online Main Conference
-The presentation of the main conference will be conducted using the online webinar platform (Zoom).
-  - Schedule: 13th November, 10:00 ~ 18:00 (Seoul, South Korea Time)
+Schedule: 13th November, 10:00 ~ 18:00 (Seoul, South Korea Time)
   - [Korean Track](track-korean)
   - [English Track 1](track-english-01)
   - [English Track 2](track-english-02)
