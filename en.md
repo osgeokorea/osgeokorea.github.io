@@ -13,6 +13,8 @@ This event will be held for the first time on **Online**, and will be divided in
 ## ■ Programme
 Online technical workshops and presentation of the main conference will be conducted using the online webinar platform (Zoom).
 
+[**Presentation Guidelines**](presentation-guidelines)
+
 ### ⊙ Workshop Day
 Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
   - [Technical Workshop Programme](workshop)
