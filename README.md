@@ -27,7 +27,7 @@
 
 ### ⊙ 연례 총회
 구두 발표가 끝난 후 우리 지부의 연례 총회를 개최 예정입니다. 올해 활동 내용, 재무정보, 올해의 활동가상 및 개발자상 수여식 등을 포함합니다.
-  - 일정: 11월 13일 18:00(Seoul, South Korea Time) ~
+  - 일정: 11월 13일 17:30(Seoul, South Korea Time) ~
   - [2020 연례 총회 - OSGeo Korean Chapter](https://docs.google.com/presentation/d/1tdGaq_xfQuu1uIYcz2EoC-nhbao-vWg3u8JHS2waG4Y/edit?usp=sharing)
 
 ## ■ 올해의 오픈소스 GIS 활동가상과 개발자상
