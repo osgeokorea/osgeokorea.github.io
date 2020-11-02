@@ -1,7 +1,7 @@
 [![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](https://foss4g.osgeo.kr/)
 [![English](https://img.shields.io/badge/language-English-orange.svg)](en)
 
-# FOSS4G Korea 2020: Speaker Guidelines
+# Speaker Guidelines
 [Inform Your Attendance to a Presider](presentation-guidelines#section1) |
 [Presenting Remotely](presentation-guidelines#section2) |
 [Hints and Tips](presentation-guidelines#section3) |
