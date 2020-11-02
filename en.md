@@ -25,7 +25,7 @@ Schedule: 13th November, 10:00 ~ 18:00 (Seoul, South Korea Time)
 
 ### ⊙ Annual General Meeting
 There will be OSGeo Korean Chapter's Annual General Meeting after finishing all the sessions. 
-  - Schedule: 13th November, 18:00 (Seoul, South Korea Time) ~
+  - Schedule: 13th November, 17:30 (Seoul, South Korea Time) ~
   - [OSGeo Korean Chapter 2020 AGM](https://docs.google.com/presentation/d/1tdGaq_xfQuu1uIYcz2EoC-nhbao-vWg3u8JHS2waG4Y/edit?usp=sharing)
 
 ## ■ Sponsors & Registration
