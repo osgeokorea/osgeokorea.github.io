@@ -214,12 +214,13 @@ Schedule: 13th November, 10:00 ~ 18:00 (Seoul, South Korea Time)
       <td>Henrique Koehler / Munich Orientation Convention</td>
     </tr>
     <tr>
-      <td>Nonacademic reference grids A, B, C, 1, 2, 3... are hardly zoomable, so they got unused. Consequently, the State of the Map is: no grid at all (!) and the answer to the question ""where?"" is ""here!"".          www.volksnav.de/YouAreHere.
-          <br>This unworthy situation caused the proliferation of enigmatic location codes, some based on names (!?).             www.volksnav.de/alternatives.
-          <br>A simple standard circle and the activation of our imagination will upgrade the State of the Map and help to create imaginable location codes based on the Time/Space convention: 
-          <br>  - when I look outwards, right hand is clockwise.
-          <br>  www.volksnav.de/r100Seoul  
-          <br>FOSS4G Korea 2020 can have a relevant role on this quantum jump.</td>
+      <td>Nonacademic reference grids A, B, C, 1, 2, 3... are hardly zoomable, so they got unused. Consequently, the State of the Map is a Naked Emperor: no grid at all (!) and the answer to the question "where?" is "here!" www.volksnav.de/YouAreHere.<p>
+        
+This unworthy situation caused the proliferation of enigmatic location codes, some based on names (!?) www.volksnav.de/alternatives.<p>
+  
+A simple standard circle and the rebirth of the Time/Space Convention (when I look outwards, right hand is clockwise) will upgrade the State of the Map, help to create imaginable location codes and help to avoid confusions www.volksnav.de/r100Seoul  www.volksnav.de/confusions .<p>
+  
+FOSS4G Korea 2020 can have a relevant role on this quantum jump.</td>
     </tr>
     <tr>
       <td rowspan=3>15:10~15:30</td>
