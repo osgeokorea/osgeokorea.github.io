@@ -384,7 +384,7 @@ Schedule: 13th November, 10:00 ~ 18:00 (Seoul, South Korea Time)
   </thead>
   <tbody>
     <tr>
-      <td><b>17:30 ~ 18:00</b></td>
+      <td><b>17:40 ~ 18:00</b></td>
       <td><b>OSGeo Korean Chapter</b></td>
     </tr>
   </tbody>
