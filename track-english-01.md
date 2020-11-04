@@ -2,7 +2,7 @@
 [![English](https://img.shields.io/badge/language-English-orange.svg)](en)
 
 ## ■ Online Conference: English Track 01
-Schedule: 13th November, 10:00 ~ 18:00 (Seoul, South Korea Time)
+Schedule: 13th November, 10:00 ~ 17:40 (Seoul, South Korea Time)
 
 **Zoom Channel: Coming Soon!**
 
@@ -45,7 +45,11 @@ Schedule: 13th November, 10:00 ~ 18:00 (Seoul, South Korea Time)
       </td>
     </tr>
     <tr>
-      <td rowspan=3>11:10 ~ 11:30</td>
+      <td>11:10 ~ 11:20</td>
+      <td>Q&A & Coffee Break</td>
+    </tr>
+    <tr>
+      <td rowspan=3>11:20 ~ 11:40</td>
       <td><b>GeoNetwork Orientation</b></td>
     </tr>
     <tr>
@@ -59,20 +63,7 @@ Schedule: 13th November, 10:00 ~ 18:00 (Seoul, South Korea Time)
       </td>
     </tr>
     <tr>
-      <td rowspan=3>11:30 ~ 11:50</td>
-      <td><b>State of GeoNetwork </b></td>
-    </tr>
-    <tr>
-      <td>Jody Garnett / GeoCat BV</td>
-    </tr>
-    <tr>
-      <td>The GeoNetwork team is having a standout year and would love to share what we have been up to! The project is very active, and we have new project steering committee members to introduce. We will report back from our annual user group meeting and code sprint.
-          <br>The highlight is a tour of the two major releases of 2021: GeoNetwork 3.10 in January, and GeoNetwork 4.0.0 in October.  Key architecture changes with a shift to microservies. Results of our user interface sprints, and RnD into accessibility requirements.
-          <br>Attend this presentation for the latest from the GeoNetwork community.
-      </td>
-    </tr>
-    <tr>
-      <td>11:50 ~ 12:00</td>
+      <td>11:40 ~ 12:00</td>
       <td>Q&A & Coffee Break</td>
     </tr>
   </tbody>
@@ -368,8 +359,17 @@ Schedule: 13th November, 10:00 ~ 18:00 (Seoul, South Korea Time)
           the Docs hosting platform (https://qgis3-10-geoanalysis-un.readthedocs.io).</td>
     </tr>
     <tr>
-      <td>17:20 ~ 17:30</td>
-      <td>Q&A & Coffee Break</td>
+      <td rowspan=3>17:20 ~ 17:40</td>
+      <td><b>State of GeoNetwork </b></td>
+    </tr>
+    <tr>
+      <td>Paul, Francois / GeoCat BV</td>
+    </tr>
+    <tr>
+      <td>The GeoNetwork team is having a standout year and would love to share what we have been up to! The project is very active, and we have new project steering committee members to introduce. We will report back from our annual user group meeting and code sprint.
+          <br>The highlight is a tour of the two major releases of 2021: GeoNetwork 3.10 in January, and GeoNetwork 4.0.0 in October.  Key architecture changes with a shift to microservies. Results of our user interface sprints, and RnD into accessibility requirements.
+          <br>Attend this presentation for the latest from the GeoNetwork community.
+      </td>
     </tr>
   </tbody>
 </table>
