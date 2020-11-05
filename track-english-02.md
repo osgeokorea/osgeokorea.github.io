@@ -30,7 +30,7 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, South Korea Time)
       <td><b>Using FOSS to estimate the Land Surface Temperature</b></td>
     </tr>
     <tr>
-      <td>Nishant Raj Tonk / Indian Institute of Technology Kharagpur</td>
+      <td>Nimish Gupta / Indian Institute of Technology Kharagpur</td>
     </tr>
     <tr>
       <td>India is undergoing unprecedented shift towards urbanization and this change is directly correlated with global warming and climate change. Changes to earth's surface characteristics like ruggedness, albedo surface, moisture content, vegetation covers, and structure affect the mechanism for the exchange of radiation and heat between the atmosphere and the surface directly. All this has prompted the surface temperature to increase which is the major contributor to climatic changes across the globe as per the IPCC reports. The earth's land surface temperature (LST) is changing at an alarming pace, that increases the thermal discomfort. The Temperature emissivity Separation maintains the shape of the emissivity spectrum with the help of ELD (Emissivity Log Difference). The main objective of this research is to retrieve LST using FOSS tools and open data of landsat and to improve/test the TES method and demonstrate the application on Kolkata metropolitan area (KMA) in India.</td>
