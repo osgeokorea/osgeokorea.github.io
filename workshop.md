@@ -27,11 +27,34 @@ Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
       <td><b>Zoom URL: Coming Soon!</b></td>
     </tr>
     <tr>
-      <td>파이썬을 이용한 라이다 자료 처리 실습</td>
+      <td>
+       <b>1. LiDAR 101 (10 min)</b><br>
+        - What is LiDAR?<br>
+       <b>2. Installing Conda/Anaconda and configuring Virtual Environments (50 min)</b><br>
+        - Anaconda installation on Windows<br>
+        - Anaconda installation on Mac<br>
+        - Anaconda installation on Linux<br>
+        - Why do we need Virtual Environment?<br>
+        - Setting up a Virtual Environment for LiDAR data processing<br>
+       <b>3. LiDAR file I/O using laspy (60 min)</b><br>
+        - Reading and writing las/laz file<br>
+        - Converting laz to las format<br>
+        - Converting las version<br>
+        - Visualizing las file using Cloud Compare<br>
+         <b>4. Generating raster data from LiDAR (60 min)</b><br>
+        - Generating Digital Surface Model (DSM) from a las file<br>
+        - Generating Normalized Digital Height Model (NDHM) from a las file<br>
+        - Visualizing DSM and NDHM using QGIS<br>
+      </td>
     </tr>
     <tr>
       <td>준비물:<br>
-        - 인터넷 연결이 가능한 컴퓨터</td>
+        - 인터넷 연결이 가능한 컴퓨터<br>
+        - 인터넷이 연결 가능한 컴퓨터 (윈도우즈/맥/리눅스)<br>
+        - 2 GB 이상의 HDD 저장 공간<br>
+        - 안정적인 인터넷 접속 환경<br>
+        - QGIS 3.0 설치<br>
+      </td>
     </tr>
     <tr>
       <td rowspan=6>13:00 ~ 16:00</td>
