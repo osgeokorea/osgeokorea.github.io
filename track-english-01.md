@@ -80,7 +80,8 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, South Korea Time)
   <tbody>
     <tr>
       <td rowspan=3>12:00 ~ 12:20</td>
-      <td><b>Students on Open Source Code</b></td>
+      <td><b>Students on Open Source Code<br>
+OSGeo + GSoC</b></td>
     </tr>
     <tr>
       <td>Vicky Vergara / OSGeo pgRouting</td>
