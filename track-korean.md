@@ -6,6 +6,9 @@
 
 **Zoom URL: Coming Soon!**
 
+### ⊙ 컨퍼런스 참가자 모집
+  - [컨퍼런스 참가 신청하기](https://docs.google.com/spreadsheets/d/17tXKFSD_h0DiQCIEgAv6PuJjkw658DNQjIncPWZc0vY)
+
 ### ⊙ 오전 세션
 <table>
   <thead>
