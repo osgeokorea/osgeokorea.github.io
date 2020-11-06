@@ -17,7 +17,7 @@
 
   - 일정: 11월 12일 13:00 ~ 19:00(Seoul, South Korea Time)
   - [워크숍 프로그램](workshop)
-  - [워크숍 참가 신청하기](https://docs.google.com/spreadsheets/d/1ygO67RO4bmMIYAwCzplNasJ_jQx2yDxrBa_EK9mTmQg)
+  - [워크숍 참가 신청하기](https://forms.gle/LfRUmsXVNvLGjDo97)
 
 ### ⊙ 온라인 컨퍼런스
 온라인 컨퍼런스는 3개의 트랙(한국어 트랙, 영어트랙 1, 2)으로 진행합니다.
@@ -26,7 +26,7 @@
   - [한국어 트랙 프로그램](track-korean)
   - [영어 트랙 1 프로그램](track-english-01)
   - [영어 트랙 2 프로그램](track-english-02)
-  - [컨퍼런스 참가 신청하기](https://docs.google.com/spreadsheets/d/17tXKFSD_h0DiQCIEgAv6PuJjkw658DNQjIncPWZc0vY)
+  - [컨퍼런스 참가 신청하기](https://forms.gle/Jog4Ks2SjbR5gskx9)
 
 ### ⊙ 연례 총회
 구두 발표가 끝난 후 우리 지부의 연례 총회를 개최 예정입니다. 올해 활동 내용, 재무정보, 올해의 활동가상 및 개발자상 수여식 등을 포함합니다.
