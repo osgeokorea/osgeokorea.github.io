@@ -17,6 +17,7 @@ Online technical workshops and presentation of the main conference will be condu
 ### ⊙ Workshop Day
 Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
   - [Technical Workshop Programme](workshop)
+  - [Calls for Workshop Participants](https://docs.google.com/spreadsheets/d/1ygO67RO4bmMIYAwCzplNasJ_jQx2yDxrBa_EK9mTmQg)
 
 ### ⊙ Online Main Conference
 Schedule: 13th November, 10:00 ~ 18:00 (Seoul, South Korea Time)
