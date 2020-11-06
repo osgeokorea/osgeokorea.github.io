@@ -4,7 +4,7 @@
 ## ■ Workshop Day
 Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
 
-This technical workshop will cover 4 topics in:
+We have great 4 workshops as followings. 
   - (Workshop 1: Korean)파이썬을 이용한 라이다 자료 처리 13:00 ~ 16:00(KST)
   - (Workshop 2: English)Land use change modelling using Cellular Automata based SLEUTH 13:00 ~ 16:00(KST)
   - (Workshop 3: English)Effect of UHI on urban microclimate through 3d simulation in Envimet 16:00 ~ 19:00(KST)
@@ -24,7 +24,7 @@ This technical workshop will cover 4 topics in:
   <tbody>
     <tr>
       <td rowspan=6>13:00 ~ 16:00</td>
-      <td><b>Topic 1: 파이썬을 이용한 라이다 자료 처리</b></td>
+      <td><b>Workshop 1: 파이썬을 이용한 라이다 자료 처리</b></td>
     </tr>
     <tr>
       <td>Language: Korean</td>
@@ -67,7 +67,7 @@ This technical workshop will cover 4 topics in:
     </tr>
     <tr>
       <td rowspan=6>13:00 ~ 16:00</td>
-      <td><b>Topic 2: Land use change modelling using Cellular Automata based SLEUTH</b></td>
+      <td><b>Workshop 2: Land use change modelling using Cellular Automata based SLEUTH</b></td>
     </tr>
     <tr>
       <td>Language: English</td>
@@ -104,7 +104,7 @@ This technical workshop will cover 4 topics in:
   <tbody>
     <tr>
       <td rowspan=6>16:00 ~ 19:00</td>
-      <td><b>Topic 3: Effect of UHI on urban microclimate through 3d simulation in Envimet</b></td> 
+      <td><b>Workshop 3: Effect of UHI on urban microclimate through 3d simulation in Envimet</b></td> 
     </tr>
     <tr>
       <td>Language: English</td>
@@ -129,7 +129,7 @@ This technical workshop will cover 4 topics in:
     </tr>
     <tr>
       <td rowspan=6>16:00 ~ 19:00</td>
-      <td><b>Topic 4: GIS applied to municipality management</b></td> 
+      <td><b>Workshop 4: GIS applied to municipality management</b></td> 
     </tr>
     <tr>
       <td>Language: English</td>
