@@ -17,6 +17,7 @@
 
   - 일정: 11월 12일 13:00 ~ 19:00(Seoul, South Korea Time)
   - [워크숍 프로그램](workshop)
+  - [워크숍 참가자 모집-무료](https://docs.google.com/spreadsheets/d/1ygO67RO4bmMIYAwCzplNasJ_jQx2yDxrBa_EK9mTmQg)
 
 ### ⊙ 온라인 컨퍼런스
 온라인 컨퍼런스는 3개의 트랙(한국어 트랙, 영어트랙 1, 2)으로 진행합니다.
