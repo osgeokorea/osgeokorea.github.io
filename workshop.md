@@ -10,7 +10,8 @@ This technical workshop will cover 4 topics in:
   - (Topic 3: English)Effect of UHI on urban microclimate through 3d simulation in Envimet 16:00 ~ 19:00(KST)
   - (Topic 4: English)GIS applied to municipality management 16:00 ~ 19:00(KST)
 
-[Calls for Workshop Participants](https://docs.google.com/spreadsheets/d/1ygO67RO4bmMIYAwCzplNasJ_jQx2yDxrBa_EK9mTmQg)
+### ⊙ Call for Workshop Participants
+  - [Call for Workshop Participants](https://docs.google.com/spreadsheets/d/1ygO67RO4bmMIYAwCzplNasJ_jQx2yDxrBa_EK9mTmQg)
 
 ### ⊙ Session 1
 <table>
