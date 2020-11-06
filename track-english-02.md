@@ -6,6 +6,9 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, South Korea Time)
 
 **Zoom Channel: Coming Soon!**
 
+### ⊙ Call for Conference Participants
+  - [Call for Conference Participants](https://docs.google.com/spreadsheets/d/17tXKFSD_h0DiQCIEgAv6PuJjkw658DNQjIncPWZc0vY)
+
 ### Session 6 / Moderator: HaeKyong Kang
 <table>
   <thead>
