@@ -6,8 +6,8 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, South Korea Time)
 
 **Zoom Channel: Coming Soon!**
 
-### ⊙ Call for Conference Participants
-  - [Call for Conference Participants](https://docs.google.com/spreadsheets/d/17tXKFSD_h0DiQCIEgAv6PuJjkw658DNQjIncPWZc0vY)
+### ⊙ Conference Registration
+  - [Conference Participants Registration](https://forms.gle/Jog4Ks2SjbR5gskx9)
 
 ### Session 1 / Moderator: Kyusung Choi
 <table>
