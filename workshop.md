@@ -11,7 +11,7 @@ We have great 4 workshops as followings.
   - (Workshop 4: English)GIS applied to municipality management 16:00 ~ 19:00(KST)
 
 ### ⊙ Workshop Registration
-  - [Workshop Participants Registration](https://docs.google.com/spreadsheets/d/1ygO67RO4bmMIYAwCzplNasJ_jQx2yDxrBa_EK9mTmQg)
+  - [Workshop Participants Registration](https://forms.gle/LfRUmsXVNvLGjDo97)
 
 ### ⊙ Session 1
 <table>
