@@ -2,7 +2,7 @@
 [![English](https://img.shields.io/badge/language-English-orange.svg)](en)
 
 ## ■ Workshop Day
-Schedule: 12th November, 13:00 ~ 19:00 (Seoul, South Korea Time)
+Schedule: 12th November, 13:00 ~ 19:00 (Seoul, Korea Standard Time)
 
 We have great 4 workshops as followings. 
   - (Workshop 1: Korean)파이썬을 이용한 라이다 자료 처리 13:00 ~ 16:00(KST)
