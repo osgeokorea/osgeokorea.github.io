@@ -367,7 +367,7 @@ OSGeo + GSoC</b></td>
       <td><b>State of GeoNetwork </b></td>
     </tr>
     <tr>
-      <td>Paul, Francois / GeoCat BV</td>
+      <td>Paul van Genuchten, Francois Prunayre / GeoCat B.V.</td>
     </tr>
     <tr>
       <td>The GeoNetwork team is having a standout year and would love to share what we have been up to! The project is very active, and we have new project steering committee members to introduce. We will report back from our annual user group meeting and code sprint.
