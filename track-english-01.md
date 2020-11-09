@@ -2,7 +2,7 @@
 [![English](https://img.shields.io/badge/language-English-orange.svg)](en)
 
 ## ■ Online Conference: English Track 01
-Schedule: 13th November, 10:00 ~ 17:40 (Seoul, South Korea Time)
+Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
 
 **Zoom Channel: Coming Soon!**
 
