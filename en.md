@@ -59,7 +59,7 @@ We sincerely appreciate all the organizations and individuals who have supported
 <a href="http://www.hermesys.co.kr/"><img src="sponsor/hermesys.png" width="121" height="48"></a>
 
 ### ⊙ Personal Sponsorship
-YunJung Jang(University of Seoul)
+YunJung Jang(University of Seoul), Byunghyuk Yu(Korea National Park Service), Eun-soon Park(Seoul Institute)
 
 ## ■ News
 Event news is continuously provided through the homepage, mailing list, Facebook, and Twitter.
