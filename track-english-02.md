@@ -88,7 +88,7 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
   </tbody>
 </table>
 
-### Session 7 / Moderator: Kyusung Choi
+### Session 7 / Moderator: Sanghee Shin
 <table>
   <thead>
     <tr>
@@ -156,7 +156,7 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
   </tbody>
 </table>
 
-### Session 8 / Moderator: Junyoung Choi
+### Session 8 / Moderator: Kyusung Choi
 <table>
   <thead>
     <tr>
