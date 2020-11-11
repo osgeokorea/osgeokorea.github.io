@@ -4,7 +4,7 @@
 ## ■ Online Conference: English Track 01
 Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
 
-**Zoom Channel: Coming Soon!**
+<b>Zoom channel: <a href="https://us02web.zoom.us/j/82528199510">https://us02web.zoom.us/j/82528199510</a></b><br> ※ The webinar attendance passcode will be emailed to registered users only.
 
 ### ⊙ Conference Registration
   - [Conference Participants Registration](https://forms.gle/Jog4Ks2SjbR5gskx9)
@@ -379,6 +379,8 @@ OSGeo + GSoC</b></td>
 </table>
 
 ### ⊙ OSGeo Korean Chapter AGM
+<b>Zoom channel: <a href="https://us02web.zoom.us/j/83329514804">https://us02web.zoom.us/j/83329514804</a></b><br> ※ The webinar attendance passcode will be emailed to registered users only.   
+
 <table>
   <thead>
     <tr>
