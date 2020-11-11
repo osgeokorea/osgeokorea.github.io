@@ -4,7 +4,7 @@
 ## ■ 온라인 컨퍼런스 - 한국어 트랙
 일정: 11월 13일 10:00 ~ 18:00(Seoul, South Korea Time)  
 
-**Zoom URL: Coming Soon!**
+<b>Zoom channel: <a href="https://us02web.zoom.us/j/83329514804">https://us02web.zoom.us/j/83329514804</a></b><br> ※ 컨퍼런스 참석 패스코드는 등록자에 한해서 메일로 발송합니다.
 
 ### ⊙ 컨퍼런스 참가자 모집
   - [컨퍼런스 참가 신청하기](https://forms.gle/Jog4Ks2SjbR5gskx9)
