@@ -29,13 +29,14 @@
   - [컨퍼런스 참가 신청하기](https://forms.gle/Jog4Ks2SjbR5gskx9)
 
 ### ⊙ 연례 총회
-구두 발표가 끝난 후 우리 지부의 연례 총회를 개최 예정입니다. 올해 활동 내용, 재무정보, 올해의 활동가상 및 개발자상 수여식 등을 포함합니다.
+구두 발표가 끝난 후 우리 지부의 연례 총회를 개최 예정입니다. 올해 활동 내용, 재무정보, 올해의 활동가상과 개발자상 수여식 등을 포함합니다.
   - 일정: 11월 13일 17:40 ~ (Seoul, Korea Standard Time)
+  - <b>Zoom 채널: <a href="https://us02web.zoom.us/j/83329514804">https://us02web.zoom.us/j/83329514804</a></b><br> ※ 참석 패스코드는 등록자에 한해서 메일로 발송합니다.
   - [2020 연례 총회 - OSGeo Korean Chapter](https://docs.google.com/presentation/d/1tdGaq_xfQuu1uIYcz2EoC-nhbao-vWg3u8JHS2waG4Y/edit?usp=sharing)
 
-## ■ 올해의 오픈소스 GIS 활동가상과 개발자상
+## ■ 2020년 OSGeo 한국어 지부 공헌상
 2020년부터 OSGeo Korean Chpater에서는 OSGeo Korean Chapter 커뮤니티 회원들의 의견 수렴을 통하여
-한 해 동안 한국어지부와 오픈소스 GIS 분야에서 기여한 2명을 대상으로 연례총회에서 **올해의 활동가상**과 **개발자상**을 수여합니다.
+한 해 동안 한국어지부와 오픈소스 GIS 분야에서 기여한 분을 대상으로 연례총회에서 **올해의 활동가상**과 **개발자상**을 수여합니다.
 
 ## ■ 새소식
 행사 소식은 홈페이지, 메일링 리스트, 페이스북, 트위터 등을 통해 지속적으로 제공합니다.
