@@ -31,7 +31,9 @@
 ### ⊙ 연례 총회
 구두 발표가 끝난 후 우리 지부의 연례 총회를 개최 예정입니다. 올해 활동 내용, 재무정보, 올해의 활동가상과 개발자상 수여식 등을 포함합니다.
   - 일정: 11월 13일 17:40 ~ (Seoul, Korea Standard Time)
-  - <b>Zoom 채널: <a href="https://us02web.zoom.us/j/83329514804">https://us02web.zoom.us/j/83329514804</a></b><br> ※ 참석 패스코드는 등록자에 한해서 메일로 발송합니다.
+  - <b>Zoom 채널: <a href="https://us02web.zoom.us/j/83329514804">https://us02web.zoom.us/j/83329514804</a></b><br> 
+  - ※ 연례총회 Zoom 채널은 컨퍼런스의 한국어 트랙 채널을 사용합니다.
+  - ※ 참석 패스코드는 등록자에 한해서 메일로 발송합니다.
   - [2020 연례 총회 - OSGeo Korean Chapter](https://docs.google.com/presentation/d/1tdGaq_xfQuu1uIYcz2EoC-nhbao-vWg3u8JHS2waG4Y/edit?usp=sharing)
 
 ## ■ 2020년 OSGeo 한국어 지부 공헌상
