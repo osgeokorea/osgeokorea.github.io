@@ -4,7 +4,7 @@
 ## ■ Online Conference: English Track 01
 Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
 
-<b>Zoom channel: <a href="https://us02web.zoom.us/j/82528199510">https://us02web.zoom.us/j/82528199510</a></b><br> ※ The webinar attendance passcode will be emailed to registered users only.
+<b>Zoom channel: <a href=" https://us02web.zoom.us/j/82528199510?pwd=L0hpMWcvK0NaRGVTWkE3QXJhSG9NZz09">https://us02web.zoom.us/j/82528199510</a></b><br> ※ The webinar attendance passcode will be emailed to registered users only.
 
 ### ⊙ Conference Registration
   - [Conference Participants Registration](https://forms.gle/Jog4Ks2SjbR5gskx9)
