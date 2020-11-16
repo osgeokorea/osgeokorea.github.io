@@ -17,7 +17,6 @@
 
   - 일정: 11월 12일 13:00 ~ 19:00(Seoul, Korea Standard Time)
   - [워크숍 프로그램](workshop)
-  - [워크숍 참가 신청하기](https://forms.gle/LfRUmsXVNvLGjDo97)
 
 ### ⊙ 온라인 컨퍼런스
 온라인 컨퍼런스는 3개의 트랙(한국어 트랙, 영어트랙 1, 2)으로 진행합니다.
@@ -26,14 +25,10 @@
   - [한국어 트랙 프로그램](track-korean)
   - [영어 트랙 1 프로그램](track-english-01)
   - [영어 트랙 2 프로그램](track-english-02)
-  - [컨퍼런스 참가 신청하기](https://forms.gle/Jog4Ks2SjbR5gskx9)
 
 ### ⊙ 연례 총회
 구두 발표가 끝난 후 우리 지부의 연례 총회를 개최 예정입니다. 올해 활동 내용, 재무정보, 올해의 활동가상과 개발자상 수여식 등을 포함합니다.
   - 일정: 11월 13일 17:40 ~ (Seoul, Korea Standard Time)
-  - <b>Zoom 채널: <a href="https://us02web.zoom.us/j/83329514804">https://us02web.zoom.us/j/83329514804</a></b><br> 
-  - ※ 연례총회 Zoom 채널은 컨퍼런스의 한국어 트랙 채널을 사용합니다.
-  - ※ 참석 패스코드는 등록자에 한해서 메일로 발송합니다.
   - [2020 연례 총회 - OSGeo Korean Chapter](https://docs.google.com/presentation/d/1tdGaq_xfQuu1uIYcz2EoC-nhbao-vWg3u8JHS2waG4Y/edit?usp=sharing)
 
 ## ■ 2020년 OSGeo 한국어 지부 공헌상
