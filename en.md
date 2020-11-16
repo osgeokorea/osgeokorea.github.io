@@ -17,14 +17,12 @@ Online technical workshops and presentation of the main conference will be condu
 ### ⊙ Workshop Day
 Schedule: 12th November, 13:00 ~ 19:00 (Seoul, Korea Standard Time)
   - [Technical Workshop Programme](workshop)
-  - [Workshop Registration](https://forms.gle/J6r5ip1HLjFS3kKz6)(Free)
 
 ### ⊙ Online Main Conference
 Schedule: 13th November, 10:00 ~ 18:00 (Seoul, Korea Standard Time)
   - [Korean Track](track-korean)
   - [English Track 1](track-english-01)
   - [English Track 2](track-english-02)
-  - [Main Conference Registration](https://forms.gle/SfNFNFtoo6cusx9G7)(Free)
 
 ### ⊙ Annual General Meeting
 There will be OSGeo Korean Chapter's Annual General Meeting after finishing all the sessions. 
