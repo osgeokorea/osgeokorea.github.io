@@ -10,9 +10,6 @@ We have great 4 workshops as followings.
   - (Workshop 3: English)Effect of UHI on urban microclimate through 3d simulation in Envimet 16:00 ~ 19:00(KST)
   - (Workshop 4: English)GIS applied to municipality management 16:00 ~ 19:00(KST)
 
-### ⊙ Workshop Registration
-  - [Workshop Registration](https://forms.gle/LfRUmsXVNvLGjDo97)
-
 ### ⊙ Session 1
 <table>
   <thead>
