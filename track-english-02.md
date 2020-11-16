@@ -4,11 +4,6 @@
 ## ■ Online Conference: English Track 02
 Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
 
-<b>Zoom channel: <a href="https://us02web.zoom.us/j/81677081692?pwd=akdUd28xTFZtNm05Qmo1cXpBOWNuZz09">https://us02web.zoom.us/j/81677081692</a></b><br> ※ The webinar attendance passcode will be emailed to registered users only.
-
-### ⊙ Conference Registration
-  - [Conference Participants Registration](https://forms.gle/Jog4Ks2SjbR5gskx9)
-
 ### Session 6 / Moderator: HaeKyong Kang
 <table>
   <thead>
