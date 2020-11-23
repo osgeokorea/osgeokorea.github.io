@@ -22,17 +22,21 @@
     </tr>
     <tr>
       <td rowspan=3>10:30 ~ 11:00</td>
-      <td><b>내 안의  FOSS</b></td>
+      <td><b>내 안의  FOSS</b>
+          ([slides](slides/korean/내안의_FOSS_FOSS4G_Korea2020_20201113.pdf))
+      </td>
     </tr>
     <tr>
-      <td>정진하 /	Purdue University</td>
+      <td>정진하 / Purdue University</td>
     </tr>
     <tr>
       <td>나의 연구 커리어에서 FOSS 가 어떤 영향을 미쳤는지에 대한 이야기를 공유하고자 합니다.</td>
     </tr>
     <tr>
       <td rowspan=3>11:00 ~ 11:30</td>
-      <td><b>UN의 오픈소스 하이브리드  아키텍처와 UN Open GIS Initiative 동향</b></td>
+      <td><b>UN의 오픈소스 하이브리드  아키텍처와 UN Open GIS Initiative 동향</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>강혜경(HaeKyong Kang) / 국토연구원(Korea Research Institute for Human Settlements)</td>
@@ -42,7 +46,9 @@
     </tr>
     <tr>
       <td rowspan=3>11:30 ~ 12:00</td>
-      <td><b>오픈소스 GIS 교육을 통한 공간정보산업 활성화</b></td>
+      <td><b>오픈소스 GIS 교육을 통한 공간정보산업 활성화</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>권오균, 유성유 / 한국국토정보공사 공간정보아카데미</td>
@@ -64,17 +70,21 @@
   <tbody>
     <tr>
       <td rowspan=3>13:00 ~ 13:30</td>
-      <td><b>OpenDroneMap: The Missing Guide 한국어 번역하기</b></td>
+      <td><b>OpenDroneMap: The Missing Guide 한국어 번역하기</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
-      <td>함상우 /	서울시립대학교 공간정보공학과 센서및모델링연구실</td>
+      <td>함상우 / 서울시립대학교 공간정보공학과 센서및모델링연구실</td>
     </tr>
     <tr>
       <td>오픈드론맵 핵심 개발자인 Piero Toffanin이 저술한 OpenDroneMap: The Missing Guide는 오픈드론맵 사용자를 위한 안내서다. 센서및모델링연구실과 (주)이노팸에서는 국내 오픈드론맵 사용자를 위해 이 책을 한국어로 번역하고 있다. 한국어 번역된 OpenDroneMap: The Missing Guide의 내용을 소개하고, 번역 과정에서 겪은 애로사항과 새롭게 배운 점들을 공유하고자 한다.</td>
     </tr>
     <tr>
       <td rowspan=3>13:30~14:00</td>
-      <td><b>파이썬과 위성영상</b></td>
+      <td><b>파이썬과 위성영상</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>정윤재(Choung Yun-Jae) / (주)지오씨엔아이</td>
@@ -84,7 +94,9 @@
     </tr>
     <tr>
       <td rowspan=3>14:00 ~ 14:30</td>
-      <td><b>맨땅에 헤딩식, 오픈소스기반 엔지니어링 실무에서 활용가능한 어플리케이션 개발경험!</b></td>
+      <td><b>맨땅에 헤딩식, 오픈소스기반 엔지니어링 실무에서 활용가능한 어플리케이션 개발경험!</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>문치국(Jordan Moon) /	동부ENG</td>
@@ -94,7 +106,9 @@
     </tr>
     <tr>
       <td rowspan=3>14:30~15:00</td>
-      <td><b>공간 분석 시각화 플랫폼 PINOGIO 및  모바일 공간 수집 도구 gPocket 리뉴얼 소개</b></td>
+      <td><b>공간 분석 시각화 플랫폼 PINOGIO 및  모바일 공간 수집 도구 gPocket 리뉴얼 소개</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>최형관(Choi Hyeonggwan) /	(주)망고시스템</td>
@@ -108,7 +122,9 @@
     </tr>
     <tr>
       <td rowspan=3>15:30~16:00</td>
-      <td><b>State of OpenGXT: 오픈소스 공간분석 엔진</b></td>
+      <td><b>State of OpenGXT: 오픈소스 공간분석 엔진</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>이민파(Minpa Lee) /(주)망고시스템</td>
@@ -118,7 +134,9 @@
     </tr>
     <tr>
       <td rowspan=3>16:00~16:30</td>
-      <td><b>Web ODM을 이용한 드림업 공간정보 캠프 </b></td>
+      <td><b>Web ODM을 이용한 드림업 공간정보 캠프 </b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>한승연(Han Seung Yeon) / 서울시립대학교 공간정보공학과 센서및모델링연구실</td>
@@ -129,17 +147,21 @@
     </tr>
     <tr>
       <td rowspan=3>16:30~17:00</td>
-      <td><b>데이터 기반의 도시문제 해결 플랫폼 구축 및 활용사례</b></td>
+      <td><b>데이터 기반의 도시문제 해결 플랫폼 구축 및 활용사례</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
-      <td>이준호(Lee Joonho) /	한국토지주택공사</td>
+      <td>이준호(Lee Joonho) / 한국토지주택공사</td>
     </tr>
     <tr>
       <td>다양한 도시문제를 해결하기 위하여 집단지성을 기반으로 한 데이터 분석 플랫폼 구축 사례와 도시문제에 적용한 사례 발표</td>
     </tr>
     <tr>
       <td rowspan=3>17:00 ~ 17:30</td>
-      <td><b>오픈소스 디지털트윈 플랫폼 mago3D 현황 - State of mago3D</b></td>
+      <td><b>오픈소스 디지털트윈 플랫폼 mago3D 현황 - State of mago3D</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>신상희(Sanghee Shin) / 가이아쓰리디(주)</td>

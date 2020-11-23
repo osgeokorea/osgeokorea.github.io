@@ -78,8 +78,9 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
   <tbody>
     <tr>
       <td rowspan=3>12:00 ~ 12:20</td>
-      <td><b>Students on Open Source Code<br>
-OSGeo + GSoC</b></td>
+      <td><b>Students on Open Source Code: OSGeo + GSoC</b>
+          (<a href="https://docs.google.com/presentation/d/e/2PACX-1vS2gLqRUxzenEGo7Dt8dWBpFq9fqwa9rbDM1xV2k_nn3XkXTh31QixodJBkF1hlj-HTpwrOH2JBDP0x/pub?start=false&loop=false&delayms=3000#slide=id.g2afcf537b8_1_260">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>Vicky Vergara / OSGeo pgRouting</td>
@@ -92,7 +93,9 @@ OSGeo + GSoC</b></td>
     </tr>
     <tr>
       <td rowspan=3>12:20 ~12:40</td>
-      <td><b>Resolving Conflicts, Forging Futures with Geodesignhub</b></td>
+      <td><b>Resolving Conflicts, Forging Futures with Geodesignhub</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>Arturo 'Ali' Moreno / Moreno Geodesign Consultants</td>
@@ -113,7 +116,9 @@ OSGeo + GSoC</b></td>
     </tr>
     <tr>
       <td rowspan=3>12:40 ~13:00</td>
-      <td><b>Use cases of Vector Tiles implementation for water utilities in Eastern Africa</b></td>
+      <td><b>Use cases of Vector Tiles implementation for water utilities in Eastern Africa</b> 
+          (<a href="https://docs.google.com/presentation/d/e/2PACX-1vTLVaKKtopofh_tITh_PUSh_tKlYKdjy7RmmJg1O_dSlvG7cKO4FyYJIa9vOPyKfp46PreA1n3LkP-E/pub?start=false&loop=false&delayms=3000">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>Jin IGARASHI / MIERUNE Inc.</td>
@@ -126,7 +131,9 @@ OSGeo + GSoC</b></td>
     </tr>
     <tr>
       <td rowspan=3>13:00~13:20</td>
-      <td><b>A service that allows you to create personal maps in Cesium without coding.</b></td>
+      <td><b>A service that allows you to create personal maps in Cesium without coding.</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>Hidemichi Baba / Eukarya Inc.</td>
@@ -154,7 +161,9 @@ OSGeo + GSoC</b></td>
   <tbody>
     <tr>
       <td rowspan=3>13:20~13:40</td>
-      <td><b>THE SPATIAL PATTERN VISUALIZATION OF POWER UTILIZATION IN INDIA</b></td>
+      <td><b>THE SPATIAL PATTERN VISUALIZATION OF POWER UTILIZATION IN INDIA</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>THANGJAM THOUNGAMBA MEETEI / AvaKaza Geo-Science Research Technologies, Bangalore, India</td>
@@ -173,7 +182,9 @@ OSGeo + GSoC</b></td>
     </tr>
     <tr>
       <td rowspan=3>13:40~14:00</td>
-      <td><b>GEOSPATIAL SOLUTION FOR HUMANITARIAN ASSISTANCE: A proposed GIS based planning and decision making framework for immediate HEALTH aid.</b></td>
+      <td><b>GEOSPATIAL SOLUTION FOR HUMANITARIAN ASSISTANCE: A proposed GIS based planning and decision making framework for immediate HEALTH aid.</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>SNEHA  MANOHARAN</td>
@@ -193,7 +204,9 @@ OSGeo + GSoC</b></td>
     </tr>
     <tr>
       <td rowspan=3>14:00~14:20</td>
-      <td><b>Spatio-Temporal prediction of sharp increase of cybercrime in India</b></td>
+      <td><b>Spatio-Temporal prediction of sharp increase of cybercrime in India</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>Urvee Patel / AvaKaza Geo-Science Research Technologies, Bangalore, India </td>
@@ -205,7 +218,9 @@ OSGeo + GSoC</b></td>
     </tr>
     <tr>
       <td rowspan=3>14:20~14:40</td>
-      <td><b>Open Source Google Earth Platform for computation of Heat Wave Indicators</b></td>
+      <td><b>Open Source Google Earth Platform for computation of Heat Wave Indicators</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>Priyanka Rao / Indian Institute of Remote Sensing, Dehardun</td>
@@ -234,7 +249,9 @@ OSGeo + GSoC</b></td>
   <tbody>
     <tr>
       <td rowspan=3>14:50~15:10</td>
-      <td><b>A simple circle upgrades the State of the Map </b></td>
+      <td><b>A simple circle upgrades the State of the Map </b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>Henrique Koehler / Munich Orientation Convention</td>
@@ -249,7 +266,9 @@ OSGeo + GSoC</b></td>
     </tr>
     <tr>
       <td rowspan=3>15:10~15:30</td>
-      <td><b>HERMOSA - Supporting the UN Decade of Ecosystem Restoration Utilizing Geo- and Remote Sensing Technologies</b></td>
+      <td><b>HERMOSA - Supporting the UN Decade of Ecosystem Restoration Utilizing Geo- and Remote Sensing Technologies</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>Hinrich Paulsen / mundialis GmbH & Co. KG</td>
@@ -265,7 +284,9 @@ OSGeo + GSoC</b></td>
     </tr>
     <tr>
       <td rowspan=3>15;30~15:50</td>
-      <td><b>Spatial Data Infrastructure and Central Address System of Uruguay</b></td>
+      <td><b>Spatial Data Infrastructure and Central Address System of Uruguay</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>Mario Carrera / gvSIG Association</td>
@@ -277,7 +298,9 @@ OSGeo + GSoC</b></td>
     </tr>
     <tr>
       <td rowspan=3>15:50~16:10</td>
-      <td><b>SMASH: digital field mapping for everyone</b></td>
+      <td><b>SMASH: digital field mapping for everyone</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>Silvia Franceschi / HydroloGIS</td>
@@ -312,7 +335,9 @@ OSGeo + GSoC</b></td>
   <tbody>
     <tr>
       <td rowspan=3>16:20~16:40</td>
-      <td><b>Monitoring Forest Change in the Amazon Using Multi-Temporal Remote Sensing Data and Machine Learning Classification on Google Earth Engine</b></td>
+      <td><b>Monitoring Forest Change in the Amazon Using Multi-Temporal Remote Sensing Data and Machine Learning Classification on Google Earth Engine</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>Vasil YORDANOV / Politecnico di Milano</td>
@@ -327,7 +352,9 @@ OSGeo + GSoC</b></td>
     </tr>
     <tr>
       <td rowspan=3>16:40~17:00</td>
-      <td><b>SIMILE Project: Integrated Lake Water Quality Monitoring</b></td>
+      <td><b>SIMILE Project: Integrated Lake Water Quality Monitoring</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>Carlo Andrea Biraghi / Politecnico di Milano</td>
@@ -341,7 +368,9 @@ OSGeo + GSoC</b></td>
     </tr>
     <tr>
       <td rowspan=3>17:00~17:20</td>
-      <td><b>Development of Online QGIS Training Material for UN OpenGIS</b></td>
+      <td><b>Development of Online QGIS Training Material for UN OpenGIS</b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>Lorenzo Amici / Department of Civil and Environmental Engineering - Politecnico di Milano</td>
@@ -359,7 +388,9 @@ OSGeo + GSoC</b></td>
     </tr>
     <tr>
       <td rowspan=3>17:20 ~ 17:40</td>
-      <td><b>State of GeoNetwork </b></td>
+      <td><b>State of GeoNetwork </b>
+          (<a href="#">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>Paul van Genuchten, Francois Prunayre / GeoCat B.V.</td>
@@ -374,7 +405,6 @@ OSGeo + GSoC</b></td>
 </table>
 
 ### ⊙ OSGeo Korean Chapter AGM
-<b>Zoom channel: <a href="https://us02web.zoom.us/j/83329514804">https://us02web.zoom.us/j/83329514804</a></b><br> ※ The webinar attendance passcode will be emailed to registered users only.   
 
 <table>
   <thead>
