@@ -16,7 +16,6 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>12:00~12:20</td>
       <td><b>GIS for City Gas Distribution in India using Open Source Tools -  'A New Normal'</b>
-          (<a href="#">slides</a>)
       </td>
     </tr>
     <tr>
@@ -28,7 +27,7 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>12:20~12:40</td>
       <td><b>Using FOSS to estimate the Land Surface Temperature</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/english02/Nimish_FOSS4G_Korea_2020.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -40,7 +39,7 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>12:40~13:00</td>
       <td><b>IMPACT OF SEA-LEVEL RISING DUE TO GLOBAL WARMING  – A GEOSPALIAL APPROACH </b>
-          (<a href="#">slides</a>)
+          (<a href="slides/english02/SUDHARSAN_SANTHANAKRISHNAN_FOSS4G_Korea_2020.pptx">slides</a>)
       </td>
     </tr>
     <tr>
@@ -59,7 +58,7 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>13:00~13:20</td>
       <td><b>SPATIO-TEMPORAL SHORELINE PREDICITION AND VULNERABILITY ASSESSMENT ALONG THE PARTS OF COROMONDAL COAST, INDIA </b>
-          (<a href="#">slides</a>)
+          (<a href="slides/english02/MIRA_SHIVANI_S_FOSS4G_Korea_2020.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -77,7 +76,7 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>13:20~13:40</td>
       <td><b>GEOSPATIAL DEMARCATION OF CRIME AGAINST WOMEN IN INDIAN CONTEXT</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/english02/RUBINI_M_R_FOSS4G_Korea_2020.pptx">slides</a>)
       </td>
     </tr>
     <tr>
@@ -105,7 +104,6 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>14:00~14:20</td>
       <td><b>Socio-economic inclusion of transgender community through Smart interventions in India</b>
-          (<a href="#">slides</a>)
       </td>
     </tr>
     <tr>
@@ -117,7 +115,6 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>14:20~14:40</td>
       <td><b>Investigating the Effect of Lockdown During COVID-19 on Land Surface Temperature (LST) and Cooling Degree Days (CDD): Study of Paschim Medinipur district in West Bengal. India</b>
-          (<a href="#">slides</a>)
       </td>
     </tr>
     <tr>
@@ -130,7 +127,7 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>14:40~15:00</td>
       <td><b>ASSESSMENT OF URBAN SPATIAL GROWTH FOR TRICHY DISTRICT, TAMINADU FOR BETTER SOLID WASTE MANAGEMENT USING GEOSPATIAL TECHNIQUES G.Meenatchi1, G.Gowtham1, P.M.Vignesh1, B.Dharani1</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/english02/Meenatchi_Gowtham_FOSS4G_Korea_2020.pptx">slides</a>)
       </td>
     </tr>
     <tr>
@@ -143,7 +140,6 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>15:00~15:20</td>
       <td><b>A NOVEL NON – DESTRUCTIVE SELF DESIGNED TECHNIQUE FOR UPSCALING CHOROPHYLL REGION USING DART MODEL</b>
-          (<a href="#">slides</a>)
       </td>
     </tr>
     <tr>
@@ -155,7 +151,6 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>15:20~15:40</td>
       <td><b>Geospatial analysis for powering India for future generations</b>
-          (<a href="#">slides</a>)
       </td>
     </tr>
     <tr>
@@ -183,7 +178,6 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>16:00~16:20</td>
       <td><b>THE GEOSPATIAL REPRESENTATION OF RADICAL NEW VISION OF AIR QUALITY FOR INDIAN CITIES</b>
-          (<a href="#">slides</a>)
       </td>
     </tr>
     <tr>
@@ -196,7 +190,7 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>16:20~16:40</td>
       <td><b>INDIA BREATHES EASY AMID LOCKDOWN – A GEOSPATIAL EVIDENCE</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/english02/Priyam_FOSS4G_Korea_2020.pptx">slides</a>)
       </td>
     </tr>
     <tr>
@@ -209,7 +203,6 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>16:40~17:00</td>
       <td><b>Assessment of physical infrastructure of a hill town: A case study of Gangtok, India</b>
-          (<a href="#">slides</a>)
       </td>
     </tr>
     <tr>
@@ -223,7 +216,6 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>17:00~17:20</td>
       <td><b>Modeling the species of Araku forest using 3D DART model</b>
-          (<a href="#">slides</a>)
       </td>
     </tr>
     <tr>

@@ -94,7 +94,7 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>12:20 ~12:40</td>
       <td><b>Resolving Conflicts, Forging Futures with Geodesignhub</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/english01/MORENO_MGC_FOSS4G_Korea_2020.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -117,7 +117,7 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>12:40 ~13:00</td>
       <td><b>Use cases of Vector Tiles implementation for water utilities in Eastern Africa</b> 
-          (<a href="https://docs.google.com/presentation/d/e/2PACX-1vTLVaKKtopofh_tITh_PUSh_tKlYKdjy7RmmJg1O_dSlvG7cKO4FyYJIa9vOPyKfp46PreA1n3LkP-E/pub?start=false&loop=false&delayms=3000">slides</a>)
+          (<a href="slides/english01/Jin_IGARASHI_FOSS4G_Korea_2020.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -132,7 +132,7 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>13:00~13:20</td>
       <td><b>A service that allows you to create personal maps in Cesium without coding.</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/english01/Hidemichi_Baba_FOSS4G_Korea_2020.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -162,7 +162,6 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>13:20~13:40</td>
       <td><b>THE SPATIAL PATTERN VISUALIZATION OF POWER UTILIZATION IN INDIA</b>
-          (<a href="#">slides</a>)
       </td>
     </tr>
     <tr>
@@ -183,11 +182,11 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>13:40~14:00</td>
       <td><b>GEOSPATIAL SOLUTION FOR HUMANITARIAN ASSISTANCE: A proposed GIS based planning and decision making framework for immediate HEALTH aid.</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/english01/SNEHA_MANOHARAN_FOSS4G_Korea_2020.pptx">slides</a>)
       </td>
     </tr>
     <tr>
-      <td>SNEHA  MANOHARAN</td>
+      <td>SNEHA MANOHARAN</td>
     </tr>
     <tr>
       <td>Many lives face their last breath due to lack of immediate first aid or instant life support. 
@@ -205,7 +204,7 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>14:00~14:20</td>
       <td><b>Spatio-Temporal prediction of sharp increase of cybercrime in India</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/english01/Cyber_Crime_FOSS4G_Korea_2020.pptx">slides</a>)
       </td>
     </tr>
     <tr>
@@ -219,7 +218,7 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>14:20~14:40</td>
       <td><b>Open Source Google Earth Platform for computation of Heat Wave Indicators</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/english01/PriyankaRao_FOSS4G_Korea_2020.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -250,7 +249,8 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>14:50~15:10</td>
       <td><b>A simple circle upgrades the State of the Map </b>
-          (<a href="#">slides</a>)
+          (<a href="slides/english01/SimpleCircle_FOSS4G_Korea_2020.pps">slides</a>) / 
+          (<a href="slides/english01/SimpleCircle_FOSS4G_Korea_2020.mp4">Recording</a>)
       </td>
     </tr>
     <tr>
@@ -267,7 +267,7 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>15:10~15:30</td>
       <td><b>HERMOSA - Supporting the UN Decade of Ecosystem Restoration Utilizing Geo- and Remote Sensing Technologies</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/english01/HERMOSA_FOSS4G_Korea_2020.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -285,7 +285,7 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>15;30~15:50</td>
       <td><b>Spatial Data Infrastructure and Central Address System of Uruguay</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/english01/IDEUY_ENG_Mario_Carrera_FOSS4G_Korea_2020.odp">slides</a>)
       </td>
     </tr>
     <tr>
@@ -299,7 +299,7 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>15:50~16:10</td>
       <td><b>SMASH: digital field mapping for everyone</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/english01/SMASH_FOSS4G_Korea_2020.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -336,7 +336,7 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>16:20~16:40</td>
       <td><b>Monitoring Forest Change in the Amazon Using Multi-Temporal Remote Sensing Data and Machine Learning Classification on Google Earth Engine</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/english01/Vasil_Yordanov_FOSS4G_Korea_2020.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -353,7 +353,7 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>16:40~17:00</td>
       <td><b>SIMILE Project: Integrated Lake Water Quality Monitoring</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/english01/SIMILE_Carlo_Andrea_Biraghi_FOSS4G_Korea_2020.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -369,7 +369,6 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>17:00~17:20</td>
       <td><b>Development of Online QGIS Training Material for UN OpenGIS</b>
-          (<a href="#">slides</a>)
       </td>
     </tr>
     <tr>
@@ -388,8 +387,8 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     </tr>
     <tr>
       <td rowspan=3>17:20 ~ 17:40</td>
-      <td><b>State of GeoNetwork </b>
-          (<a href="#">slides</a>)
+      <td><b>State of GeoNetwork</b>
+          (<a href="slides/english01/StateofGeoNetwork_FOSS4G_Korea_2020.pdf">slides</a>)
       </td>
     </tr>
     <tr>

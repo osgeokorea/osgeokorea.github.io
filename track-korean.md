@@ -23,7 +23,7 @@
     <tr>
       <td rowspan=3>10:30 ~ 11:00</td>
       <td><b>내 안의  FOSS</b>
-          (<a href="slides/korean/%EB%82%B4%EC%95%88%EC%9D%98_FOSS_FOSS4G_Korea2020_20201113.pdf">slides</a>)
+          (<a href="slides/korean/내안의_FOSS_FOSS4G_Korea2020_20201113.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -35,7 +35,7 @@
     <tr>
       <td rowspan=3>11:00 ~ 11:30</td>
       <td><b>UN의 오픈소스 하이브리드  아키텍처와 UN Open GIS Initiative 동향</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/korean/UNOpenGISInitiative_FOSS4G_Korea2020_20201113.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -47,7 +47,6 @@
     <tr>
       <td rowspan=3>11:30 ~ 12:00</td>
       <td><b>오픈소스 GIS 교육을 통한 공간정보산업 활성화</b>
-          (<a href="#">slides</a>)
       </td>
     </tr>
     <tr>
@@ -71,7 +70,7 @@
     <tr>
       <td rowspan=3>13:00 ~ 13:30</td>
       <td><b>OpenDroneMap: The Missing Guide 한국어 번역하기</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/korean/ODM_TMG_FOSS4G_Korea2020_20201113.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -83,7 +82,6 @@
     <tr>
       <td rowspan=3>13:30~14:00</td>
       <td><b>파이썬과 위성영상</b>
-          (<a href="#">slides</a>)
       </td>
     </tr>
     <tr>
@@ -95,11 +93,10 @@
     <tr>
       <td rowspan=3>14:00 ~ 14:30</td>
       <td><b>맨땅에 헤딩식, 오픈소스기반 엔지니어링 실무에서 활용가능한 어플리케이션 개발경험!</b>
-          (<a href="#">slides</a>)
       </td>
     </tr>
     <tr>
-      <td>문치국(Jordan Moon) /	동부ENG</td>
+      <td>문치국(Jordan Moon) / 동부ENG</td>
     </tr>
     <tr>
       <td>엔지니어링 실무에서 GIS데이터을 활용 하기위한 오픈소스기반 어플리케이션 개발 경험에 대해 소개. 어플리케이션은 shp to dxf  파일  변환 SW입니다.</td>
@@ -107,11 +104,11 @@
     <tr>
       <td rowspan=3>14:30~15:00</td>
       <td><b>공간 분석 시각화 플랫폼 PINOGIO 및  모바일 공간 수집 도구 gPocket 리뉴얼 소개</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/korean/PINOGIO_gPocket_FOSS4G_Korea2020_20201113.pdf">slides</a>)
       </td>
     </tr>
     <tr>
-      <td>최형관(Choi Hyeonggwan) /	(주)망고시스템</td>
+      <td>최형관(Choi Hyeonggwan) / (주)망고시스템</td>
     </tr>
     <tr>
       <td>데이터를 편집하고 공간 분석 도구의 다양한 시각화 기법을 쉽게 이용하여, 직관적이고 아름다운 지도를 사용자들에게 공유하는 PINOGIO와 이를 기반으로 오픈 소스 프레임 워크를 사용해 개발된 모바일 공간 수집 도구 어플리케이션 gPocket의 리뉴얼 과정 및 활용 방법을 소개합니다.</td>
@@ -123,7 +120,7 @@
     <tr>
       <td rowspan=3>15:30~16:00</td>
       <td><b>State of OpenGXT: 오픈소스 공간분석 엔진</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/korean/OpenGXT_FOSS4G_Korea2020_20201113.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -135,7 +132,6 @@
     <tr>
       <td rowspan=3>16:00~16:30</td>
       <td><b>Web ODM을 이용한 드림업 공간정보 캠프 </b>
-          (<a href="#">slides</a>)
       </td>
     </tr>
     <tr>
@@ -148,19 +144,19 @@
     <tr>
       <td rowspan=3>16:30~17:00</td>
       <td><b>데이터 기반의 도시문제 해결 플랫폼 구축 및 활용사례</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/korean/COMPAS_FOSS4G_Korea2020_20201113.pdf">slides</a>)
       </td>
     </tr>
     <tr>
       <td>이준호(Lee Joonho) / 한국토지주택공사</td>
     </tr>
     <tr>
-      <td>다양한 도시문제를 해결하기 위하여 집단지성을 기반으로 한 데이터 분석 플랫폼 구축 사례와 도시문제에 적용한 사례 발표</td>
+      <td>다양한 도시문제를 해결하기 위하여 집단지성을 기반으로 한 <a href="https://compas.lh.or.kr/">데이터 분석 플랫폼</a> 구축 사례와 도시문제에 적용한 사례 발표</td>
     </tr>
     <tr>
       <td rowspan=3>17:00 ~ 17:30</td>
       <td><b>오픈소스 디지털트윈 플랫폼 mago3D 현황 - State of mago3D</b>
-          (<a href="#">slides</a>)
+          (<a href="slides/korean/mago3D_FOSS4G_Korea2020_20201113.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -183,7 +179,9 @@
   <tbody>
     <tr>
       <td><b>17:40 ~ 18:00</b></td>
-      <td><b>OSGeo 한국어지부 연례총회 및 올해의 활동가상과 개발자상 시상식</b></td>
+      <td><b>OSGeo 한국어지부 연례총회 및 올해의 활동가상과 개발자상 시상식</b>
+          (<a href="https://docs.google.com/presentation/d/1tdGaq_xfQuu1uIYcz2EoC-nhbao-vWg3u8JHS2waG4Y/edit?usp=sharing">slides</a>)
+      </td>
     </tr>
   </tbody>
 </table>
