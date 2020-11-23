@@ -23,7 +23,7 @@
     <tr>
       <td rowspan=3>10:30 ~ 11:00</td>
       <td><b>내 안의  FOSS</b>
-          ([slides](slides/korean/내안의_FOSS_FOSS4G_Korea2020_20201113.pdf))
+          (<a href="slides/korean/%EB%82%B4%EC%95%88%EC%9D%98_FOSS_FOSS4G_Korea2020_20201113.pdf">slides</a>)
       </td>
     </tr>
     <tr>
