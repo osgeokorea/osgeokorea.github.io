@@ -16,6 +16,7 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>12:00~12:20</td>
       <td><b>GIS for City Gas Distribution in India using Open Source Tools -  'A New Normal'</b>
+          (<a href="slides/english02/Saurabh_Varma_FOSS4G_Korea_2020.pdf">slides</a>)
       </td>
     </tr>
     <tr>

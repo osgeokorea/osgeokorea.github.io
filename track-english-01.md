@@ -19,7 +19,9 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     </tr>
     <tr>
       <td rowspan=3>10:30 ~ 10:50</td>
-      <td><b>State of GeoServer 2.18</b></td>
+      <td><b>State of GeoServer 2.18</b>
+          (<a href="https://docs.google.com/presentation/d/1Q0pHRUcvucAuHDeZPoeDJG4UY5izwbqo8ZawUdk9xYM/edit?usp=drive_web">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>Jody Garnett / GeoCat BV</td>
@@ -31,7 +33,9 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     </tr>
     <tr>
       <td rowspan=3>10:50 ~ 11:10</td>
-      <td><b>GeoServer Orientation</b></td>
+      <td><b>GeoServer Orientation</b>
+          (<a href="https://docs.google.com/presentation/d/1tddYQWjOi6_ui12xVei_kmT_g-Z0d1-422w94HcS40s/edit?usp=drive_web">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>Jody Garnett / GeoCat BV</td>
@@ -48,7 +52,9 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     </tr>
     <tr>
       <td rowspan=3>11:20 ~ 11:40</td>
-      <td><b>GeoNetwork Orientation</b></td>
+      <td><b>GeoNetwork Orientation</b>
+          (<a href="https://docs.google.com/presentation/d/1PPHLmeqS9qWPQeUB64rcQemrIq9Ox_sSrRRkLD59x3Q/edit?usp=drive_web">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>Jody Garnett / GeoCat BV</td>
