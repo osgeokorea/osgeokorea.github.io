@@ -47,6 +47,7 @@
     <tr>
       <td rowspan=3>11:30 ~ 12:00</td>
       <td><b>오픈소스 GIS 교육을 통한 공간정보산업 활성화</b>
+          (<a href="slides/korean/LXEDU_FOSS4G_Korea_2020.pdf">slides</a>)
       </td>
     </tr>
     <tr>

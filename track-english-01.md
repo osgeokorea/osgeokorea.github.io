@@ -188,7 +188,7 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>13:40~14:00</td>
       <td><b>GEOSPATIAL SOLUTION FOR HUMANITARIAN ASSISTANCE: A proposed GIS based planning and decision making framework for immediate HEALTH aid.</b>
-          (<a href="slides/english01/SNEHA_MANOHARAN_FOSS4G_Korea_2020.pptx">slides</a>)
+          (<a href="slides/english01/SNEHA_MANOHARAN_FOSS4G_Korea_2020.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -210,7 +210,7 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>14:00~14:20</td>
       <td><b>Spatio-Temporal prediction of sharp increase of cybercrime in India</b>
-          (<a href="slides/english01/Cyber_Crime_FOSS4G_Korea_2020.pptx">slides</a>)
+          (<a href="slides/english01/Cyber_Crime_FOSS4G_Korea_2020.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -291,7 +291,7 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>15;30~15:50</td>
       <td><b>Spatial Data Infrastructure and Central Address System of Uruguay</b>
-          (<a href="slides/english01/IDEUY_ENG_Mario_Carrera_FOSS4G_Korea_2020.odp">slides</a>)
+          (<a href="slides/english01/IDEUY_ENG_Mario_Carrera_FOSS4G_Korea_2020.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -375,6 +375,7 @@ Schedule: 13th November, 10:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>17:00~17:20</td>
       <td><b>Development of Online QGIS Training Material for UN OpenGIS</b>
+          (<a href="slides/english01/Amici_Lorenzo_FOSS4G_Korea_2020.pdf">slides</a>)
       </td>
     </tr>
     <tr>
