@@ -204,6 +204,7 @@ Schedule: 13th November, 12:00 ~ 17:40 (Seoul, Korea Standard Time)
     <tr>
       <td rowspan=3>16:40~17:00</td>
       <td><b>Assessment of physical infrastructure of a hill town: A case study of Gangtok, India</b>
+          (<a href="slides/english02/Pousali_Chakraborty_FOSS4G_Korea_2020.pdf">slides</a>)
       </td>
     </tr>
     <tr>
