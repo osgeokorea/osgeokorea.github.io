@@ -93,7 +93,7 @@
 FOSS4G Korea 2021 Online 참가자는 FOSS4G Korea 온라인 행동 강령에 따라 타인에 대해 정중하게 행동해야합니다. [Code of Conduct](code-of-conduct).
 
 ## 지난 행사
-  - [FOSS4G Korea 2020](repository/2020/README)
+  - [FOSS4G Korea 2020](repository/2020/)
   - [FOSS4G Korea 2019](https://www.osgeo.kr/272)
   - [FOSS4G Korea 2018](https://www.osgeo.kr/258)
   - [FOSS4G Korea 2018년 이전](https://www.osgeo.kr/)
