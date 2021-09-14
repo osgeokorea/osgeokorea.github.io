@@ -1,39 +1,60 @@
-[![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](https://foss4g.osgeo.kr/)
-[![English](https://img.shields.io/badge/language-English-orange.svg)](en)
+**[OSGeo Korean Chapter](https://www.osgeo.kr/)**의 연례 행사이자 대한민국 오픈소스 GIS 관련 최대 축제인 **FOSS4G Korea 2021** 행사를 **2021년 10월 28일부터 29일**까지 양일간 **온라인**으로 개최합니다.
 
-**[OSGeo Korean Chapter](https://www.osgeo.kr/)**의 연례 행사이자 대한민국 오픈소스 GIS 관련 최대 축제인 **FOSS4G Korea 2020** 행사를 **2020년 11월 12일부터 13일**까지 양일간 개최합니다.
-
-이번 행사는 처음으로 **온라인**으로 개최할 예정이며, **한국어 트랙**과 **영어 트랙**으로 구분하여 진행합니다.
 
 ## ■ 행사 일정
-2020년 11월 12일(목) ~ 13일(금)
+2021년 10월 28일(목) ~ 29일(금)
+
+
+## ■ 슬로건 공모
+**FOSS4G Korea 2021** 행사의 슬로건을 공모합니다. 선정된 분은 10만원 상당의 상품권이 제공됩니다.
+  - 공모 마감일: 9. 23(수) 18:00까지
+  - 공모대상: 오픈소스 GIS를 사용하거나 행사에 참여할 누구나
+  - 작성요건: 25자 이내(20자 이내 권장)
+  - [슬로건 공모하기](https://forms.gle/jzzHwZbNLT1aonRX7)
+
+※ 역대 슬로건
+  - 2020년: BTS: Beyond Time & Space 시공간을 넘어! 
+  - 2019년: learn it; do it; share it;
+  - 2018년: Open Technology, Open Mind, Open Community
+
 
 ## ■ 프로그램
 온라인 기술 워크숍과 메인 컨퍼런스의 구두 발표는 온라인 웨비나 플랫폼(Zoom)을 이용해 진행합니다.
   - [프레젠테이션 지침서](presentation-guidelines)
 
 ### ⊙ 워크숍 데이
-온라인 기술 워크숍은 오전, 오후 각 2회(13:00 ~ 16:00, 16:00 ~ 19:00)씩  4개의 주제로 진행합니다.
+온라인 기술 워크숍은 세션별 2회 2시간 30분(13:00 ~ 15:30, 15:30 ~ 18:00)으로 진행하며, 신청이 4개 이상인 경우 조정 예정입니다.
+  - 일정: 10월 28일 13:00 ~ 19:00
+  
+온라인 기술워크숍 진행자(개인, 단체)를 모집합니다.
+  - 주제: 오픈소스 GIS, 오픈 데이터의 활용법, 노하우 등
+  - 모집 마감일: 10월 8일 18:00까지
+  - 커리큘럼 요건: 온라인(Zoom 이용) 워크숍 진행을 감안한 커리큘럼 구성
+  - [기술워크숍 신청하기](https://forms.gle/DCgMYfA7knU8syUi9)
 
-  - 일정: 11월 12일 13:00 ~ 19:00(Seoul, Korea Standard Time)
-  - [워크숍 프로그램](workshop)
+※ 워크숍 참가 신청은 추후 메일링리스트, 페이스북, 행사 홈페이지를 통해 공지 예정이며, 관심 있는 분들의 많은 참여 바랍니다.
 
-### ⊙ 온라인 컨퍼런스
-온라인 컨퍼런스는 3개의 트랙(한국어 트랙, 영어트랙 1, 2)으로 진행합니다.
+### ⊙ 메인 컨퍼런스
+메인 컨퍼런스는 기조연설, 구두발표(발표자가 많은 경우 2개의 세션으로 분리) 행사로 진행합니다..
+  - 일정: 10월 29일 10:00 ~ 18:00
 
-  - 일정: 11월 13일 10:00 ~ 17:40(Seoul, Korea Standard Time) 
-  - [한국어 트랙 프로그램](track-korean)
-  - [영어 트랙 1 프로그램](track-english-01)
-  - [영어 트랙 2 프로그램](track-english-02)
+구두발표 참가자를 모집합니다.
+  - 주제: 오픈데이터, 오픈소스GIS와 관련한 지식과 경험, 노하우 등
+  - 모집 마감일:10월 18일 18:00까지
+  - [구두발표 신청하기](https://forms.gle/cCfmEdnuMWtmp6vm9)
 
 ### ⊙ 연례 총회
-구두 발표가 끝난 후 우리 지부의 연례 총회를 개최 예정입니다. 올해 활동 내용, 재무정보, 올해의 활동가상과 개발자상 수여식 등을 포함합니다.
-  - 일정: 11월 13일 17:40 ~ (Seoul, Korea Standard Time)
-  - [2020 연례 총회 - OSGeo Korean Chapter](https://docs.google.com/presentation/d/1tdGaq_xfQuu1uIYcz2EoC-nhbao-vWg3u8JHS2waG4Y/edit?usp=sharing)
+구두 발표가 끝난 후 우리 지부의 연례 총회를 개최 예정입니다. 올해 활동 내용, 재무정보, 2021년 OSGeo 한국어 지부 공헌상 수여식 등을 포함합니다.
+  - 일정: 10월 29일 17:40 ~ 18:00
+  - [2021 연례 총회 - OSGeo Korean Chapter](https://docs.google.com/presentation/d/1UonELyyDuqyPCdyImnkxGYvLJ9_unfT9fn_KDzEZFIY/edit?usp=sharing)
 
-## ■ 2020년 OSGeo 한국어 지부 공헌상
-2020년부터 OSGeo Korean Chpater에서는 OSGeo Korean Chapter 커뮤니티 회원들의 의견 수렴을 통하여
-한 해 동안 한국어지부와 오픈소스 GIS 분야에서 기여한 분을 대상으로 연례총회에서 **올해의 활동가상**과 **개발자상**을 수여합니다.
+## ■ 2021년 OSGeo 한국어 지부 공헌상
+2021년부터 OSGeo Korean Chpater에서는 OSGeo Korean Chapter 커뮤니티 회원들의 의견 수렴을 통하여
+한 해 동안 한국어지부와 오픈소스 GIS 분야에서 기여한 분을 대상으로 연례총회에서 **공헌상**을 수여합니다.
+
+후보자 추천을 통해 2021년 올해의 공헌상 수상자는 운영위원회에서 선정할 예정입니다.
+※ 후보자 추천 마감일: 10월 25일 18:00까지
+  - [2021 OSGeo 한국어지부 공헌상 후보자 추천하기](https://forms.gle/y965u5sKUcqiHdxv8)
 
 ## ■ 새소식
 행사 소식은 홈페이지, 메일링 리스트, 페이스북, 트위터 등을 통해 지속적으로 제공합니다.
@@ -42,34 +63,21 @@
   
 ## ■ 참가비 및 후원금 모집
 이번 행사는 별도의 참가비가 없으며, 자발적인 후원금 모집은 다음을 참고하세요.
-  - 후원금 모집 마감일: 11월 6일
+  - 후원금 모집 마감일: 10월 26일
   - 후원금 및 세금계산서 발행 문의: [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) / 031-450-3411
   - 입금계좌: 기업은행 931-028086-04-014  / 예금주: 오에스지오한국어지부
-  - [후원금 모집](sponsor)
+  - [후원금 모집 안내](sponsor)
 
 ## ■ 후원
 후원해 주신 기관 및 개인 모두에게 진심으로 감사드립니다.  
 
 ### ⊙ 플래티넘
-<a href="https://www.dabeeo.com/"><img src="sponsor/dabeeo.png" width="150" height="48"></a>
-<a href="https://gaia3d.com/"><img src="sponsor/gaia3d.png" width="128" height="48"></a>
-<a href="https://www.sjmnc.kr/"><img src="sponsor/sjmnc.png" width="235" height="48"></a>
-<a href="http://www.si-imaging.com/"><img src="sponsor/siis.png" width="230" height="48"></a>
 
 ### ⊙ 골드
-<a href="http://www.mangosystem.com/"><img src="sponsor/mangosystem.png" width="142" height="48"></a>
-<a href=""><img src="sponsor/daea-sce.png" width="161" height="48"></a>
-<a href=""><img src="sponsor/dslab.png" width="164" height="48"></a>
-<a href="http://www.e-three.co.kr/"><img src="sponsor/e-three.png" width="150" height="48"></a>
-<a href="https://www.gntsolution.com/"><img src="sponsor/gntsolution.png" width="178" height="48"></a>
-<a href="http://gisutd.com/"><img src="sponsor/GISUnited.png" width="68" height="60"></a>
-<a href="http://www.ecoflag.co.kr/"><img src="sponsor/ecoflag.png" width="119" height="60"></a>
 
 ### ⊙ 실버
-<a href="http://www.hermesys.co.kr/"><img src="sponsor/hermesys.png" width="121" height="48"></a>
 
 ### ⊙ 개인
-장윤정(서울시립대학교), 박은순(서울연구원), 유병혁(국립공원공단)
 
 ## ■ 조직위원회
 [신상희](shshin@gaia3d.com), [유병혁](bhyu@knps.or.kr), [최준영](novacite@gmail.com), [김지윤](aliasgis@gmail.com), [이준호](juno1238@gmail.com),
@@ -78,11 +86,17 @@
 
 ## ■ 특별한 감사
 행사 지원에 도움 주신 두 분 및 소속사에 진심으로 감사드립니다.
-  - 로고 디자인 및 후원금 모집 팜플렛 제작: [SJ M&C(주)](https://www.sjmnc.kr/) 이다솔님
+  - 로고 디자인 및 후원금 모집 리플렛 제작: [SJ M&C(주)](https://www.sjmnc.kr/) 이다솔님
   - 후원금 관리 및 운영 지원: [(주)Mango System](http://www.mangosystem.com/) 김윤지님
 
 ## ■ 행동강령
-FOSS4G Korea 2020 Online 참가자는 FOSS4G Korea 온라인 행동 강령에 따라 타인에 대해 정중하게 행동해야합니다. [Code of Conduct](code-of-conduct).
+FOSS4G Korea 2021 Online 참가자는 FOSS4G Korea 온라인 행동 강령에 따라 타인에 대해 정중하게 행동해야합니다. [Code of Conduct](code-of-conduct).
+
+## 지난 행사
+  - [FOSS4G Korea 2020](repository/2020/README)
+  - [FOSS4G Korea 2019](https://www.osgeo.kr/272)
+  - [FOSS4G Korea 2018](https://www.osgeo.kr/258)
+  - [FOSS4G Korea 2018년 이전](https://www.osgeo.kr/)
 
 ## 문의
 [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) 또는 [OSGeo Korean Chapter Mailing List](http://groups.google.com/group/osgeo-kr)
