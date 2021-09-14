@@ -1,11 +1,12 @@
 
-**[OSGeo Korean Chapter](https://www.osgeo.kr/)**의 연례 행사이자 대한민국 오픈소스 GIS 관련 최대 축제인 **FOSS4G Korea 2021** 행사를 **2021년 10월 28일부터 29일**까지 양일간 **온라인**으로 개최합니다.
+**[OSGeo Korean Chapter](https://www.osgeo.kr/)**의 연례 행사이자 대한민국 오픈소스 GIS 관련 최대 축제인 **FOSS4G Korea 2021** 행사를 **온라인**으로 개최합니다.
+
+
+## ■ 행사 일정
+ - 2021년 10월 28일(목) ~ 29일(금) / 11월 4(목) ~ 5(금) / 11월 11(목) ~12(금) 중
 
 **공식 행사 일정은 현재 투표 진행중이며, 9월 16일 마감 후 확정/공지합니다.**
   - [행사 일정 투표하기](https://forms.gle/64BMd51VwANkouVXA)
-
-## ■ 행사 일정
- - 2021년 10월 28일(목) ~ 29일(금)
 
 
 ## ■ 슬로건 공모
@@ -83,8 +84,8 @@
 ### ⊙ 개인
 
 ## ■ 조직위원회
-[신상희](shshin@gaia3d.com), [유병혁](bhyu@knps.or.kr), [최준영](novacite@gmail.com), [김지윤](aliasgis@gmail.com), [이준호](juno1238@gmail.com),
-[강혜경](hkkang@krihs.re.kr), [오동하](dongha@bdi.re.kr), [차승훈](kacgung@gmail.com), [윤정환](lenablue12@gmail.com), [최규성](kyusung.choi@gmail.com), 
+[신상희](endofcap@gmail.com), [유병혁](bhyu@knps.or.kr), [최준영](novacite@gmail.com), [김지윤](aliasgis@gmail.com), [이준호](juno1238@gmail.com),
+[강혜경](kang.krihs@gmail.com), [오동하](dongha@bdi.re.kr), [차승훈](kacgung@gmail.com), [윤정환](lenablue12@gmail.com), [최규성](kyusung.choi@gmail.com), 
 [정윤재](choung12osu@gmail.com), [권오균](kok02@lx.or.kr), [이민파](mapplus@gmail.com)
 
 ## ■ 특별한 감사
