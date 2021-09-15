@@ -1,8 +1,5 @@
-[![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](https://foss4g.osgeo.kr/)
-[![English](https://img.shields.io/badge/language-English-orange.svg)](en)
-
-## ■ 온라인 컨퍼런스 - 한국어 트랙
-일정: 11월 13일 10:00 ~ 18:00(Seoul, South Korea Time)  
+## ■ 온라인 컨퍼런스
+일정: 10월 29일 10:00 ~ 18:00
 
 ### ⊙ 오전 세션
 <table>

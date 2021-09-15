@@ -1,8 +1,5 @@
-[![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](https://foss4g.osgeo.kr/)
-[![English](https://img.shields.io/badge/language-English-orange.svg)](en)
-
 ## ■ Workshop Day
-Schedule: 12th November, 13:00 ~ 19:00 (Seoul, Korea Standard Time)
+일정: 10월 28일 13:00 ~ 18:00
 
 We have great 4 workshops as followings. 
   - (Workshop 1: Korean)파이썬을 이용한 라이다 자료 처리 13:00 ~ 16:00(KST)

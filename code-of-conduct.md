@@ -1,9 +1,7 @@
-# Code of Conduct for FOSS4G Korea 2020
-[![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](https://foss4g.osgeo.kr/)
-[![English](https://img.shields.io/badge/language-English-orange.svg)](en)
+# Code of Conduct for FOSS4G Korea Conference
 
 ## 일반 지침
-Zoom은 FOSS4G Korea 2020에 사용되는 온라인 컨퍼런스 플랫폼입니다.
+Zoom은 FOSS4G Korea 온라인 행사에 사용되는 온라인 컨퍼런스 플랫폼입니다.
 
 이 지침은 발표자와 참석자가 즐거운 행사를 가질 수 있도록 돕기 위한 도구로, 모든 플랫폼 및 커뮤니케이션 매체에 적용되는 일반적인 [OSGeo Code of Conduct](https://www.osgeo.org/code_of_conduct/)와 함께 읽어야 합니다.
 
@@ -20,19 +18,19 @@ Zoom은 FOSS4G Korea 2020에 사용되는 온라인 컨퍼런스 플랫폼입니
 주최자와 공동 주최자는 세션 및 프로세스의 기술 및 커뮤니케이션 측면을 관리하고 발표자가 콘텐츠에 집중할 수 있도록 합니다. 
 발표자와 참석자 모두 세션이 원활하게 진행될 수 있도록 문제와 질문을 전달해야합니다.
 
-회의 주최자 또는 공동 주최자는 나쁜 배우 나 트롤을 '보류'또는 '대기실'에 배치 할 권리를 보유합니다. 보류가 해제 될 때까지 통화에 참여할 수 없습니다.
+회의 주최자 또는 공동 주최자는 부적절한 참석자나 트롤을 '보류'또는 '대기실'에 배치 할 권리를 보유합니다. 보류가 해제 될 때까지 통화에 참여할 수 없습니다.
 
 (OSGeo 행동강령에 정의된 대로) 부적절한 행동의 추가 사례가있는 경우 참가자는 프레젠테이션에서 영구적으로 제거됩니다.
 
-FOSS4G Korea 2020 조직위원회는 새로운 참석자가 이벤트에 접근하지 못하도록 완전히 '회의를 잠글'권한을 보유합니다. 
+조직위원회는 새로운 참석자가 이벤트에 접근하지 못하도록 완전히 '회의를 잠글' 권한을 보유합니다. 
 또한 여러 개인이 계속해서 행동 강령을 위반하는 경우 이벤트를 완전히 종료할 권리가 있습니다.
 
 ### 문제 보고
-프레젠테이션 주최자 및 공동 주최자가 처리 할 수없는 문제는 [FOSS4G Korea 2020 e-mail](mailto:osgeo.kr@gmail.com) 또는 조직위원회에 알려 주십시오.
+프레젠테이션 주최자 및 공동 주최자가 처리 할 수없는 문제는 [OSGeo Korean Chapter e-mail](mailto:osgeo.kr@gmail.com) 또는 조직위원회에 알려 주십시오.
 
 ### 회의 녹음
 모든 프레젠테이션은 공개적으로 볼 수 있도록 녹화 및 업로드 됩니다. 프레젠테이션 녹화를 원하지 않거나 프레젠테이션 후 YouTube나 홈페이지에 녹화물 업로드를 원하지 않는 경우
-[FOSS4G Korea 2020 e-mail](mailto:osgeo.kr@gmail.com) 또는 조직위에 미리 알려 주십시오.
+[OSGeo Korean Chapter e-mail](mailto:osgeo.kr@gmail.com) 또는 조직위에 미리 알려 주십시오.
 
 행동 규범 위반이 발생한 것으로 알려진 프레젠테이션은 별도로 처리되며 발표자, 공동 주최자 및 회의 조직위원회가 녹음을 사용할 수 있는지 여부에 대한 공동 결정이 내려집니다.
 
