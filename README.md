@@ -1,24 +1,26 @@
 
 **[OSGeo Korean Chapter](https://www.osgeo.kr/)**의 연례 행사이자 대한민국 오픈소스 GIS 관련 최대 축제인 **FOSS4G Korea 2021** 행사를 **온라인**으로 개최합니다.
 
-## ■ 행사 준비 일정
+## ■ 행사 준비 주요 일정
 
 <table>
   <thead>
     <tr>
       <th>구분</th>
       <th>항목</th>
-      <th>시작일</th>
-      <th>종료일</th>
+      <th>시작</th>
+      <th>마감</th>
+      <th>내용</th>
       <th>상태</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td colspan=2>홈페이지</td>
+      <td colspan=2>행사 홈페이지</td>
       <td>9월 13일</td>
       <td>행사당일</td>
       <td><b><a href="https://foss4g.osgeo.kr">FOSS4G Korea 2021</a></b></td>
+      <td>진행중</td>
     </tr>
     <tr>
       <td>행사일정 확정</td>
@@ -26,12 +28,100 @@
       <td>9월 13일</td>
       <td>9월 16일</td>
       <td><b><a href="https://forms.gle/64BMd51VwANkouVXA">행사일정 투표하기</a></b></td>
+      <td>진행중</td>
+    </tr>
+    <tr>
+      <td rowspan=4>슬로건 선정 및 로고 제작</td>
+      <td>슬로건 공모</td>
+      <td>9월 13일</td>
+      <td>9월 23일</td>
+      <td><b><a href="https://forms.gle/jzzHwZbNLT1aonRX7">슬로건 공모하기</a></b></td>
+      <td>진행중</td>
+    </tr>
+    <tr>
+      <td>슬로건 선정</td>
+      <td>9월 23일</td>
+      <td>9월 27일</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>로고 제작</td>
+      <td>9월 23일</td>
+      <td>9월 27일</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>로고 제작</td>
+      <td>9월 27일</td>
+      <td>9월 30일</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td rowspan=2>워크숍 모집</td>
+      <td>워크숍 진행자 모집</td>
+      <td>9월 16일</td>
+      <td>10월 8일</td>
+      <td><b><a href="https://forms.gle/DCgMYfA7knU8syUi9">기술워크숍 신청하기</a></b></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>워크숍 참가자 등록</td>
+      <td>10월 8일</td>
+      <td>10월 26일</td>
+      <td><b><a href="https://forms.gle/DCgMYfA7knU8syUi9">기술워크숍 등록하기</a></b></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td rowspan=2>구두발표 모집</td>
+      <td>발표자 모집</td>
+      <td>9월 16일</td>
+      <td>10월 18일</td>
+      <td><b><a href="https://forms.gle/cCfmEdnuMWtmp6vm9">구두발표 신청하기</a></b></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>프로그램 확정 및 공지</td>
+      <td>10월 18일</td>
+      <td>10월 19일</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td rowspan=2>행사후원</td>
+      <td>리플렛 제작</td>
+      <td>9월 30일</td>
+      <td>10월 1일</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>후원 모집</td>
+      <td>10월 1일</td>
+      <td>10월 26일</td>
+      <td><b><a href="https://foss4g.osgeo.kr/sponsor">행사후원 안내</a></b></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td rowspan=2>올해의 공헌상</td>
+      <td>추천인 모집</td>
+      <td>9월 16일</td>
+      <td>10월 18일</td>
+      <td><b><a href="https://forms.gle/y965u5sKUcqiHdxv8">공헌상 후보자 추천하기</a></b></td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>수상자 선정</td>
+      <td>10월 18일</td>
+      <td>10월 19일</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     
   </tbody>
 </table>
-
-
 
 ## ■ 행사 일정
  - 2021년 10월 28일(목) ~ 29일(금) / 11월 4(목) ~ 5(금) / 11월 11(목) ~12(금) 중
