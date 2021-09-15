@@ -1,6 +1,37 @@
 
 **[OSGeo Korean Chapter](https://www.osgeo.kr/)**의 연례 행사이자 대한민국 오픈소스 GIS 관련 최대 축제인 **FOSS4G Korea 2021** 행사를 **온라인**으로 개최합니다.
 
+## ■ 행사 준비 일정
+
+<table>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>항목</th>
+      <th>시작일</th>
+      <th>종료일</th>
+      <th>상태</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan=2>홈페이지</td>
+      <td>9월 13일</td>
+      <td>행사당일</td>
+      <td><b><a href="https://foss4g.osgeo.kr">FOSS4G Korea 2021</a></b></td>
+    </tr>
+    <tr>
+      <td>행사일정 확정</td>
+      <td>일정 투표</td>
+      <td>9월 13일</td>
+      <td>9월 16일</td>
+      <td><b><a href="https://forms.gle/64BMd51VwANkouVXA">행사일정 투표하기</a></b></td>
+    </tr>
+    
+  </tbody>
+</table>
+
+
 
 ## ■ 행사 일정
  - 2021년 10월 28일(목) ~ 29일(금) / 11월 4(목) ~ 5(금) / 11월 11(목) ~12(금) 중
