@@ -23,7 +23,7 @@
       <td>진행중</td>
     </tr>
     <tr>
-      <td>행사일정 확정</td>
+      <td>일정 확정</td>
       <td>일정 투표</td>
       <td>9월 13일</td>
       <td>9월 16일</td>
@@ -61,14 +61,14 @@
     </tr>
     <tr>
       <td rowspan=2>워크숍 모집</td>
-      <td>워크숍 진행자 모집</td>
+      <td>진행자 모집</td>
       <td>9월 16일</td>
       <td>10월 8일</td>
       <td><b><a href="https://forms.gle/DCgMYfA7knU8syUi9">기술워크숍 신청하기</a></b></td>
       <td>진행중</td>
     </tr>
     <tr>
-      <td>워크숍 참가자 등록</td>
+      <td>참가자 등록</td>
       <td>10월 8일</td>
       <td>10월 26일</td>
       <td>-</td>
