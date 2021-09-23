@@ -31,7 +31,7 @@
       <td>일정 투표</td>
       <td>9월 13일</td>
       <td>9월 16일</td>
-      <td><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeGft6F708vF_LkudMh5roerX6QB5UvKuXtWN7w5BYM6XlA5g/viewform">행사일정 투표하기</a></b></td>
+      <td><del><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeGft6F708vF_LkudMh5roerX6QB5UvKuXtWN7w5BYM6XlA5g/viewform">행사일정 투표하기</a></b></del></td>
       <td>완료</td>
     </tr>
     <tr>
@@ -156,6 +156,7 @@
 한 해 동안 한국어지부와 오픈소스 GIS 분야에서 기여한 분을 대상으로 연례총회에서 **공헌상**을 수여합니다.
 
 후보자 추천을 통해 2021년 올해의 공헌상 수상자는 운영위원회에서 선정할 예정입니다.
+
 ※ 후보자 추천 마감일: 10월 25일 18:00까지
   - [2021 OSGeo 한국어지부 공헌상 후보자 추천하기](https://docs.google.com/forms/d/e/1FAIpQLScJZNR-BMtdhwT5bna_HCLgJpV5k8TAA7W1TsxxqhWBxOTDWw/viewform)
 
