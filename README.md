@@ -31,33 +31,26 @@
       <td>일정 투표</td>
       <td>9월 13일</td>
       <td>9월 16일</td>
-      <td><b><a href="https://forms.gle/64BMd51VwANkouVXA">행사일정 투표하기</a></b></td>
+      <td><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeGft6F708vF_LkudMh5roerX6QB5UvKuXtWN7w5BYM6XlA5g/viewform">행사일정 투표하기</a></b></td>
       <td>완료</td>
     </tr>
     <tr>
-      <td rowspan=4>슬로건 선정 및 로고 제작</td>
+      <td rowspan=3>슬로건 선정 및 로고 제작</td>
       <td>슬로건 공모</td>
       <td>9월 13일</td>
       <td>9월 23일</td>
-      <td><b><a href="https://forms.gle/jzzHwZbNLT1aonRX7">슬로건 공모하기</a></b></td>
+      <td><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSfEBPfHtl60hB0R-XF5gTMjQTN3qjJpKJcyX0qXKg8oHL3ZPw/viewform">슬로건 공모하기</a></b></td>
+      <td>완료</td>
+    </tr>
+    <tr>
+      <td>슬로건 선정 투표</td>
+      <td>9월 23일</td>
+      <td>9월 27일</td>
+      <td><b><a href="https://docs.google.com/forms/d/e/1FAIpQLScQDXBgZ-cIxZJLwys0PYapwlvchD_whOtMpaiLoS3L3ppXew/viewform">슬로건 투표하기</a></b></td>
       <td>진행중</td>
     </tr>
     <tr>
-      <td>슬로건 선정</td>
-      <td>9월 23일</td>
-      <td>9월 27일</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-    <tr>
       <td>로고 제작</td>
-      <td>9월 23일</td>
-      <td>9월 27일</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>로고 선정</td>
       <td>9월 27일</td>
       <td>9월 30일</td>
       <td>-</td>
@@ -68,7 +61,7 @@
       <td>진행자 모집</td>
       <td>9월 16일</td>
       <td>10월 8일</td>
-      <td><b><a href="https://forms.gle/DCgMYfA7knU8syUi9">기술워크숍 신청하기</a></b></td>
+      <td><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSc2aBxIbCVGRVBWsaOPucmPh_RHDCYO8HU1fj3Xpy8zpb3Jvg/viewform">기술워크숍 신청하기</a></b></td>
       <td>진행중</td>
     </tr>
     <tr>
@@ -83,7 +76,7 @@
       <td>발표자 모집</td>
       <td>9월 16일</td>
       <td>10월 18일</td>
-      <td><b><a href="https://forms.gle/cCfmEdnuMWtmp6vm9">구두발표 신청하기</a></b></td>
+      <td><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdxbtmquzb19TGmxyetyVq73rqhLPu-31Q4pWiwrMseZUIPTg/viewform">구두발표 신청하기</a></b></td>
       <td>진행중</td>
     </tr>
     <tr>
@@ -113,7 +106,7 @@
       <td>추천인 모집</td>
       <td>9월 16일</td>
       <td>10월 18일</td>
-      <td><b><a href="https://forms.gle/y965u5sKUcqiHdxv8">공헌상 후보자 추천하기</a></b></td>
+      <td><b><a href="https://docs.google.com/forms/d/e/1FAIpQLScJZNR-BMtdhwT5bna_HCLgJpV5k8TAA7W1TsxxqhWBxOTDWw/viewform">공헌상 후보자 추천하기</a></b></td>
       <td>진행중</td>
     </tr>
     <tr>
@@ -126,18 +119,6 @@
     
   </tbody>
 </table>
-
-## ■ 슬로건 공모
-**FOSS4G Korea 2021** 행사의 슬로건을 공모합니다. 선정된 분은 10만원 상당의 상품권이 제공됩니다.
-  - 공모 마감일: 9. 23(수) 18:00까지
-  - 공모대상: 오픈소스 GIS를 사용하거나 행사에 참여할 누구나
-  - 작성요건: 25자 이내(20자 이내 권장)
-  - [슬로건 공모하기](https://forms.gle/jzzHwZbNLT1aonRX7)
-
-※ 역대 슬로건
-  - 2020년: BTS: Beyond Time & Space 시공간을 넘어! 
-  - 2019년: learn it; do it; share it;
-  - 2018년: Open Technology, Open Mind, Open Community
 
 
 ## ■ 프로그램
@@ -152,7 +133,7 @@
   - 주제: 오픈소스 GIS, 오픈 데이터의 활용법, 노하우 등
   - 모집 마감일: 10월 8일 18:00까지
   - 커리큘럼 요건: 온라인(Zoom 이용) 워크숍 진행을 감안한 커리큘럼 구성
-  - [기술워크숍 신청하기](https://forms.gle/DCgMYfA7knU8syUi9)
+  - [기술워크숍 신청하기](https://docs.google.com/forms/d/e/1FAIpQLSc2aBxIbCVGRVBWsaOPucmPh_RHDCYO8HU1fj3Xpy8zpb3Jvg/viewform)
 
 ※ 워크숍 참가 신청은 추후 메일링리스트, 페이스북, 행사 홈페이지를 통해 공지 예정이며, 관심 있는 분들의 많은 참여 바랍니다.
 
@@ -163,7 +144,7 @@
 구두발표 참가자를 모집합니다.
   - 주제: 오픈데이터, 오픈소스GIS와 관련한 지식과 경험, 노하우 등
   - 모집 마감일:10월 18일 18:00까지
-  - [구두발표 신청하기](https://forms.gle/cCfmEdnuMWtmp6vm9)
+  - [구두발표 신청하기](https://docs.google.com/forms/d/e/1FAIpQLSdxbtmquzb19TGmxyetyVq73rqhLPu-31Q4pWiwrMseZUIPTg/viewform)
 
 ### ⊙ 연례 총회
 구두 발표가 끝난 후 우리 지부의 연례 총회를 개최 예정입니다. 올해 활동 내용, 재무정보, 2021년 OSGeo 한국어 지부 공헌상 수여식 등을 포함합니다.
@@ -176,7 +157,7 @@
 
 후보자 추천을 통해 2021년 올해의 공헌상 수상자는 운영위원회에서 선정할 예정입니다.
 ※ 후보자 추천 마감일: 10월 25일 18:00까지
-  - [2021 OSGeo 한국어지부 공헌상 후보자 추천하기](https://forms.gle/y965u5sKUcqiHdxv8)
+  - [2021 OSGeo 한국어지부 공헌상 후보자 추천하기](https://docs.google.com/forms/d/e/1FAIpQLScJZNR-BMtdhwT5bna_HCLgJpV5k8TAA7W1TsxxqhWBxOTDWw/viewform)
 
 ## ■ 새소식
 행사 소식은 홈페이지, 메일링 리스트, 페이스북, 트위터 등을 통해 지속적으로 제공합니다.
