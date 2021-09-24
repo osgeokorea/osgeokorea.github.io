@@ -40,7 +40,7 @@
       <td>슬로건 공모</td>
       <td>9월 13일</td>
       <td>9월 23일</td>
-      <td><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSfEBPfHtl60hB0R-XF5gTMjQTN3qjJpKJcyX0qXKg8oHL3ZPw/viewform">슬로건 공모하기</a></b></td>
+      <td><del><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSfEBPfHtl60hB0R-XF5gTMjQTN3qjJpKJcyX0qXKg8oHL3ZPw/viewform">슬로건 공모하기</a></b></del></td>
       <td>완료</td>
     </tr>
     <tr>
