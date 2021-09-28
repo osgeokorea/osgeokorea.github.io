@@ -48,7 +48,7 @@
       <td>9월 23일</td>
       <td>9월 27일</td>
       <td><b><a href="https://docs.google.com/forms/d/e/1FAIpQLScQDXBgZ-cIxZJLwys0PYapwlvchD_whOtMpaiLoS3L3ppXew/viewform">슬로건 투표하기</a></b></td>
-      <td>진행중</td>
+      <td>완료</td>
     </tr>
     <tr>
       <td>로고 제작</td>
