@@ -55,7 +55,7 @@
       <td>9월 27일</td>
       <td>9월 30일</td>
       <td>-</td>
-      <td>-</td>
+      <td>진행중</td>
     </tr>
     <tr>
       <td rowspan=2>워크숍 모집</td>
@@ -70,7 +70,7 @@
       <td>10월 8일</td>
       <td>10월 26일</td>
       <td>-</td>
-      <td>-</td>
+      <td>예정</td>
     </tr>
     <tr>
       <td rowspan=2>구두발표 모집</td>
@@ -85,7 +85,7 @@
       <td>10월 18일</td>
       <td>10월 19일</td>
       <td>-</td>
-      <td>-</td>
+      <td>예정</td>
     </tr>
     <tr>
       <td rowspan=2>행사후원</td>
@@ -93,14 +93,14 @@
       <td>9월 30일</td>
       <td>10월 1일</td>
       <td>-</td>
-      <td>-</td>
+      <td>진행중</td>
     </tr>
     <tr>
       <td>후원 모집</td>
       <td>10월 1일</td>
       <td>10월 26일</td>
       <td><b><a href="https://foss4g.osgeo.kr/sponsor">행사후원 안내</a></b></td>
-      <td>-</td>
+      <td>예정</td>
     </tr>
     <tr>
       <td rowspan=2>올해의 공헌상</td>
@@ -115,7 +115,7 @@
       <td>10월 18일</td>
       <td>10월 19일</td>
       <td>-</td>
-      <td>-</td>
+      <td>예정</td>
     </tr>
     
   </tbody>
