@@ -206,4 +206,4 @@ FOSS4G Korea 2021 Online 참가자는 FOSS4G Korea 온라인 행동 강령에 �
 ## 문의
 [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) 또는 [OSGeo Korean Chapter Mailing List](http://groups.google.com/group/osgeo-kr)
 
-<center><img src="images/osgeo.kr-logo.png" width="300" height="159"></center>
+<center><img src="images/osgeo.kr-2021-logo.png" width="300" height="160"></center>
