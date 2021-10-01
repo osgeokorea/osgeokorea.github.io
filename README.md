@@ -24,7 +24,7 @@
       <td colspan=2>행사 홈페이지</td>
       <td>9월 13일</td>
       <td>행사당일</td>
-      <td><b><a href="https://foss4g.osgeo.kr">FOSS4G Korea 2021</a></b></td>
+      <td>-</td>
       <td>진행중</td>
     </tr>
     <tr>
@@ -55,7 +55,7 @@
       <td>9월 27일</td>
       <td>9월 30일</td>
       <td>-</td>
-      <td>진행중</td>
+      <td>완료</td>
     </tr>
     <tr>
       <td rowspan=2>워크숍 모집</td>
@@ -93,14 +93,14 @@
       <td>9월 30일</td>
       <td>10월 1일</td>
       <td>-</td>
-      <td>진행중</td>
+      <td>완료</td>
     </tr>
     <tr>
       <td>후원 모집</td>
       <td>10월 1일</td>
       <td>10월 26일</td>
       <td><b><a href="https://foss4g.osgeo.kr/sponsor">행사후원 안내</a></b></td>
-      <td>예정</td>
+      <td>진행중</td>
     </tr>
     <tr>
       <td rowspan=2>올해의 공헌상</td>
