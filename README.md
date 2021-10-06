@@ -176,10 +176,6 @@
 ## ■ 후원
 후원해 주신 기관 및 개인 모두에게 진심으로 감사드립니다.
 
-이 행사는 국내 유일 공간정보 전문 교육 기관인 [LX 공간정보 아카데미](https://lxsiedu.or.kr)와 함께합니다.
-
-[<img src="sponsor/lxsiedu.jpg">](https://lxsiedu.or.kr)
-
 ### ⊙ 플래티넘
 
 ### ⊙ 골드
@@ -211,4 +207,5 @@ FOSS4G Korea 2021 Online 참가자는 FOSS4G Korea 온라인 행동 강령에 �
 [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) 또는 [OSGeo Korean Chapter Mailing List](http://groups.google.com/group/osgeo-kr)
 
 
-<center><img src="images/osgeo.kr-2021-logo.png" width="300" height="160"></center>
+이 행사는 국내 유일 공간정보 전문 교육 기관인 [LX 공간정보 아카데미](https://lxsiedu.or.kr)와 함께합니다.    
+<center><img src="images/osgeo.kr-2021-logo.png" width="300" height="160"> [<img src="sponsor/lxsiedu.jpg" width="85" height="160">](https://lxsiedu.or.kr)</center>
