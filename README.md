@@ -177,6 +177,7 @@
 후원해 주신 기관 및 개인 모두에게 진심으로 감사드립니다.
 
 이 행사는 국내 유일 공간정보 전문 교육 기관인 [LX 공간정보 아카데미](https://lxsiedu.or.kr)와 함께합니다.
+
 [<img src="sponsor/lxsiedu.jpg">](https://lxsiedu.or.kr)
 
 ### ⊙ 플래티넘
