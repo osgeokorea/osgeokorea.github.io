@@ -177,12 +177,15 @@
 후원해 주신 기관 및 개인 모두에게 진심으로 감사드립니다.
 
 ### ⊙ 플래티넘
+<a href="https://www.dabeeo.com/"><img src="sponsor/dabeeo.png" width="150" height="48"></a>
+<a href="https://gaia3d.com/"><img src="sponsor/gaia3d.png" width="128" height="48"></a>
 
 ### ⊙ 골드
 
 ### ⊙ 실버
 
 ### ⊙ 개인
+황승식(서울대학교), 오동하(부산연구원), 이동훈(오픈메이트)
 
 ## ■ 조직위원회
 [신상희](endofcap@gmail.com), [유병혁](bhyu@knps.or.kr), [최준영](novacite@gmail.com), [김지윤](aliasgis@gmail.com), [이준호](juno1238@gmail.com),
