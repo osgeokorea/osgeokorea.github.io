@@ -177,7 +177,7 @@
 후원해 주신 기관 및 개인 모두에게 진심으로 감사드립니다.
 
 ### ⊙ 플래티넘
-<a href="https://www.dabeeo.com/"><img src="sponsor/dabeeo.png" width="150" height="48"></a>
+<a href="https://www.dabeeo.com/"><img src="sponsor/dabeeo.png" width="127" height="48"></a>
 <a href="https://gaia3d.com/"><img src="sponsor/gaia3d.png" width="128" height="48"></a>
 
 ### ⊙ 골드
