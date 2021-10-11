@@ -21,43 +21,6 @@
   </thead>
   <tbody>
     <tr>
-      <td colspan=2>행사 홈페이지</td>
-      <td>9월 13일</td>
-      <td>행사당일</td>
-      <td>-</td>
-      <td>진행중</td>
-    </tr>
-    <tr>
-      <td>일정 확정</td>
-      <td>일정 투표</td>
-      <td>9월 13일</td>
-      <td>9월 16일</td>
-      <td><del><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeGft6F708vF_LkudMh5roerX6QB5UvKuXtWN7w5BYM6XlA5g/viewform">행사일정 투표하기</a></b></del></td>
-      <td>완료</td>
-    </tr>
-    <tr>
-      <td rowspan=3>슬로건 선정 및 로고 제작</td>
-      <td>슬로건 공모</td>
-      <td>9월 13일</td>
-      <td>9월 23일</td>
-      <td><del><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSfEBPfHtl60hB0R-XF5gTMjQTN3qjJpKJcyX0qXKg8oHL3ZPw/viewform">슬로건 공모하기</a></b></del></td>
-      <td>완료</td>
-    </tr>
-    <tr>
-      <td>슬로건 선정 투표</td>
-      <td>9월 23일</td>
-      <td>9월 27일</td>
-      <td><del><b><a href="https://docs.google.com/forms/d/e/1FAIpQLScQDXBgZ-cIxZJLwys0PYapwlvchD_whOtMpaiLoS3L3ppXew/viewform">슬로건 투표하기</a></b></del></td>
-      <td>완료</td>
-    </tr>
-    <tr>
-      <td>로고 제작</td>
-      <td>9월 27일</td>
-      <td>9월 30일</td>
-      <td>-</td>
-      <td>완료</td>
-    </tr>
-    <tr>
       <td rowspan=2>워크숍 모집</td>
       <td>진행자 모집</td>
       <td>9월 16일</td>
