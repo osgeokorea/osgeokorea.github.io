@@ -142,8 +142,10 @@
 ### ⊙ 플래티넘
 <a href="https://www.dabeeo.com/"><img src="sponsor/dabeeo.png" width="127" height="48"></a>
 <a href="https://gaia3d.com/"><img src="sponsor/gaia3d.png" width="128" height="48"></a>
+<a href="http://www.mangosystem.com/"><img src="sponsor/mangosystem.png" width="142" height="48"></a>
 
 ### ⊙ 골드
+(주)피너스시스템(김지윤)
 
 ### ⊙ 실버
 
