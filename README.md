@@ -145,9 +145,10 @@
 <a href="http://www.mangosystem.com/"><img src="sponsor/mangosystem.png" width="142" height="48"></a>
 
 ### ⊙ 골드
-(주)피너스시스템(김지윤)
+<a href=""><img src="sponsor/pinus-system.png" width="198" height="48"></a>
 
 ### ⊙ 실버
+<a href=""><img src="sponsor/daea-sce.png" width="161" height="48"></a>
 
 ### ⊙ 개인
 황승식(서울대학교), 오동하(부산연구원), 이동훈(오픈메이트)
