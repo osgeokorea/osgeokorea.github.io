@@ -151,7 +151,7 @@
 <a href=""><img src="sponsor/daea-sce.png" width="161" height="48"></a>
 
 ### ⊙ 개인
-황승식(서울대학교), 오동하(부산연구원), 이동훈(오픈메이트)
+황승식(서울대학교), 오동하(부산연구원), 이동훈(오픈메이트), 박은순(서울연구원)
 
 ## ■ 조직위원회
 [신상희](endofcap@gmail.com), [유병혁](bhyu@knps.or.kr), [최준영](novacite@gmail.com), [김지윤](aliasgis@gmail.com), [이준호](juno1238@gmail.com),
