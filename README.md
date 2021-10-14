@@ -159,4 +159,4 @@ FOSS4G Korea 2021 Online 참가자는 FOSS4G Korea 온라인 행동 강령에 �
 
 이 행사는 국내 유일 공간정보 전문 교육 기관인 [LX 공간정보 아카데미](https://lxsiedu.or.kr)와 함께합니다.    
 <center><a href="https://www.osgeo.kr/"><img src="images/osgeo.kr-2021-logo.png" width="279" height="150"></a>
-<a href="https://lxsiedu.or.kr/"><img src="images/lxsiedu-logo.png" width="186" height="150"></a></center>
+<a href="https://lxsiedu.or.kr/"><img src="sponsor/lxsiedu-logo.png" width="186" height="150"></a></center>
