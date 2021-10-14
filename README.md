@@ -21,19 +21,12 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan=2>워크숍 모집</td>
-      <td>진행자 모집</td>
-      <td>9월 16일</td>
-      <td>10월 8일</td>
-      <td><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSc2aBxIbCVGRVBWsaOPucmPh_RHDCYO8HU1fj3Xpy8zpb3Jvg/viewform">기술워크숍 신청하기</a></b></td>
-      <td>진행중</td>
-    </tr>
-    <tr>
+      <td>기술 워크숍</td>
       <td>참가자 등록</td>
       <td>10월 8일</td>
       <td>10월 26일</td>
-      <td>-</td>
-      <td>예정</td>
+      <td><b><a href="https://foss4g.osgeo.kr/workshop">워크숍 등록하기</a></b></td>
+      <td>진행중</td>
     </tr>
     <tr>
       <td rowspan=2>구두발표 모집</td>
@@ -90,16 +83,9 @@
   - [프레젠테이션 지침서](presentation-guidelines)
 
 ### ⊙ 워크숍 데이
-온라인 기술 워크숍은 세션별 2회 2시간 30분(13:00 ~ 15:30, 15:30 ~ 18:00)으로 진행하며, 신청이 4개 이상인 경우 조정 예정입니다.
-  - 일정: 10월 28일 13:00 ~ 19:00
-  
-온라인 기술워크숍 진행자(개인, 단체)를 모집합니다.
-  - 주제: 오픈소스 GIS, 오픈 데이터의 활용법, 노하우 등
-  - 모집 마감일: 10월 8일 18:00까지
-  - 커리큘럼 요건: 온라인(Zoom 이용) 워크숍 진행을 감안한 커리큘럼 구성
-  - [기술워크숍 신청하기](https://docs.google.com/forms/d/e/1FAIpQLSc2aBxIbCVGRVBWsaOPucmPh_RHDCYO8HU1fj3Xpy8zpb3Jvg/viewform)
-
-※ 워크숍 참가 신청은 추후 메일링리스트, 페이스북, 행사 홈페이지를 통해 공지 예정이며, 관심 있는 분들의 많은 참여 바랍니다.
+온라인 기술 워크숍은 세션별 2회 2시간 30분(13:00 ~ 15:30, 15:30 ~ 18:00)으로 진행합니다.
+  - 일정: 10월 28일 13:00 ~ 18:00
+  - [워크숍 프로그램 및 참가 신청하기](workshop)
 
 ### ⊙ 메인 컨퍼런스
 메인 컨퍼런스는 기조연설, 구두발표(발표자가 많은 경우 2개의 세션으로 분리) 행사로 진행합니다..
@@ -109,6 +95,8 @@
   - 주제: 오픈데이터, 오픈소스GIS와 관련한 지식과 경험, 노하우 등
   - 모집 마감일:10월 18일 18:00까지
   - [구두발표 신청하기](https://docs.google.com/forms/d/e/1FAIpQLSdxbtmquzb19TGmxyetyVq73rqhLPu-31Q4pWiwrMseZUIPTg/viewform)
+
+※ 메인 컨퍼런스의 세부 프로그램은 10월 19일 정식 공지 예정입니다.
 
 ### ⊙ 연례 총회
 구두 발표가 끝난 후 우리 지부의 연례 총회를 개최 예정입니다. 올해 활동 내용, 재무정보, 2021년 OSGeo 한국어 지부 공헌상 수여식 등을 포함합니다.
