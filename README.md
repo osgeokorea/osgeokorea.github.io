@@ -44,14 +44,7 @@
       <td>예정</td>
     </tr>
     <tr>
-      <td rowspan=2>행사후원</td>
-      <td>리플렛 제작</td>
-      <td>9월 30일</td>
-      <td>10월 1일</td>
-      <td>-</td>
-      <td>완료</td>
-    </tr>
-    <tr>
+      <td>행사후원</td>
       <td>후원 모집</td>
       <td>10월 1일</td>
       <td>10월 26일</td>
