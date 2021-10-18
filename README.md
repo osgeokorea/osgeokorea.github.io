@@ -142,8 +142,8 @@
 
 ## ■ 특별한 감사
 행사 지원에 도움 주신 두 분 및 소속사에 진심으로 감사드립니다.
-  - 로고 디자인 및 후원금 모집 리플렛 제작: [SJ M&C(주)](https://www.sjmnc.kr/) 장혜인/이다솔/권혜영님
-  - 후원금 관리 및 운영 지원: [(주)Mango System](http://www.mangosystem.com/) 김윤지님
+  - 로고 디자인 및 후원금 모집 리플렛 제작: [(주)에코플래그](http://www.ecoflag.co.kr/) 장혜인/이다솔/권혜영님
+  - 후원금 관리 및 운영 지원: [(주)망고시스템](http://www.mangosystem.com/) 김윤지님
 
 ## ■ 행동강령
 FOSS4G Korea 2021 Online 참가자는 FOSS4G Korea 온라인 행동 강령에 따라 타인에 대해 정중하게 행동해야합니다. [Code of Conduct](code-of-conduct).
