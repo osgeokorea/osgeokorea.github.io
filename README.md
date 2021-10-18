@@ -32,14 +32,14 @@
       <td rowspan=2>구두발표 모집</td>
       <td>발표자 모집</td>
       <td>9월 16일</td>
-      <td>10월 18일</td>
+      <td>10월 25일</td>
       <td><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdxbtmquzb19TGmxyetyVq73rqhLPu-31Q4pWiwrMseZUIPTg/viewform">구두발표 신청하기</a></b></td>
       <td>진행중</td>
     </tr>
     <tr>
       <td>프로그램 확정 및 공지</td>
-      <td>10월 18일</td>
-      <td>10월 19일</td>
+      <td>10월 25일</td>
+      <td>10월 25일</td>
       <td>-</td>
       <td>예정</td>
     </tr>
@@ -55,14 +55,14 @@
       <td rowspan=2>올해의 공헌상</td>
       <td>추천인 모집</td>
       <td>9월 16일</td>
-      <td>10월 18일</td>
+      <td>10월 20일</td>
       <td><b><a href="https://docs.google.com/forms/d/e/1FAIpQLScJZNR-BMtdhwT5bna_HCLgJpV5k8TAA7W1TsxxqhWBxOTDWw/viewform">공헌상 후보자 추천하기</a></b></td>
       <td>진행중</td>
     </tr>
     <tr>
       <td>수상자 선정</td>
-      <td>10월 18일</td>
-      <td>10월 19일</td>
+      <td>10월 20일</td>
+      <td>10월 21일</td>
       <td>-</td>
       <td>예정</td>
     </tr>
@@ -86,10 +86,10 @@
 
 구두발표 참가자를 모집합니다.
   - 주제: 오픈데이터, 오픈소스GIS와 관련한 지식과 경험, 노하우 등
-  - 모집 마감일:10월 18일 18:00까지
+  - 모집 마감일:10월 25일 18:00까지
   - [구두발표 신청하기](https://docs.google.com/forms/d/e/1FAIpQLSdxbtmquzb19TGmxyetyVq73rqhLPu-31Q4pWiwrMseZUIPTg/viewform)
 
-※ 메인 컨퍼런스의 세부 프로그램은 10월 19일 정식 공지 예정입니다.
+※ 메인 컨퍼런스의 세부 프로그램은 10월 25일 정식 공지 예정입니다.
 
 ### ⊙ 연례 총회
 구두 발표가 끝난 후 우리 지부의 연례 총회를 개최 예정입니다. 올해 활동 내용, 재무정보, 2021년 OSGeo 한국어 지부 공헌상 수여식 등을 포함합니다.
@@ -102,7 +102,7 @@
 
 후보자 추천을 통해 2021년 올해의 공헌상 수상자는 운영위원회에서 선정할 예정입니다.
 
-※ 후보자 추천 마감일: 10월 25일 18:00까지
+※ 후보자 추천 마감일: 10월 20일 18:00까지
   - [2021 OSGeo 한국어지부 공헌상 후보자 추천하기](https://docs.google.com/forms/d/e/1FAIpQLScJZNR-BMtdhwT5bna_HCLgJpV5k8TAA7W1TsxxqhWBxOTDWw/viewform)
 
 ## ■ 새소식
@@ -133,7 +133,7 @@
 <a href=""><img src="sponsor/daea-sce.png" width="161" height="48"></a>
 
 ### ⊙ 개인
-황승식(서울대학교), 오동하(부산연구원), 이동훈(오픈메이트), 박은순(서울연구원), 이준호(LH 한국토지주택공사)
+황승식(서울대학교), 오동하(부산연구원), 이동훈(오픈메이트), 박은순(서울연구원), 이준호(LH 한국토지주택공사), 박광진
 
 ## ■ 조직위원회
 [신상희](endofcap@gmail.com), [유병혁](bhyu@knps.or.kr), [최준영](novacite@gmail.com), [김지윤](aliasgis@gmail.com), [이준호](juno1238@gmail.com),
