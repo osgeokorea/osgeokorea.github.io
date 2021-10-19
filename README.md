@@ -124,7 +124,8 @@
 <a href="https://www.dabeeo.com/"><img src="sponsor/dabeeo.png" width="127" height="48"></a>
 <a href="https://gaia3d.com/"><img src="sponsor/gaia3d.png" width="128" height="48"></a>
 <a href="http://www.mangosystem.com/"><img src="sponsor/mangosystem.png" width="142" height="48"></a>
-<a href="https://lxsiedu.or.kr/"><img src="sponsor/lxsieud.png" width="281" height="48"></a>
+<a href="https://lxsiedu.or.kr/"><img src="sponsor/lxsieud.png" width="135" height="48"></a>
+<a href="http://gisutd.com/"><img src="sponsor/GISUnited.png" width="68" height="60"></a>
 
 ### ⊙ 골드
 <a href=""><img src="sponsor/pinus-system.png" width="198" height="48"></a>
@@ -161,4 +162,4 @@ FOSS4G Korea 2021 Online 참가자는 FOSS4G Korea 온라인 행동 강령에 �
 
 이 행사는 국내 유일 공간정보 전문 교육 기관인 [LX 공간정보 아카데미](https://lxsiedu.or.kr)와 함께합니다.    
 <center><a href="https://www.osgeo.kr/"><img src="images/osgeo.kr-2021-logo.png" width="279" height="150"></a>
-<a href="https://lxsiedu.or.kr/"><img src="sponsor/lxsiedu-logo.png" width="186" height="150"></a></center>
+<a href="https://lxsiedu.or.kr/"><img src="sponsor/lxsiedu-logo.png" width="423" height="150"></a></center>
