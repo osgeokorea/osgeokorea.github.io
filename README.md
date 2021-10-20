@@ -51,22 +51,6 @@
       <td><b><a href="https://foss4g.osgeo.kr/sponsor">행사후원 안내</a></b></td>
       <td>진행중</td>
     </tr>
-    <tr>
-      <td rowspan=2>올해의 공헌상</td>
-      <td>추천인 모집</td>
-      <td>9월 16일</td>
-      <td>10월 20일</td>
-      <td><b><a href="https://docs.google.com/forms/d/e/1FAIpQLScJZNR-BMtdhwT5bna_HCLgJpV5k8TAA7W1TsxxqhWBxOTDWw/viewform">공헌상 후보자 추천하기</a></b></td>
-      <td>진행중</td>
-    </tr>
-    <tr>
-      <td>수상자 선정</td>
-      <td>10월 20일</td>
-      <td>10월 21일</td>
-      <td>-</td>
-      <td>예정</td>
-    </tr>
-    
   </tbody>
 </table>
 
