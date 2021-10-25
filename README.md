@@ -23,7 +23,7 @@
 ### ⊙ 연례 총회
 구두 발표가 끝난 후 우리 지부의 연례 총회를 개최 예정입니다. 올해 활동 내용, 재무정보, 2021년 OSGeo 한국어 지부 공헌상 수여식 등을 포함합니다.
   - 일정: 10월 29일 17:30 ~ 18:00
-  - [2021 연례 총회 - OSGeo Korean Chapter](https://docs.google.com/presentation/d/1UonELyyDuqyPCdyImnkxGYvLJ9_unfT9fn_KDzEZFIY/edit?usp=sharing)
+  - [2021 연례 총회 - OSGeo Korean Chapter](https://docs.google.com/presentation/d/1UonELyyDuqyPCdyImnkxGYvLJ9_unfT9fn_KDzEZFIY)
 
 ## ■ 2021년 OSGeo 한국어 지부 공헌상, 공로상 수여
 2021년부터 OSGeo Korean Chpater에서는 OSGeo Korean Chapter 커뮤니티 회원들의 의견 수렴을 통하여

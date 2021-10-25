@@ -122,7 +122,7 @@
     <tr>
       <td><b>17:30 ~ 18:00</b></td>
       <td><b>OSGeo 한국어지부 연례총회 및 올해의 공헌상, 공로상 시상식</b>
-          (<a href="https://docs.google.com/presentation/d/1tdGaq_xfQuu1uIYcz2EoC-nhbao-vWg3u8JHS2waG4Y/edit?usp=sharing">slides</a>)
+          (<a href="https://docs.google.com/presentation/d/1UonELyyDuqyPCdyImnkxGYvLJ9_unfT9fn_KDzEZFIY">slides</a>)
       </td>
     </tr>
   </tbody>

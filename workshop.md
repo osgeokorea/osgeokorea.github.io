@@ -9,13 +9,6 @@
 
 FOSS4G Korea 2021 워크숍 데이는 다음의 주제로 워크숍을 개최합니다.
 
-#### ⊙ Session 1
-  - (워크숍 1) 누구나 알고 있는 QGIS 숨겨진 기능과 QGIS 사용자 모임 13:00 ~ 15:30
-  - (워크숍 2) QGIS 에서 GPS 수신해보기 15:30 ~ 16:30
-
-#### ⊙ Session 2
-  - (워크숍 3) 게임엔진과 공간정보 3D 콘텐츠 융합(Cesium for Unreal) 15:30 ~ 18:00
-
 ### ⊙ Session 1
 <table>
   <thead>
