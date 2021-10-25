@@ -5,55 +5,6 @@
   - 2021년 10월 28일(목): 온라인 기술 워크숍
   - 2021년 10월 29일(금): 메인 컨퍼런스(구두발표) 및 연례총회
  
- 
-## ■ 행사 준비 주요 일정
-
-<table>
-  <thead>
-    <tr>
-      <th>구분</th>
-      <th>항목</th>
-      <th>시작</th>
-      <th>마감</th>
-      <th>내용</th>
-      <th>상태</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>기술 워크숍</td>
-      <td>참가자 등록</td>
-      <td>10월 8일</td>
-      <td>10월 26일</td>
-      <td><b><a href="https://foss4g.osgeo.kr/workshop">워크숍 등록하기</a></b></td>
-      <td>진행중</td>
-    </tr>
-    <tr>
-      <td rowspan=2>구두발표 모집</td>
-      <td>발표자 모집</td>
-      <td>9월 16일</td>
-      <td>10월 25일</td>
-      <td><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSdxbtmquzb19TGmxyetyVq73rqhLPu-31Q4pWiwrMseZUIPTg/viewform">구두발표 신청하기</a></b></td>
-      <td>진행중</td>
-    </tr>
-    <tr>
-      <td>프로그램 확정 및 공지</td>
-      <td>10월 25일</td>
-      <td>10월 25일</td>
-      <td>-</td>
-      <td>예정</td>
-    </tr>
-    <tr>
-      <td>행사후원</td>
-      <td>후원 모집</td>
-      <td>10월 1일</td>
-      <td>10월 26일</td>
-      <td><b><a href="https://foss4g.osgeo.kr/sponsor">행사후원 안내</a></b></td>
-      <td>진행중</td>
-    </tr>
-  </tbody>
-</table>
-
 
 ## ■ 프로그램
 온라인 기술 워크숍과 메인 컨퍼런스의 구두 발표는 온라인 웨비나 플랫폼(Zoom)을 이용해 진행합니다.
@@ -62,32 +13,23 @@
 ### ⊙ 워크숍 데이
 온라인 기술 워크숍은 세션별 2회 2시간 30분(13:00 ~ 15:30, 15:30 ~ 18:00)으로 진행합니다.
   - 일정: 10월 28일 13:00 ~ 18:00
-  - [워크숍 프로그램 및 참가 신청하기](workshop)
+  - [워크숍 프로그램](workshop)
 
 ### ⊙ 메인 컨퍼런스
-메인 컨퍼런스는 기조연설, 구두발표(발표자가 많은 경우 2개의 세션으로 분리) 행사로 진행합니다..
-  - 일정: 10월 29일 10:00 ~ 18:00
-
-구두발표 참가자를 모집합니다.
-  - 주제: 오픈데이터, 오픈소스GIS와 관련한 지식과 경험, 노하우 등
-  - 모집 마감일:10월 25일 18:00까지
-  - [구두발표 신청하기](https://docs.google.com/forms/d/e/1FAIpQLSdxbtmquzb19TGmxyetyVq73rqhLPu-31Q4pWiwrMseZUIPTg/viewform)
-
-※ 메인 컨퍼런스의 세부 프로그램은 10월 25일 정식 공지 예정입니다.
+메인 컨퍼런스는 기조연설, 구두발표로 진행합니다.
+  - 일정: 10월 29일 13:00 ~ 17:30
+  - [메인 프로그램](conference)
 
 ### ⊙ 연례 총회
 구두 발표가 끝난 후 우리 지부의 연례 총회를 개최 예정입니다. 올해 활동 내용, 재무정보, 2021년 OSGeo 한국어 지부 공헌상 수여식 등을 포함합니다.
-  - 일정: 10월 29일 17:40 ~ 18:00
+  - 일정: 10월 29일 17:30 ~ 18:00
   - [2021 연례 총회 - OSGeo Korean Chapter](https://docs.google.com/presentation/d/1UonELyyDuqyPCdyImnkxGYvLJ9_unfT9fn_KDzEZFIY/edit?usp=sharing)
 
-## ■ 2021년 OSGeo 한국어 지부 공헌상
+## ■ 2021년 OSGeo 한국어 지부 공헌상, 공로상 수여
 2021년부터 OSGeo Korean Chpater에서는 OSGeo Korean Chapter 커뮤니티 회원들의 의견 수렴을 통하여
 한 해 동안 한국어지부와 오픈소스 GIS 분야에서 기여한 분을 대상으로 연례총회에서 **공헌상**을 수여합니다.
 
-후보자 추천을 통해 2021년 올해의 공헌상 수상자는 운영위원회에서 선정할 예정입니다.
-
-※ 후보자 추천 마감일: 10월 20일 18:00까지
-  - [2021 OSGeo 한국어지부 공헌상 후보자 추천하기](https://docs.google.com/forms/d/e/1FAIpQLScJZNR-BMtdhwT5bna_HCLgJpV5k8TAA7W1TsxxqhWBxOTDWw/viewform)
+또한, 다년간 남다른 애정과 헌신적인 노력으로 OSGeo 한국어 지부의 활동과 운영에 기여한 (주)망고시스템 김윤지님, (주)에코플래그 디자인팀에게 **공로상**을 수여합니다.
 
 ## ■ 새소식
 행사 소식은 홈페이지, 메일링 리스트, 페이스북, 트위터 등을 통해 지속적으로 제공합니다.
