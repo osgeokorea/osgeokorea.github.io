@@ -97,15 +97,15 @@
     </tr>
     <tr>
       <td rowspan=3>17:00 ~ 17:30</td>
-      <td><b>오픈소스 GIS 한글화 참여하기</b>
+      <td><b>Democratization of Geospatial Data</b>
           (<a href="">slides</a>)
       </td>
     </tr>
     <tr>
-      <td>이민파(Minpa Lee) / (주)망고시스템</td>
+      <td>정진하(Jinha Jung) / Purdue University</td>
     </tr>
     <tr>
-      <td>웹 및 크라우드소싱 기반의 지역화(번역) 플랫폼인 Transifex를 이용한 오픈소스 GIS 프로젝트의 한글화 참여하기</td>
+      <td>공간정보의 대중화/민주화가 진행되고 있는 추세 및 앞으로의 발전 방향에 대해서 논의해 보고자 합니다. </td>
     </tr>
   </tbody>
 </table>
