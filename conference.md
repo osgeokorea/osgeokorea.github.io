@@ -1,5 +1,7 @@
 ## ■ 온라인 컨퍼런스
-일정: 10월 29일 13:00 ~ 18:00
+  - 일정: 10월 29일 13:00 ~ 18:00
+  - [프레젠테이션 지침서](presentation-guidelines)
+  
 
 오픈소스 GIS에 관심있는 분은 누구나 온라인(ZOOM)으로 참여 가능합니다.
   - <b>Zoom channel: <a href="https://us02web.zoom.us/j/89252737350?pwd=MDRsUzJ3RkpxR3gzZ3Zvd2orY1F0dz09">컨퍼런스 참가하기</a></b><br>
