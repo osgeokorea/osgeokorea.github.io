@@ -1,11 +1,7 @@
 ## ■ 워크숍 데이
 일정: 10월 28일 13:00 ~ 18:00
 
-※ 워크숍 등록비는 무료입니다.
-
 ※ 워크숍 등록하신 분은 이메일로 Zoom 연결정보를 보내드립니다.
-
-※ 시간대가 겹치지 않으면 하나 이상의 워크숍에 등록 가능합니다.
 
 FOSS4G Korea 2021 워크숍 데이는 다음의 주제로 워크숍을 개최합니다.
 
@@ -30,8 +26,8 @@ FOSS4G Korea 2021 워크숍 데이는 다음의 주제로 워크숍을 개최합
     </tr>
     <tr>
       <td>
-        <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeRQw8OXscZ3gJgkDkYD6nt1DAYj3oBpqAbTWAhQrs5lPkF0w/viewform?usp=sf_link">참가 신청하기</a></b><br> 
-        ※ 워크숍 참석 패스코드는 등록자에 한해서 메일로 발송합니다.</td>
+        ※ 워크숍 참석 패스코드는 등록자에 한해서 메일로 발송합니다.
+      </td>
     </tr>
     <tr>
       <td>
@@ -57,8 +53,8 @@ FOSS4G Korea 2021 워크숍 데이는 다음의 주제로 워크숍을 개최합
     </tr>
     <tr>
       <td>
-        <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeRQw8OXscZ3gJgkDkYD6nt1DAYj3oBpqAbTWAhQrs5lPkF0w/viewform?usp=sf_link">참가 신청하기</a></b><br> 
-        ※ 워크숍 참석 패스코드는 등록자에 한해서 메일로 발송합니다.</td>
+        ※ 워크숍 참석 패스코드는 등록자에 한해서 메일로 발송합니다.
+      </td>
     </tr>
     <tr>
       <td>
@@ -95,8 +91,8 @@ FOSS4G Korea 2021 워크숍 데이는 다음의 주제로 워크숍을 개최합
     </tr>
     <tr>
       <td>
-        <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeRQw8OXscZ3gJgkDkYD6nt1DAYj3oBpqAbTWAhQrs5lPkF0w/viewform?usp=sf_link">참가 신청하기</a></b><br> 
-        ※ 워크숍 참석 패스코드는 등록자에 한해서 메일로 발송합니다.</td>
+        ※ 워크숍 참석 패스코드는 등록자에 한해서 메일로 발송합니다.
+      </td>
     </tr>
     <tr>
       <td>
