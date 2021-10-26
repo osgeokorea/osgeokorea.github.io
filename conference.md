@@ -66,7 +66,7 @@
     </tr>
     <tr>
       <td rowspan=3>15:30 ~ 16:00</td>
-      <td><b>환경영향평가 알고리즘 검증용 툴 설계 및 프로토타입 시연</b>
+      <td><b>Workflow와 GIS 기반 환경영향평가 알고리즘 검증용 툴 개발</b>
           (<a href="">slides</a>)
       </td>
     </tr>
