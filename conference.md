@@ -90,7 +90,7 @@
     </tr>
     <tr>
       <td rowspan=3>16:30 ~ 17:00</td>
-      <td><b>Kotlin과 osmdroid 활용: BTS 맵앱 만들기</b>
+      <td><b>QGIS: 위성영상을 사용한 개벌지(clear-cut) 탐지 및 매핑</b>
           (<a href="">slides</a>)
       </td>
     </tr>
@@ -98,7 +98,7 @@
       <td>유병혁(Byeong-Hyeok Yu) / 국립공원공단</td>
     </tr>
     <tr>
-      <td>Kotlin(코틀린) 언어와 osmdroid(오에스엠드로이드) 라이브러리를 활용, 전국의 BTS 관련 명소를 정리한 맵앱 개발 경험을 공유합니다. :)</td>
+      <td>QGIS에서 위성영상을 사용하여 개벌지(clear-cut)를 탐지하고 매핑하는 과정을 공유합니다</td>
     </tr>
     <tr>
       <td rowspan=3>17:00 ~ 17:30</td>
