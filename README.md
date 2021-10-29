@@ -70,7 +70,7 @@
 ## ■ 조직위원회
 [신상희](endofcap@gmail.com), [유병혁](bhyu@knps.or.kr), [최준영](novacite@gmail.com), [김지윤](aliasgis@gmail.com), [이준호](juno1238@gmail.com),
 [강혜경](kang.krihs@gmail.com), [오동하](dongha@bdi.re.kr), [차승훈](kacgung@gmail.com), [윤정환](lenablue12@gmail.com), [최규성](kyusung.choi@gmail.com), 
-[정윤재](choung12osu@gmail.com), [권오균](kok02@lx.or.kr), [이민파](mapplus@gmail.com)
+[정윤재](choung12osu@gmail.com), [권오균](kok02@lx.or.kr), [이민파](mapplus@gmail.com), [박재현](parkj73@gmail.com)
 
 ## ■ 특별한 감사
 행사 지원에 도움 주신 두 분 및 소속사에 진심으로 감사드립니다.
