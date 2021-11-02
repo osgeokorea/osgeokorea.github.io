@@ -16,7 +16,9 @@ FOSS4G Korea 2021 워크숍 데이는 다음의 주제로 워크숍을 개최합
   <tbody>
     <tr>
       <td rowspan=6>13:00 ~ 15:30</td>
-      <td><b>워크숍 1: 누구나 알고 있는 QGIS 숨겨진 기능과 QGIS 사용자 모임</b></td>
+      <td><b>워크숍 1: 누구나 알고 있는 QGIS 숨겨진 기능과 QGIS 사용자 모임</b>
+          (<a href="slides/FOSS4G-Korea-2021-Workshop-QGIS-MapPlus-20211028.pdf">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>진행자: <a href="mailto:mapplus@gmail.com">이민파</a> / (주)망고시스템</td>
@@ -43,7 +45,9 @@ FOSS4G Korea 2021 워크숍 데이는 다음의 주제로 워크숍을 개최합
     </tr>
     <tr>
       <td rowspan=6>15:30 ~ 16:30</td>
-      <td><b>워크숍 2: QGIS 에서 GPS 수신해보기</b></td>
+      <td><b>워크숍 2: QGIS 에서 GPS 수신해보기</b>
+          (<a href="slides/FOSS4G-Korea-2021-Workshop-QGIS-GPS_20211028.pdf">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>진행자: <a href="mailto:aliasgis@gmail.com">김지윤</a> / (주)피너스시스템</td>
@@ -81,7 +85,9 @@ FOSS4G Korea 2021 워크숍 데이는 다음의 주제로 워크숍을 개최합
   <tbody>
     <tr>
       <td rowspan=6>15:30 ~ 18:00</td>
-      <td><b>워크숍 3: 게임엔진과 공간정보 3D 콘텐츠 융합(Cesium for Unreal)</b></td>
+      <td><b>워크숍 3: 게임엔진과 공간정보 3D 콘텐츠 융합(Cesium for Unreal)</b>
+          (<a href="slides/FOSS4G-Korea-2021-Workshop-Cesium4Unreal-20211028.pdf">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>진행자: <a href="mailto:kschoi@gaia3d.com">최규성</a> / 가이아쓰리디(주)</td>
