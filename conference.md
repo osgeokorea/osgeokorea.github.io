@@ -37,7 +37,7 @@
     <tr>
       <td rowspan=3>14:00 ~ 14:30</td>
       <td><b>State of mago3D</b>
-          (<a href="">slides</a>)
+          (<a href="slides/FOSS4G-Korea-2021-Presentation-mago3D-20211028.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -67,7 +67,7 @@
     <tr>
       <td rowspan=3>15:30 ~ 16:00</td>
       <td><b>Workflow와 GIS 기반 환경영향평가 알고리즘 검증용 툴 개발</b>
-          (<a href="">slides</a>)
+          (<a href="slides/FOSS4G-Korea-2021-Presentation-EAI-Workflow-GIS-20211028.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -79,7 +79,7 @@
     <tr>
       <td rowspan=3>16:00 ~ 16:30</td>
       <td><b>BJ.Jang 헌정 프로젝트 : GeoTools를 이용한 지오코딩 서비스 개발 (AdageGO)</b>
-          (<a href="">slides</a>)
+          (<a href="slides/FOSS4G-Korea-2021-Presentation-AdageGO-20211028.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -91,7 +91,7 @@
     <tr>
       <td rowspan=3>16:30 ~ 17:00</td>
       <td><b>QGIS: 위성영상을 사용한 개벌지(clear-cut) 탐지 및 매핑</b>
-          (<a href="">slides</a>)
+          (<a href="https://www.slideshare.net/ybh0616/qgis-clearcut-250553099">slides</a>)
       </td>
     </tr>
     <tr>
