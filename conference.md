@@ -4,7 +4,7 @@
   
 
 오픈소스 GIS에 관심있는 분은 누구나 온라인(ZOOM)으로 참여 가능합니다.
-  - <b>Zoom channel: <a href="https://us02web.zoom.us/j/89252737350?pwd=MDRsUzJ3RkpxR3gzZ3Zvd2orY1F0dz09">컨퍼런스 참가하기</a></b><br>
+  - <b>Zoom channel: <a href="">컨퍼런스 참가하기</a></b><br>
 
 ### ⊙ 구두발표
 <table>
