@@ -51,7 +51,7 @@
     <tr>
       <td rowspan=3>14:30 ~ 15:00</td>
       <td><b>Landsat 위성영상으로부터 지표면 온도(LST)를 산출하기 위한 RS&GIS 플러그인 소개</b>
-          (<a href="">slides</a>)
+          (<a href="slides/FOSS4G-Korea-2021-Presentation-QGIS-RSGIS-20211028.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -103,7 +103,7 @@
     <tr>
       <td rowspan=3>17:00 ~ 17:30</td>
       <td><b>Democratization of Geospatial Data</b>
-          (<a href="">slides</a>)
+          (<a href="slides/FOSS4G-Korea-2021-Presentation-Democratization_of_Geospatial_Data-20211028.pdf">slides</a>)
       </td>
     </tr>
     <tr>
