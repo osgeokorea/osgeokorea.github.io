@@ -25,7 +25,7 @@
     <tr>
       <td rowspan=3>13:30 ~ 14:00</td>
       <td><b>위드코로나, 위드오픈소스, 위드공간정보아카데미</b>
-          (<a href="">slides</a>)
+          (<a href="slides/FOSS4G-Korea-2021-Presentation-LXSIEDU-20211028.pdf">slides</a>)
       </td>
     </tr>
     <tr>
