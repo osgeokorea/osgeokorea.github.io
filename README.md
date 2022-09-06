@@ -29,7 +29,7 @@
  - [2022 연례 총회 - OSGeo Korean Chapter](https://docs.google.com/presentation/d/1gdH4qoJ8ipOAFa1NE0vYIqqHOfhkrj94WHPKpqDj1xw/)
 
 ## ■ 2022 올해의 공헌상 후보자 추천
- - [2022년 OSGeo 한국어 지부 공헌상 후보자 추천](https://forms.gle/8CjBVw1yYuUKHgoi9)
+ - [2022년 OSGeo 한국어 지부 공헌상 후보자 추천](https://forms.gle/EAT2KrU5ndBYaBPEA)
  
 ## ■ 참가 등록
  - 워크샵 + 컨퍼런스(티셔츠 증정) 등록과 11월 4일 뒷풀이(현장 3만원) 등록으로 구분
