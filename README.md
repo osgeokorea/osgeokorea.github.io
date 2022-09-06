@@ -6,13 +6,6 @@
  - 기술 워크숍: 2022년 11월 3일(목)
  - 메인 컨퍼런스(구두발표) 및 연례총회: 2022년 11월 4일(금)
  - 장소: 경기도 고양시 일산서구 KINTEX 제 1전시장
-  
-## ■ 새소식 및 문의
-행사 소식은 홈페이지, 메일링 리스트, 페이스북, 트위터 등을 통해 지속적으로 제공합니다.
- - [OSGeo Korean Chapter 메일링 리스트](http://groups.google.com/group/osgeo-kr)
- - [Facebook Group - OSGeo Korean Chapter](https://www.facebook.com/groups/OSGeoKR)
- 
-기타 문의사항은 [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) 또는 [OSGeo Korean Chapter Mailing List](http://groups.google.com/group/osgeo-kr)에 남겨주세요.
  
 ## ■ 프로그램
 
@@ -35,6 +28,9 @@
  - 일정: 11월 4일 17:30 ~ 18:00
  - [2022 연례 총회 - OSGeo Korean Chapter](https://docs.google.com/presentation/d/1gdH4qoJ8ipOAFa1NE0vYIqqHOfhkrj94WHPKpqDj1xw/)
 
+## ■ 2022 올해의 공헌상 후보자 추천
+ - [2022년 OSGeo 한국어 지부 공헌상 후보자 추천](https://forms.gle/8CjBVw1yYuUKHgoi9)
+ 
 ## ■ 참가 등록
  - 워크샵 + 컨퍼런스(티셔츠 증정) 등록과 11월 4일 뒷풀이(현장 3만원) 등록으로 구분
  - 후원기관은 플래티넘 3인, 골드레벨 2인, 실버레벨 1인에 대해 워크샵 1세션 및 본 행사 참가비 면제
@@ -60,6 +56,13 @@ FOSS4G Korea 후원 기관에는 다음과 같은 혜택이 주어집니�
  - 골드 후원: 50만원(부가세 별도)
  - 실버 후원: 30만원(부가세 별도)
  - 개인 후원: 10만원
+
+## ■ 새소식 및 문의
+행사 소식은 홈페이지, 메일링 리스트, 페이스북, 트위터 등을 통해 지속적으로 제공합니다.
+ - [OSGeo Korean Chapter 메일링 리스트](http://groups.google.com/group/osgeo-kr)
+ - [Facebook Group - OSGeo Korean Chapter](https://www.facebook.com/groups/OSGeoKR)
+ 
+기타 문의사항은 [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) 또는 [OSGeo Korean Chapter Mailing List](http://groups.google.com/group/osgeo-kr)에 남겨주세요.
 
 ## ■ 조직위원회
 [신상희](endofcap@gmail.com), [유병혁](bhyu@knps.or.kr), [최준영](novacite@gmail.com), [김지윤](aliasgis@gmail.com), [이준호](juno1238@gmail.com),
