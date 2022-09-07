@@ -8,11 +8,11 @@
  - 장소: 경기도 고양시 일산서구 KINTEX 제 1전시장
  
 ## ■ 진행중인 이벤트
- - [FOSS4G Korea 2022 행사 슬로건 공모](https://forms.gle/dVi6SLMsZfqvehLw7)
- - [워크숍 발표자 모집](https://forms.gle/B8EJgg4kFKLN1kEx8)
- - [구두발표자 모집](https://forms.gle/kyZ8HsH7W3J2J63U8)
- - [2022년 OSGeo 한국어 지부 공헌상 후보자 추천](https://forms.gle/EAT2KrU5ndBYaBPEA)
- - [후원금 모집 안내](sponsor)
+ - [FOSS4G Korea 2022 행사 슬로건 공모](https://forms.gle/dVi6SLMsZfqvehLw7) 9월 20일(화) 18:00까지
+ - [워크숍 발표자 모집](https://forms.gle/B8EJgg4kFKLN1kEx8) 10월 3일(월) 18:00까지
+ - [구두발표자 모집](https://forms.gle/kyZ8HsH7W3J2J63U8) 10월 10일(월) 18:00까지
+ - [2022년 OSGeo 한국어 지부 공헌상 후보자 추천](https://forms.gle/EAT2KrU5ndBYaBPEA) 10월 14일(금) 18:00까지
+ - [후원금 모집 안내](sponsor) 10월 17일(월) 18:00까지
 
 ## ■ 프로그램
 
