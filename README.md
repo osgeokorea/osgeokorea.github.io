@@ -7,6 +7,13 @@
  - 메인 컨퍼런스(구두발표) 및 연례총회: 2022년 11월 4일(금)
  - 장소: 경기도 고양시 일산서구 KINTEX 제 1전시장
  
+## ■ 진행중인 이벤트
+ - [FOSS4G Korea 2022 행사 슬로건 공모](https://forms.gle/dVi6SLMsZfqvehLw7)
+ - [워크숍 발표자 모집](https://forms.gle/B8EJgg4kFKLN1kEx8)
+ - [구두발표자 모집](https://forms.gle/kyZ8HsH7W3J2J63U8)
+ - [2022년 OSGeo 한국어 지부 공헌상 후보자 추천](https://forms.gle/EAT2KrU5ndBYaBPEA)
+ - [후원금 모집 안내](sponsor)
+
 ## ■ 프로그램
 
 ### ⊙ 워크숍 데이
@@ -19,7 +26,7 @@
 ### ⊙ 메인 컨퍼런스
 메인 컨퍼런스는 기조연설, 구두발표로 진행합니다. 오픈소스 GIS에 관심있는 분은 누구나 참여 가능합니다.
  - 일정: 11월 4일 10:00 ~ 16:30 (※ 구두발표자 모집에 따라 시간 변동 가능)
- - [구두발표자 모집](https://forms.gle/8CjBVw1yYuUKHgoi9)
+ - [구두발표자 모집](https://forms.gle/kyZ8HsH7W3J2J63U8)
  - ※ 메인 프로그램 - 추후 공지
 
 ### ⊙ 연례 총회
