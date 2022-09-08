@@ -72,9 +72,9 @@ FOSS4G Korea 후원 기관에는 다음과 같은 혜택이 주어집니�
 기타 문의사항은 [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) 또는 [OSGeo Korean Chapter Mailing List](http://groups.google.com/group/osgeo-kr)에 남겨주세요.
 
 ## ■ 조직위원회
-[신상희](endofcap@gmail.com), [유병혁](bhyu@knps.or.kr), [최준영](novacite@gmail.com), [김지윤](aliasgis@gmail.com), [이준호](juno1238@gmail.com),
-[강혜경](kang.krihs@gmail.com), [오동하](dongha@bdi.re.kr), [차승훈](kacgung@gmail.com), [윤정환](lenablue12@gmail.com), [최규성](kyusung.choi@gmail.com), 
-[정윤재](choung12osu@gmail.com), [권오균](kok02@lx.or.kr), [이민파](mapplus@gmail.com), [박재현](parkj73@gmail.com), [김윤지](jwithmango@gmail.com)
+[신상희](mailto:endofcap@gmail.com), [유병혁](mailto:bhyu@knps.or.kr), [최준영](mailto:novacite@gmail.com), [김지윤](mailto:aliasgis@gmail.com), [이준호](mailto:juno1238@gmail.com),
+[강혜경](mailto:kang.krihs@gmail.com), [오동하](mailto:dongha@bdi.re.kr), [차승훈](mailto:kacgung@gmail.com), [윤정환](mailto:lenablue12@gmail.com), [최규성](mailto:kyusung.choi@gmail.com), 
+[정윤재](mailto:choung12osu@gmail.com), [권오균](mailto:kok02@lx.or.kr), [박재현](mailto:parkj73@gmail.com), [김윤지](mailto:jwithmango@gmail.com), [이민파](mailto:mapplus@gmail.com)
 
 ## ■ 행동강령
 FOSS4G Korea 2022 참가자는 OSGeo 행동 강령에 따라 타인에 대해 정중하게 행동해야합니다. [OSGeo Code of Conduct](https://www.osgeo.org/code_of_conduct/).
@@ -93,6 +93,6 @@ FOSS4G Korea 2022 참가자는 OSGeo 행동 강령에 따라 타인에 대해 �
 <a href="https://smartgeoexpo.kr/"><img src="images/smartgeoexpo-logo.png" width="189" height="101"></a></center>
 
 ### 미디어 파트너
-이 행사의 로고, 기념품, 스티커, 플래카드 제작에 도움을 주신 [뉴컨](http://www.newconnect.co.kr/), [에코플래그](http://www.ecoflag.co.kr/)에 감사드립니다.
-<center><a href="http://www.newconnect.co.kr/"><img src="sponsor/newcon.png" width="755" height="150"></a>
-<a href="http://www.ecoflag.co.kr/"><img src="sponsor/ecoflag.png" width="572" height="150"></a></center>
+이 행사의 로고, 기념품, 스티커, 플래카드 제작에 도움을 주신 [뉴컨](http://www.newconnect.co.kr/), [에코플래그](http://www.ecoflag.co.kr/)에 감사드립니다.    
+<center><a href="http://www.newconnect.co.kr/"><img src="sponsor/newcon.png" width="503" height="100"></a>
+<a href="http://www.ecoflag.co.kr/"><img src="sponsor/ecoflag.png" width="381" height="100"></a></center>
