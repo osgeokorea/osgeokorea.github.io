@@ -94,5 +94,5 @@ FOSS4G Korea 2022 참가자는 OSGeo 행동 강령에 따라 타인에 대해 �
 
 ### 미디어 파트너
 이 행사의 로고, 기념품, 스티커, 플래카드 제작에 도움을 주신 [뉴컨](http://www.newconnect.co.kr/), [에코플래그](http://www.ecoflag.co.kr/)에 감사드립니다.
-<center><a href="http://www.newconnect.co.kr/"><img src="sponsor/newcon.png.png" width="755" height="150"></a>
+<center><a href="http://www.newconnect.co.kr/"><img src="sponsor/newcon.png" width="755" height="150"></a>
 <a href="http://www.ecoflag.co.kr/"><img src="sponsor/ecoflag.png" width="572" height="150"></a></center>
