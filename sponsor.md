@@ -20,5 +20,5 @@ FOSS4G Korea 후원 기관에는 다음과 같은 혜택이 주어집니�
  - 실버 후원: 30만원(부가세 별도)
  - 개인 후원: 10만원
 
-![Sponsor](sponsor/sponsor-01.png "Sponsor")
+![Sponsor](sponsor/sponsor-02.png "Sponsor")
 
