@@ -71,6 +71,22 @@ FOSS4G Korea 후원 기관에는 다음과 같은 혜택이 주어집니�
  
 기타 문의사항은 [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) 또는 [OSGeo Korean Chapter Mailing List](http://groups.google.com/group/osgeo-kr)에 남겨주세요.
 
+
+## ■ 후원
+후원해 주신 기관 및 개인 모두에게 진심으로 감사드립니다.
+
+### ⊙ 플래티넘
+<a href="https://www.dabeeo.com/"><img src="sponsor/dabeeo.png" width="140" height="48"></a>
+<a href="https://gaia3d.com/"><img src="sponsor/gaia3d.png" width="128" height="48"></a>
+
+### ⊙ 골드
+<a href="http://www.e-three.co.kr/"><img src="sponsor/e-three.png" width="150" height="48"></a>
+
+### ⊙ 실버
+
+### ⊙ 개인
+이동훈(오픈메이트), 이현기(LX 한국국토정보공사)
+
 ## ■ 조직위원회
 [신상희](mailto:endofcap@gmail.com), [유병혁](mailto:bhyu@knps.or.kr), [최준영](mailto:novacite@gmail.com), [김지윤](mailto:aliasgis@gmail.com), [이준호](mailto:juno1238@gmail.com),
 [강혜경](mailto:kang.krihs@gmail.com), [오동하](mailto:dongha@bdi.re.kr), [차승훈](mailto:kacgung@gmail.com), [윤정환](mailto:lenablue12@gmail.com), [최규성](mailto:kyusung.choi@gmail.com), 
