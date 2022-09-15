@@ -105,10 +105,10 @@ FOSS4G Korea 2022 참가자는 OSGeo 행동 강령에 따라 타인에 대해 �
 ## ■ 주관
 
 이 행사는 [2022 스마트국토엑스포](https://smartgeoexpo.kr)와 함께합니다.    
-<center><a href="https://www.osgeo.kr/"><img src="images/osgeo.kr-2022-logo.png" width="279" height="150"></a>
-<a href="https://smartgeoexpo.kr/"><img src="images/smartgeoexpo-logo.png" width="189" height="101"></a></center>
+<center><a href="https://www.osgeo.kr/"><img src="images/osgeo.kr-2022-logo.png" width="139" height="75"></a>
+<a href="https://smartgeoexpo.kr/"><img src="images/smartgeoexpo-logo.png" width="140" height="75"></a></center>
 
 ### 미디어 파트너
 이 행사의 로고, 기념품, 스티커, 플래카드 제작에 도움을 주신 [뉴컨](http://www.newconnect.co.kr/), [에코플래그](http://www.ecoflag.co.kr/)에 감사드립니다.    
-<center><a href="http://www.newconnect.co.kr/"><img src="sponsor/newcon.png" width="251" height="50"></a>
-<a href="http://www.ecoflag.co.kr/"><img src="sponsor/ecoflag.png" width="190" height="50"></a></center>
+<center><a href="http://www.newconnect.co.kr/"><img src="sponsor/newcon.png" width="201" height="40"></a>
+<a href="http://www.ecoflag.co.kr/"><img src="sponsor/ecoflag.png" width="152" height="40"></a></center>
