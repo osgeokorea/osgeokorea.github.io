@@ -83,6 +83,7 @@ FOSS4G Korea 후원 기관에는 다음과 같은 혜택이 주어집니�
 <a href="http://www.e-three.co.kr/"><img src="sponsor/e-three.png" width="150" height="48"></a>
 
 ### ⊙ 실버
+신현범(기술사)
 
 ### ⊙ 개인
 이동훈(오픈메이트), 이현기(LX 한국국토정보공사)
@@ -110,5 +111,5 @@ FOSS4G Korea 2022 참가자는 OSGeo 행동 강령에 따라 타인에 대해 �
 
 ### 미디어 파트너
 이 행사의 로고, 기념품, 스티커, 플래카드 제작에 도움을 주신 [뉴컨](http://www.newconnect.co.kr/), [에코플래그](http://www.ecoflag.co.kr/)에 감사드립니다.    
-<center><a href="http://www.newconnect.co.kr/"><img src="sponsor/newcon.png" width="201" height="40"></a>
-<a href="http://www.ecoflag.co.kr/"><img src="sponsor/ecoflag.png" width="152" height="40"></a></center>
+<center><a href="http://www.newconnect.co.kr/"><img src="sponsor/newcon.png" width="151" height="30"></a>
+<a href="http://www.ecoflag.co.kr/"><img src="sponsor/ecoflag.png" width="114" height="30"></a></center>
