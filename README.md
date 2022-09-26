@@ -79,6 +79,7 @@ FOSS4G Korea 후원 기관에는 다음과 같은 혜택이 주어집니�
 <a href="https://www.dabeeo.com/"><img src="sponsor/dabeeo.png" width="140" height="48"></a>
 <a href="https://gaia3d.com/"><img src="sponsor/gaia3d.png" width="128" height="48"></a>
 <a href="https://innopam.com/"><img src="sponsor/innopam.png" width="115" height="48"></a>
+<a href="http://www.mangosystem.com/"><img src="sponsor/mangosystem.png" width="142" height="48"></a>
 
 ### ⊙ 골드
 <a href="http://www.e-three.co.kr/"><img src="sponsor/e-three.png" width="150" height="48"></a>
