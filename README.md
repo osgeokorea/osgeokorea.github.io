@@ -79,7 +79,8 @@ FOSS4G Korea 후원 기관에는 다음과 같은 혜택이 주어집니�
 <a href="https://www.dabeeo.com/"><img src="sponsor/dabeeo.png" width="140" height="48"></a>
 <a href="https://gaia3d.com/"><img src="sponsor/gaia3d.png" width="128" height="48"></a>
 <a href="https://innopam.com/"><img src="sponsor/innopam.png" width="115" height="48"></a>
-<a href="http://www.mangosystem.com/"><img src="sponsor/mangosystem.png" width="142" height="48"></a>
+<a href="http://www.mangosystem.com/"><img src="sponsor/mangosystem.png" width="142" height="48"></a>>
+<a href="http://gisutd.com/"><img src="sponsor/GISUnited.png" width="68" height="60"></a>
 
 ### ⊙ 골드
 <a href="http://www.e-three.co.kr/"><img src="sponsor/e-three.png" width="150" height="48"></a>
@@ -89,7 +90,9 @@ FOSS4G Korea 후원 기관에는 다음과 같은 혜택이 주어집니�
 신현범(기술사)
 
 ### ⊙ 개인
-이동훈(오픈메이트), 이현기(LX 한국국토정보공사), 이용익(서울특별시), 유병혁(국립공원공단), 권오균(LX 공간정보아카데미), 김성훈(홍익대학교), 오동하(부산연구원), 이준호(LH 한국토지주택공사)
+이동훈(오픈메이트), 이현기(LX 한국국토정보공사), 이용익(서울특별시), 유병혁(국립공원공단), 
+권오균(LX 공간정보아카데미), 김성훈(홍익대학교), 오동하(부산연구원), 이준호(LH 한국토지주택공사),
+정은숙
 
 
 ## ■ 조직위원회
