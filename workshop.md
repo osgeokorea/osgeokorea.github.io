@@ -40,13 +40,12 @@ FOSS4G Korea 2022 워크숍 데이는 다음의 주제로 워크숍을 개최합
     </tr>
     <tr>
       <td>
-        준비물:<br>
+        ※ 준비물:<br>
         - 인터넷 연결 가능한 컴퓨터<p>
-        
-        Prerequisites :<br>
-        - Workshop level: intermediate. 
-        - Attendee’s previous knowledge: SQL (PostgreSQL, PostGIS). 
-        - Equipment: This workshop uses OSGeoLive (Version 15.0)"
+        ※ Prerequisites :<br>
+        - Workshop level: intermediate.<br>
+        - Attendee’s previous knowledge: SQL (PostgreSQL, PostGIS).<br>
+        - Equipment: This workshop uses OSGeoLive (Version 15.0)
       </td>
     </tr>
   </tbody>
@@ -84,7 +83,7 @@ FOSS4G Korea 2022 워크숍 데이는 다음의 주제로 워크숍을 개최합
     </tr>
     <tr>
       <td>
-        준비물:<br>
+        ※ 준비물:<br>
         - 인터넷 연결 가능한 컴퓨터 (윈도우즈 권장)<br>
         - HTML, JavaScript 코딩을 지원하는 텍스트 에디터 (VSCode, Notepad++ 권장)
       </td>
@@ -107,10 +106,9 @@ FOSS4G Korea 2022 워크숍 데이는 다음의 주제로 워크숍을 개최합
     </tr>
     <tr>
       <td>
-        준비물:<br>
+        ※ 준비물:<br>
         - 인터넷 연결 가능한 컴퓨터<p>
-        
-        개발 환경 :<br>
+        ※ 개발 환경 :<br>
         - GDAL, QGIS LTR, GeoServer, OSGeoLive + PyQGIS
       </td>
     </tr>
