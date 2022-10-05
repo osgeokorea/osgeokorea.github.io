@@ -1,13 +1,15 @@
 ## ■ 워크숍 데이
 일정: 11월 3일 13:00 ~ 17:00
 
-* ※ 워크숍 등록하신 분은 이메일로 상세정보를 보내드립니다.
-* ※ [워크숍 참가 등록](https://forms.gle/WSSwm7RLamEbM7RJ9) 10월 28일(금) 18:00까지
+※ 워크숍 등록하신 분은 이메일로 상세정보를 보내드립니다.
+
+※ [워크숍 참가 등록](https://forms.gle/WSSwm7RLamEbM7RJ9) 10월 28일(금) 18:00까지
 
 FOSS4G Korea 2022 워크숍 데이는 다음의 주제로 워크숍을 개최합니다.
 
 
 ### ⊙ Session 1
+
 <table>
   <thead>
     <tr>
@@ -29,7 +31,7 @@ FOSS4G Korea 2022 워크숍 데이는 다음의 주제로 워크숍을 개최합
     </tr>
     <tr>
       <td>
-        - The workshop will focus on the shortest path search with pgRouting in real road networks near the FOSS4G venue. It will cover the following topics:<br>
+        The workshop will focus on the shortest path search with pgRouting in real road networks near the FOSS4G venue. It will cover the following topics:<br>
         - 1. Installing pgRouting.<br>
         - 2. Creating a routing topology.<br>
         - 3. Using pgRouting algorithms.<br>
@@ -41,7 +43,7 @@ FOSS4G Korea 2022 워크숍 데이는 다음의 주제로 워크숍을 개최합
     <tr>
       <td>
         ※ 준비물:<br>
-        - 인터넷 연결 가능한 컴퓨터<p>
+        - 인터넷 연결 가능한 컴퓨터:<br>
         ※ Prerequisites :<br>
         - Workshop level: intermediate.<br>
         - Attendee’s previous knowledge: SQL (PostgreSQL, PostGIS).<br>
@@ -53,6 +55,7 @@ FOSS4G Korea 2022 워크숍 데이는 다음의 주제로 워크숍을 개최합
 
 
 ### ⊙ Session 2
+
 <table>
   <thead>
     <tr>
@@ -74,7 +77,7 @@ FOSS4G Korea 2022 워크숍 데이는 다음의 주제로 워크숍을 개최합
     </tr>
     <tr>
       <td>
-        - Cesium ion 에 콘텐츠를 생성하고 CesiumJS(오픈소스) 라이브러리를 이용해서 시각화하며, 게임엔진에서 Cesium for Unreal 로 연계하여 3D 콘텐츠를 활용<br>
+        Cesium ion 에 콘텐츠를 생성하고 CesiumJS(오픈소스) 라이브러리를 이용해서 시각화하며, 게임엔진에서 Cesium for Unreal 로 연계하여 3D 콘텐츠를 활용<br>
         - 1. Cesium 플랫폼과 구성요소<br>
         - 2. Cesium ion(SaaS) 에서 콘텐츠 생성과 호스팅<br>
         - 3. CesiumJS를 이용한 시각화<br>
@@ -101,13 +104,13 @@ FOSS4G Korea 2022 워크숍 데이는 다음의 주제로 워크숍을 개최합
     </tr>
     <tr>
       <td>
-        - DXF 도형, 도면의 정보를(점-텍스트, 선, 면) GeoServer WMS 서비스 발행 자동화 방법
+        DXF 도형, 도면의 정보를(점-텍스트, 선, 면) GeoServer WMS 서비스 발행 자동화 방법
       </td>
     </tr>
     <tr>
       <td>
         ※ 준비물:<br>
-        - 인터넷 연결 가능한 컴퓨터<p>
+        - 인터넷 연결 가능한 컴퓨터:<br>
         ※ 개발 환경 :<br>
         - GDAL, QGIS LTR, GeoServer, OSGeoLive + PyQGIS
       </td>
