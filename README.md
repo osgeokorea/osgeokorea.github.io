@@ -85,6 +85,7 @@ FOSS4G Korea 후원 기관에는 다음과 같은 혜택이 주어집니�
 <a href="https://alziotsystem.com/"><img src="sponsor/alziot.png" width="126" height="48"></a>
 <a href="https://www.si-imaging.com/"><img src="sponsor/siis.png" width="230" height="48"></a>
 <a href="http://www.onspatial.com/"><img src="sponsor/onspatial.png" width="179" height="48"></a>
+<a href="https://www.kakaocorp.com/"><img src="sponsor/kakao.png" width="147" height="48"></a>
 
 ### ⊙ 실버
 신현범(기술사)
