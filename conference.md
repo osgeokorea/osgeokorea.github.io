@@ -20,7 +20,7 @@
     <tr>
       <td rowspan=3>11:00 ~ 11:30</td>
       <td>
-        <b>OSGeo - The Open Source Geospatial Foundation</b>
+        <b>특강: OSGeo - The Open Source Geospatial Foundation</b>
       </td>
     </tr>
     <tr>
@@ -32,7 +32,7 @@
     <tr>
       <td rowspan=3>11:30 ~ 12:00</td>
       <td>
-        <b>오래된 PostGIS 최신 버전으로 바꿔 쓰기</b>
+        <b>특강: 오래된 PostGIS 최신 버전으로 바꿔 쓰기</b>
       </td>
     </tr>
     <tr>
