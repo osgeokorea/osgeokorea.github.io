@@ -27,7 +27,7 @@
       <td>Vicky Vergara / OSGeo</td>
     </tr>
     <tr>
-      <td>An introduction to OSGeo</td>
+      <td>An introduction to OSGeo:The Open Source GeoSpatial Foundation</td>
     </tr>
     <tr>
       <td rowspan=3>11:30 ~ 12:00</td>
@@ -48,7 +48,7 @@
     <tr>
       <td rowspan=3>13:30 ~ 13:50</td>
       <td>
-        <b>MapTiler service platform innovating and pushing the boundaries of digital mapping</b>
+        <b>Vector Tiles cartography with MapTiler and MapLibre</b>
       </td>
     </tr>
     <tr>
