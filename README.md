@@ -65,6 +65,8 @@
 <a href="https://www.si-imaging.com/"><img src="sponsor/siis.png" width="230" height="48"></a>
 <a href="http://www.onspatial.com/"><img src="sponsor/onspatial.png" width="179" height="48"></a>
 <a href="https://www.kakaocorp.com/"><img src="sponsor/kakao.png" width="147" height="48"></a>
+<a href="http://www.ecoflag.co.kr/"><img src="sponsor/ecoflag.png" width="183" height="48"></a>
+<a href="http://www.newconnect.co.kr/"><img src="sponsor/newcon.png" width="241" height="48"></a>
 
 ### ⊙ 실버
 <a href="http://www.hermesys.co.kr/"><img src="sponsor/hermesys.png" width="121" height="48"></a>
