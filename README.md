@@ -6,10 +6,6 @@
  - 기술 워크숍: 2022년 11월 3일(목)
  - 메인 컨퍼런스(구두발표) 및 연례총회: 2022년 11월 4일(금)
  - 장소: 경기도 고양시 일산서구 KINTEX 제1전시장 컨퍼런스룸 212호
- 
-## ■ 진행중인 이벤트
- - [워크숍 참가 등록](https://forms.gle/WSSwm7RLamEbM7RJ9) 10월 28일(금) 18:00까지
- - [컨퍼런스, 뒷풀이 참가자 등록](register) 11월 1일(화) 18:00까지
 
 ## ■ 참가 등록
  - 워크숍 + 컨퍼런스(기념품 증정) 등록과 11월 4일 뒷풀이(현장 3만원) 등록으로 구분
@@ -22,7 +18,6 @@
 기술 워크숍은 세션 1 4시간(13:00 ~ 17:00), 세션 2 2시간(13:00 ~ 15:00, 15:00 ~ 17:00)으로 진행합니다.
  - 일정: 11월 3일 13:00 ~ 17:00
  - [워크숍 프로그램](workshop)
- - [워크숍 참가 등록](https://forms.gle/WSSwm7RLamEbM7RJ9) 10월 28일(금) 18:00까지
 
 ### ⊙ 메인 컨퍼런스
 메인 컨퍼런스는 기조연설, 구두발표로 진행합니다. 오픈소스 GIS에 관심있는 분은 누구나 참여 가능합니다.
@@ -34,12 +29,6 @@
 연례총회가 끝난 후 인근 장소에서 뒷풀이가 있을 예정입니다.
  - 일정: 11월 4일 17:00 ~ 17:30
  - [2022 연례 총회 - OSGeo Korean Chapter](https://docs.google.com/presentation/d/1gdH4qoJ8ipOAFa1NE0vYIqqHOfhkrj94WHPKpqDj1xw/)
-
-## ■ 행사 후원금 모집
- - 후원금 모집 마감일: 10월 17일 18:00
- - 후원금 및 세금계산서 발행 문의: [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) / 031-450-3411
- - 입금계좌: 기업은행 931-028086-04-014  / 예금주: 오에스지오한국어지부
- - [후원금 모집 안내](sponsor)
 
 ## ■ 새소식 및 문의
 행사 소식은 홈페이지, 메일링 리스트, 페이스북, 트위터 등을 통해 지속적으로 제공합니다.
@@ -67,6 +56,7 @@
 <a href="https://www.kakaocorp.com/"><img src="sponsor/kakao.png" width="147" height="48"></a>
 <a href="http://www.ecoflag.co.kr/"><img src="sponsor/ecoflag.png" width="183" height="48"></a>
 <a href="http://www.newconnect.co.kr/"><img src="sponsor/newcon.png" width="241" height="48"></a>
+<a href="https://lxsiedu.or.kr/"><img src="sponsor/lxsiedu-logo.png" width="135" height="48"></a>
 
 ### ⊙ 실버
 <a href="http://www.hermesys.co.kr/"><img src="sponsor/hermesys.png" width="121" height="48"></a>
@@ -74,7 +64,7 @@
 ### ⊙ 개인
 이동훈(오픈메이트), 이현기(LX 한국국토정보공사), 신현범(기술사), 이용익(서울특별시), 유병혁(국립공원공단), 
 권오균(LX 공간정보아카데미), 김성훈(홍익대학교), 오동하(부산연구원), 이준호(LH 한국토지주택공사),
-정은숙, 김경룡, 남광우(국립군산대학교), 이한진(가이아쓰리디), 박은순(서울연구원)
+정은숙, 김경룡, 남광우(국립군산대학교), 이한진(가이아쓰리디), 박은순(서울연구원), 윤정환(뉴컨, 에코플래그), 박천길(가이아쓰리디), 최규성(가이아쓰리디)
 
 
 ## ■ 조직위원회
