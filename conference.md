@@ -21,6 +21,7 @@
       <td rowspan=3>11:00 ~ 11:30</td>
       <td>
         <b>특강: OSGeo - The Open Source Geospatial Foundation</b>
+          (<a href="https://docs.google.com/presentation/d/10Qbg_nZSTtfuQvrV6gG5RLbDnMp3WH8IlXn1LuDgFDY">slides</a>)
       </td>
     </tr>
     <tr>
@@ -33,6 +34,7 @@
       <td rowspan=3>11:30 ~ 12:00</td>
       <td>
         <b>특강: 오래된 PostGIS 최신 버전으로 바꿔 쓰기</b>
+          (<a href="slides/FOSS4GKorea2022-PostGIS-KimSanggi.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -49,6 +51,7 @@
       <td rowspan=3>13:30 ~ 13:50</td>
       <td>
         <b>Vector Tiles cartography with MapTiler and MapLibre</b>
+          (<a href="slides/FOSS4GKorea2022-VectorTilesCartography-MapTiler.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -78,6 +81,7 @@
       <td rowspan=3>14:10 ~ 14:30</td>
       <td>
         <b>스마트시티 위치정보 기반 장애인 이동성 경로의 탐색</b>
+          (<a href="slides/FOSS4GKorea2022-SmartCity-Mobility-ChoiJiHoon.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -118,6 +122,7 @@
       <td rowspan=3>15:40 ~ 16:00</td>
       <td>
         <b>오픈소스 GIS  교육 활성화를 위한 공간정보아카데미 확대 방안(오픈소스 GIS Tool 중심으로)</b>
+          (<a href="slides/FOSS4GKorea2022-LX-Education-RyouSoungyoo.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -130,6 +135,7 @@
       <td rowspan=3>16:00 ~ 16:20</td>
       <td>
         <b>오픈소스를 활용한 다양한 카토그램 만들기</b>
+          (<a href="slides/FOSS4GKorea2022-Cartogram-LeeDonghoon.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -142,6 +148,7 @@
       <td rowspan=3>16:20 ~ 16:40</td>
       <td>
         <b>국방디지털트윈 플랫폼에서 군 지형정보 분석 서비스를 위한 OpenGXT 적용 방안</b>
+          (<a href="slides/FOSS4GKorea2022-OpenGXTforMilitaryAnalysis-LeeMinpa.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -156,6 +163,7 @@
       <td rowspan=3>16:40 ~ 17:00</td>
       <td>
         <b>FOSS4G ASIA 2023 유치와 한국어 지부의 역할</b>
+          (<a href="slides/FOSS4GKorea2022-FOSS4GASIA2023-ChoiJunYoung.pdf">slides</a>)
       </td>
     </tr>
     <tr>
