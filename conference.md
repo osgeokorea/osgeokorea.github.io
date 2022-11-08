@@ -95,6 +95,7 @@
       <td rowspan=3>14:30 ~ 14:50</td>
       <td>
         <b>세상을 담고, 세상과 공유하는 스마트서울맵</b>
+          (<a href="slides/FOSS4GKorea2022-SmartSeoulMap-LeeYongik.pdf">slides</a>)
       </td>
     </tr>
     <tr>
