@@ -65,6 +65,7 @@
       <td rowspan=3>13:50 ~ 14:10</td>
       <td>
         <b>MilMap의 현재와 미래 - 국방지형정보포털에서 국방디지털트윈으로</b>
+          (<a href="slides/FOSS4GKorea2022-MilMap-KangSungjin.pdf">slides</a>)
       </td>
     </tr>
     <tr>
