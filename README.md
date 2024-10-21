@@ -7,7 +7,7 @@
  - 장소: 서울시립대학교
 
 ## ■ 진행중인 이벤트
- - [슬로건 공모 (진행중)](https://forms.gle/GDSJju3zKGX6KGmZ6):  ~ 10월 20(일) 18:00
+ - [슬로건 선정 투표 (진행중)](https://forms.gle/b2TKaE1RMeZNbMTCA):  ~ 10월 27(일) 18:00
  - [기술워크숍 진행자 모집 (진행중)](https://forms.gle/LWUVb8XHhQAYiWA18): ~ 10월 30일(수) 18:00
  - 기술워크숍 참가자 모집 (예정):  ~ 11월 20일(수) 18:00
  - [구두 발표자 모집 (진행중)](https://forms.gle/REzVV2ekpeBQkwoS8): ~ 11월 10일(일) 18:00
