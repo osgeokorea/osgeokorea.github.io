@@ -7,13 +7,14 @@
  - 장소: 서울시립대학교
 
 ## ■ 진행중인 이벤트
+ - 슬로건 공모 (완료):  ~ 10월 20(일) 18:00
  - [슬로건 선정 투표 (진행중)](https://forms.gle/b2TKaE1RMeZNbMTCA):  ~ 10월 27(일) 18:00
  - [기술워크숍 진행자 모집 (진행중)](https://forms.gle/LWUVb8XHhQAYiWA18): ~ 10월 30일(수) 18:00
  - 기술워크숍 참가자 모집 (예정):  ~ 11월 20일(수) 18:00
  - [구두 발표자 모집 (진행중)](https://forms.gle/REzVV2ekpeBQkwoS8): ~ 11월 10일(일) 18:00
  - [2024년 OSGeo 한국어지부 공헌상 후보자 추천 (진행중)](https://forms.gle/m18HTeEF5ocxXDcZ7): ~ 11월 10일 18:00
- - [후원금 모집 안내 (진행중)](https://foss4g.osgeo.kr/sponsor):  ~ 11월 20일(수) 18:00
- - [행사 참가 등록](https://foss4g.osgeo.kr/register):  ~ 11월 24일(일) 18:00
+ - [행사 후원금 모집 (진행중)](https://foss4g.osgeo.kr/sponsor):  ~ 11월 20일(수) 18:00
+ - [행사 및 뒷풀이 참가 등록 (진행중)](https://foss4g.osgeo.kr/register):  ~ 11월 24일(일) 18:00
 
 ## ■ 자원 봉사자 모집
 - 행사 준비에 도움을 주실 분들은 주저하지 마시고 연락 부탁드립니다.
