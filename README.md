@@ -33,30 +33,34 @@ FOSS4G Korea 후원 기관에는 다음과 같은 혜택이 주어집니다.
  - 워크샵 및 본 행사 무료 등록 - 플래티넘 3명, 골드 2명, 실버 1명
  - 뒷풀이 무료 참가 - 플래티넘 3명, 골드 2명, 실버 1명
  - 후원 회사 홍보물을 행사장 등에서 배포 지원
- - OSGeo 한국어 지부 FOSS4G Korea 행사 페이지에 로고 표시 
+ - OSGeo 한국어 지부 FOSS4G Korea 행사 페이지에 로고 표시
 
 ## ■ 후원
 후원해 주신 기관 및 개인 모두에게 진심으로 감사드립니다.
 
 ### ⊙ 플래티넘
+<a href="https://gaia3d.com/"><img src="sponsor/gaia3d.png" width="128" height="48"></a>
 
 ### ⊙ 골드
+<a href="http://www.e-three.co.kr/"><img src="sponsor/e-three.png" width="150" height="48"></a>
 
 ### ⊙ 실버
+<a href="http://www.hermesys.co.kr/"><img src="sponsor/hermesys.png" width="121" height="48"></a>
 
 ### ⊙ 개인
+남광우(국립군산대학교)
 
 
 ## ■ 새소식 및 문의
 행사 소식은 홈페이지, 메일링 리스트, 페이스북, 트위터 등을 통해 지속적으로 제공합니다.
  - [OSGeo Korean Chapter 메일링 리스트](http://groups.google.com/group/osgeo-kr)
  - [Facebook Group - OSGeo Korean Chapter](https://www.facebook.com/groups/OSGeoKR)
- 
+
 기타 문의사항은 [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) 또는 [OSGeo Korean Chapter Mailing List](http://groups.google.com/group/osgeo-kr)에 남겨주세요.
 
 ## ■ 조직위원회
 [신상희](mailto:endofcap@gmail.com), [유병혁](mailto:bhyu@knps.or.kr), [최준영](mailto:novacite@gmail.com), [김지윤](mailto:aliasgis@gmail.com), [이준호](mailto:juno1238@gmail.com),
-[강혜경](mailto:kang.krihs@gmail.com), [오동하](mailto:dongha@bdi.re.kr), [차승훈](mailto:kacgung@gmail.com), [윤정환](mailto:lenablue12@gmail.com), [최규성](mailto:kyusung.choi@gmail.com), 
+[강혜경](mailto:kang.krihs@gmail.com), [오동하](mailto:dongha@bdi.re.kr), [차승훈](mailto:kacgung@gmail.com), [윤정환](mailto:lenablue12@gmail.com), [최규성](mailto:kyusung.choi@gmail.com),
 [정윤재](mailto:choung12osu@gmail.com), [권오균](mailto:kok02@lx.or.kr), [박재현](mailto:parkj73@gmail.com), [김윤지](mailto:jwithmango@gmail.com), [이민파](mailto:mapplus@gmail.com)
 
 ## ■ 행동강령
