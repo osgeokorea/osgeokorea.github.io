@@ -40,6 +40,7 @@ FOSS4G Korea 후원 기관에는 다음과 같은 혜택이 주어집니다.
 
 ### ⊙ 플래티넘
 <a href="https://gaia3d.com/"><img src="sponsor/gaia3d.png" width="128" height="48"></a>
+<a href="https://www.mangosystem.com/"><img src="sponsor/mangosystem.png" width="142" height="48"></a>
 
 ### ⊙ 골드
 <a href="http://www.e-three.co.kr/"><img src="sponsor/e-three.png" width="150" height="48"></a>
