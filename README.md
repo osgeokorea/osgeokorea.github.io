@@ -49,7 +49,7 @@ FOSS4G Korea 후원 기관에는 다음과 같은 혜택이 주어집니다.
 <a href="http://www.hermesys.co.kr/"><img src="sponsor/hermesys.png" width="121" height="48"></a>
 
 ### ⊙ 개인
-남광우(국립군산대학교), 박은순(서울연구원)
+남광우(국립군산대학교), 박은순(서울연구원), 최규성(신한항업)
 
 
 ## ■ 새소식 및 문의
