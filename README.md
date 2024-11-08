@@ -42,12 +42,15 @@ FOSS4G Korea 후원 기관에는 다음과 같은 혜택이 주어집니다.
 <a href="https://gaia3d.com/"><img src="sponsor/gaia3d.png" width="128" height="48"></a>
 <a href="https://www.mangosystem.com/"><img src="sponsor/mangosystem.png" width="142" height="48"></a>
 <a href="https://lxsiedu.or.kr/"><img src="sponsor/lxsiedu-logo.png" width="135" height="48"></a>
+<a href="http://www.forcewave.co.kr/"><img src="sponsor/forcewave.png" width="92" height="48"></a>
 
 ### ⊙ 골드
 <a href="http://www.e-three.co.kr/"><img src="sponsor/e-three.png" width="150" height="48"></a>
 
 ### ⊙ 실버
 <a href="http://www.hermesys.co.kr/"><img src="sponsor/hermesys.png" width="121" height="48"></a>
+<a href="https://semtleware.com/"><img src="sponsor/semtleware.png" width="54" height="48"></a>
+
 
 ### ⊙ 개인
 남광우(국립군산대학교), 박은순(서울연구원), 최규성(신한항업), 손형수, 천정대, 유병혁(국립공원공단), 이용익(서울특별시), 이동훈(가이아쓰리디), 김선화(서울특별시)
