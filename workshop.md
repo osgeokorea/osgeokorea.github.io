@@ -33,15 +33,16 @@ FOSS4G Korea 2024 워크숍 데이는 다음의 주제로 워크숍을 개최합
     </tr>
     <tr>
       <td>
-        - (요약) 크로스오버 오픈소스 프로그램인 QGIS와 Inkscape를 이용하여 도시관리계획도와 같은 도시 및 건축 도면을 직접 작성해보기<br>
-        - (대상 및 목적) 오픈소스를 업무에 도입하려는 도시/건축 분야 종사자, 시각자료 작성 전반에 활용하려는 일반 이용자가 바로 적용할 수 있는 노하우를 공유하는 것<br>
+        - (주제) 크로스오버 오픈소스 프로그램인 QGIS와 Inkscape를 이용하여 도시관리계획도와 같은 도시 및 건축 도면을 직접 작성해보기<br>
+        - (대상) 오픈소스를 업무에 도입하려는 도시/건축 분야 종사자<br>
+        - (목적) 시각자료 작성 전반에 활용하려는 일반 이용자가 바로 적용할 수 있는 노하우를 공유하는 것<br>
       </td>
     </tr>
     <tr>
       <td>
         ※ 준비물:<br>
-        - 프로그램1: QGIS(권장버전: 3.34.11 'Prizren') (download url: https://www.qgis.org/download/)<br>
-        - 프로그램2: Inkscape(권장버전: 1.4) (download url: https://inkscape.org/release/inkscape-1.4/)<br>
+        - 프로그램 1: QGIS(권장버전: 3.34.11 'Prizren')<a href="https://www.qgis.org/download/">프로그램 다운로드</a><br>
+        - 프로그램 2: Inkscape(권장버전: 1.4) <a href="https://inkscape.org/release/inkscape-1.4/">프로그램 다운로드</a><br>
       </td>
     </tr>
   </tbody>
