@@ -49,7 +49,7 @@ FOSS4G Korea 후원 기관에는 다음과 같은 혜택이 주어집니다.
 
 ### ⊙ 실버
 <a href="http://www.hermesys.co.kr/"><img src="sponsor/hermesys.png" width="121" height="48"></a>
-<a href="https://semtleware.com/"><img src="sponsor/semtleware.png" width="54" height="48"></a>
+<a href="https://semtleware.com/"><img src="sponsor/semtleware.png" width="171" height="48"></a>
 
 
 ### ⊙ 개인
