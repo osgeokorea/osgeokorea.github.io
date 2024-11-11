@@ -2,7 +2,7 @@
 **[OSGeo Korean Chapter](https://www.osgeo.kr/)**의 연례 행사이자 대한민국 오픈소스 GIS 관련 최대 축제인 **FOSS4G Korea 2024** 행사를 개최합니다.
 
 ## ■ 행사 일정 및 장소
- - [기술 워크숍](https://foss4g.osgeo.kr/workshop/): 2024년 11월 28일(목)
+ - [기술 워크숍](https://foss4g.osgeo.kr/workshop): 2024년 11월 28일(목)
  - 메인 컨퍼런스(구두발표) 및 연례총회: 2024년 11월 29일(금)
  - 장소: 서울시립대학교 법학관 5층 모의법정실
 
