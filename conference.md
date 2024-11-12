@@ -1,6 +1,6 @@
 ## ■ 메인 컨퍼런스
-  - 일정: 11월 4일 11:00 ~ 17:30
-  - 장소: 경기도 고양시 일산서구 KINTEX 제1전시장 컨퍼런스룸 212호
+  - 일정: 11월 29일(금) 13:00 ~ 17:00
+  - 장소: 서울시립대학교 법학관 5층 모의법정실
   
 ### ⊙ 구두발표
 <table>
@@ -190,7 +190,7 @@
     <tr>
       <td><b>17:00 ~ 17:30</b></td>
       <td><b>OSGeo 한국어지부 연례총회 및 올해의 공헌상, 공로상 시상식</b>
-          (<a href="https://docs.google.com/presentation/d/1gdH4qoJ8ipOAFa1NE0vYIqqHOfhkrj94WHPKpqDj1xw">slides</a>)
+          (<a href="https://docs.google.com/presentation/d/1FoS5phoDLMpA1KwZ3DyeiiC7ViQr-Y4LD6ZqgqnS7Ks">slides</a>)
       </td>
     </tr>
   </tbody>
