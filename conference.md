@@ -1,6 +1,6 @@
 ## ■ 메인 컨퍼런스
   - 일정: 11월 29일(금) 13:00 ~ 17:00
-  - 장소: 서울시립대학교 법학관 5층 모의법정실
+  - 장소: 서울시립대학교 법학관 5층 모의법정실(537호)
   
 ### ⊙ 구두발표
 <table>
@@ -12,168 +12,136 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan=2>10:55 ~ 11:00</td>
+      <td rowspan=2>13:00~13:20</td>
       <td><b>행사 소개 및 행동강령</b></td>
     </tr>
     <tr>
       <td>OSGeo 한국어지부</td>
     </tr>
     <tr>
-      <td rowspan=3>11:00 ~ 11:30</td>
+      <td rowspan=3>13:20~13:40</td>
       <td>
-        <b>특강: OSGeo - The Open Source Geospatial Foundation</b>
-          (<a href="https://docs.google.com/presentation/d/10Qbg_nZSTtfuQvrV6gG5RLbDnMp3WH8IlXn1LuDgFDY">slides</a>)
+        <b>땅만 보다가 바다를 보다.</b>
       </td>
     </tr>
     <tr>
-      <td>Vicky Vergara / OSGeo</td>
+      <td>천정대 / (주)한국해양기상기술</td>
     </tr>
     <tr>
-      <td>An introduction to OSGeo:The Open Source GeoSpatial Foundation</td>
+      <td>현재 회사에서 진행 중인 AI 수색 구조 R&D 개발 내용을 간략히 소개 하고내가 이전에 육상에서 했던 업무와의 차이점어떤 애로 사항이 있는지, 어떤 개발들을 주로 하는지이런 공부나 시야를 넓혔으면 좋겠다는 얘기</td>
     </tr>
     <tr>
-      <td rowspan=3>11:30 ~ 12:00</td>
+      <td rowspan=3>13:40~14:00</td>
       <td>
-        <b>특강: 오래된 PostGIS 최신 버전으로 바꿔 쓰기</b>
-          (<a href="slides/FOSS4GKorea2022-PostGIS-KimSanggi.pdf">slides</a>)
+        <b>인터랙티브 리포트의 현황과 확장방안 - 맞춤형 콘텐츠 제작에서 사용자 정의 도구로</b>
       </td>
     </tr>
     <tr>
-      <td>김상기(Sang-gi Kim) / PostgreSQL Korea</td>
+      <td>서세원 / 조애리 / (주)망고시스템</td>
     </tr>
     <tr>
-      <td>PostGIS 확장 모듈을 사용하는 PostgreSQL 마이그레이션 작업에서 생기는 여러 상황과 해결 방법</td>
-    </tr>
-     <tr>
-      <td>12:00 ~ 13:30</td>
-      <td><b>점심</b></td>
+      <td>인터랙티브 리포트는 국토정책 이슈 관련 데이터 분석결과를 상호작용형 지도 및 그래프 기반의 동적 콘텐츠로 제작하여 분석결과 및 정책 시뮬레이션 결과를 국민 및 이해관계자에게 직관적으로 제공하고 보다 쉽게 이해를 돕는 웹 어플리케이션이다. 본 발표에서는 인터랙티브 리포트의 현황을 소개하고 이를 바탕으로 인터랙티브 리포트의 확장방안을 논의한다.</td>
     </tr>
     <tr>
-      <td rowspan=3>13:30 ~ 13:50</td>
+      <td rowspan=3>14:00~14:20</td>
       <td>
-        <b>Vector Tiles cartography with MapTiler and MapLibre</b>
-          (<a href="slides/FOSS4GKorea2022-VectorTilesCartography-MapTiler.pdf">slides</a>)
+        <b>Data(GIS) & Design</b>
       </td>
     </tr>
     <tr>
-      <td>Nicolas Bozon / MapTiler</td>
+      <td>이남주 / NJSTUDIO</td>
     </tr>
     <tr>
-      <td>MapTiler 서비스 플랫폼 소개</td>
+      <td>Design과정에서의 Data이용 사례를 발표합니다. 특별히 GIS 데이터의 활용과 Vector, Raster 데이터를 다루는 과정도 소개되며 라이브러리와 학습자료가 공유됩니다.</td>
     </tr>
     <tr>
-      <td rowspan=3>13:50 ~ 14:10</td>
+      <td rowspan=3>14:20~14:40</td>
       <td>
-        <b>MilMap의 현재와 미래 - 국방지형정보포털에서 국방디지털트윈으로</b>
-          (<a href="slides/FOSS4GKorea2022-MilMap-KangSungjin.pdf">slides</a>)
+        <b>2023년에 최초 공개한 Mago 3DTiler, 그 이후</b>
       </td>
     </tr>
     <tr>
-      <td>강성진(Sungjin Kang) / 가이아쓰리디(주)</td>
+      <td>김학준 / 가이아쓰리디(주)</td>
     </tr>
     <tr>
-      <td>본 발표에서는 FOSS4G를 활용한 국방지형정보포털 MilMap의 현재와 미래에 관해 논의한다.<br>
-      3년 전 정식 가동에 들어간 MilMap은 국방의 다양한 분야에서 성공적으로 활용되고 있다. 
-      기존 MilMap은 국방지형정보포털의 역할을 수행하기 위해 PostGIS, GeoServer, Cesium, mago3D, OpenGXT 등과 같은 여러 FOSS4G를 이용해 구축되었다.
-      MilMap은 군 관련 주제도 제공, POI 검색, 위성영상 검색 및 내려받기, 좌표독취, 지형분석 등의 다양한 기능을 각군 담당자들에게 웹을 통해 서비스하고 있다.<br>
-      변화하는 전장환경에서 MilMap은 국방지형정보포털에서 디지털트윈 플랫폼으로 그 역할 재정의를 요구 받고 있다. 본 연구진은 더 자동화된 자료 처리 및 적재, 실제 전술공간에서 빠르게 적용할 수 있는 분석 기능 탑재, 저가형 장비 지원 및 강화된 2D/3D 기능 개발, 사용자 맞춤형 기능 제공, 표준 기반의 확장가능하고 유연한 디지털트윈 플랫폼 구현 등을 통해 이러한 요구에 부응하고자 한다.<br>
-      사사(Acknowledgment): 본 연구는 대한민국 정부(산업통상자원부 및 방위사업청) 재원으로 민군협력진흥원에서 수행하는 민군기술협력사업의 연구비 지원으로 수행되었습니다.(협약번호 UM22402RD4)</td>
+      <td>2023년에 오픈소스로 최초 공개했던 3D Tiles 제작 툴인 Mago 3DTiler의 새로운 기능들, 앞으로 무슨 기능들을 추가할 지에 대해 공유합니다.</td>
     </tr>
     <tr>
-      <td rowspan=3>14:10 ~ 14:30</td>
+      <td rowspan=3>14:40~15:00</td>
       <td>
-        <b>스마트시티 위치정보 기반 장애인 이동성 경로의 탐색</b>
-          (<a href="slides/FOSS4GKorea2022-SmartCity-Mobility-ChoiJiHoon.pdf">slides</a>)
+        <b>나의 구글어스엔진 이용기 - 정규화지수 가지고 놀기</b>
       </td>
     </tr>
     <tr>
-      <td>최지훈(Jihoon CHOI) / (주)현정보시스템</td>
+      <td>김지윤 / (주)카본에이스</td>
     </tr>
     <tr>
-      <td>스마트시티 복지 부문 장애인 이동성 시스템을 위치 기반의 경로 탐색 기술을 통해 휠체어를 탄 지체 장애인의 이동 경로인 도로 인접 보도에 대한 보도 네트워크를 구축하고 이를 기반으로한 안전경로의 탐색과 추천을 제공하는 웹 기반 장애인 보도 이동 전용 지도 및 이동성 정보 수집을 위한 크라우드 소싱 앱의 구축 사례와 이를 통한 현안과 구축의 어려움을 공유 하며 향후 비즈니스 서비스로서의 나가야할 방향을 공유</td>
+      <td>영상처리, 정규화지수, 식생 및 토지피복분류 등 구글어스엔진 활용에 대해 공유합니다.</td>
     </tr>
     <tr>
-      <td rowspan=3>14:30 ~ 14:50</td>
-      <td>
-        <b>세상을 담고, 세상과 공유하는 스마트서울맵</b>
-          (<a href="slides/FOSS4GKorea2022-SmartSeoulMap-LeeYongik.pdf">slides</a>)
-      </td>
-    </tr>
-    <tr>
-      <td>이용익(Yong-ik Lee) / 서울특별시 공간정보담당관</td>
-    </tr>
-    <tr>
-      <td>지난 10년간 공간(지도)정보 플랫폼 발전 과정(오픈소스SW 전환 과정, Map SaaS로의 항해 등), 성과와 행정정보의 새로운 시민소통 혁신을 꾀하는 스마트서울맵 운영 전략 및  행정-공간데이터 공유 활용 안내 등</td>
-    </tr>
-    <tr>
-      <td rowspan=3>14:50 ~ 15:10</td>
-      <td>
-        <b>딥러닝 기술을 활용한 도면 컨버전 기술 및 플랫폼 </b>
-      </td>
-    </tr>
-    <tr>
-      <td>박주흠(PARK JU HUM) / (주)다비오 </td>
-    </tr>
-    <tr>
-      <td>이미지 딥러닝 기술을 활용한 플로어 이미지 및 캐드 정보에 대한 벡터정보 자동 변환 기술 및 플랫폼 소개 </td>
-    </tr>
-    <tr>
-      <td>15:10 ~ 15:40</td>
+      <td>15:00 ~ 15:20</td>
       <td><b>휴식</b></td>
     </tr>
     <tr>
-      <td rowspan=3>15:40 ~ 16:00</td>
+      <td rowspan=3>15:20~15:40</td>
       <td>
-        <b>오픈소스 GIS  교육 활성화를 위한 공간정보아카데미 확대 방안(오픈소스 GIS Tool 중심으로)</b>
-          (<a href="slides/FOSS4GKorea2022-LX-Education-RyouSoungyoo.pdf">slides</a>)
+        <b>GPT활용한  엔지니어의  QGIS 플러그인 개발  도전기...</b>
       </td>
     </tr>
     <tr>
-      <td>권오균(Oh-Kyun Kwon) / 한국국토정보공사 공간정보아카데미</td>
+      <td>문치국 / 동부엔지니어링(주)</td>
     </tr>
     <tr>
-      <td>최근 활용도가 증가하고 있는  오픈소스 GIS  Tool별 활용도 확대 및 지식공유를 위한 교육 확대 방안</td>
+      <td>오픈소스인 파이썬과 PyQGIS을  활용한 QGIS 플러그인 개발 도전기.</td>
     </tr>
     <tr>
-      <td rowspan=3>16:00 ~ 16:20</td>
+      <td rowspan=3>15:40~16:00</td>
       <td>
-        <b>오픈소스를 활용한 다양한 카토그램 만들기</b>
-          (<a href="slides/FOSS4GKorea2022-Cartogram-LeeDonghoon.pdf">slides</a>)
+        <b>북한 강선 핵시설 인근 선박 이동량 모니터링 : Sentinel-1 영상의 객체 탐지와 오픈 소스 GIS를 연계하여</b>
       </td>
     </tr>
     <tr>
-      <td>이동훈(Dong-hoon Lee)</td>
+      <td>권봉재 / 서울대학교 건설환경공학부 공간정보센터 GIS/LBS 그룹</td>
     </tr>
     <tr>
-      <td>QGIS/ GeoDA/ Python 등의 환경에서 다양한 카토그램을 만드는 방법을 공유</td>
+      <td>북한 강선은 북한의 핵농축 시설 후보지로 유력한 곳입니다. 본 연구는 Sentinel-1 SAR 영상 기반으로 YOLOv5 객체 탐지 알고리즘을 적용하여 북한 강선 핵시설 인간의 선박량과 변화 추이를 분석합니다. 분석 결과를 QGIS 기반 모니터링 시스템으로 제작하여 핵시설 근방의 이상 징후를 식별하는 데 도움을 주는 것을 목표로 합니다.</td>
     </tr>
     <tr>
-      <td rowspan=3>16:20 ~ 16:40</td>
+      <td rowspan=3>16:00~16:20</td>
       <td>
-        <b>국방디지털트윈 플랫폼에서 군 지형정보 분석 서비스를 위한 OpenGXT 적용 방안</b>
-          (<a href="slides/FOSS4GKorea2022-OpenGXTforMilitaryAnalysis-LeeMinpa.pdf">slides</a>)
+        <b>오픈 SW, 오픈 Data로 만든 오픈 Tour Map, 매력서울지도</b>
       </td>
     </tr>
     <tr>
-      <td>이민파(Minpa Lee) / (주)망고시스템</td>
+      <td>이용익 / 서울특별시청</td>
     </tr>
     <tr>
-      <td>국방디지털트윈 플랫폼에서  OGC WPS 기반 군 지형정보 분석 서비스를 위한 OpenGXT 적용 방안을 논의한다.<br>
-      적용 대상 군 지형정보 분석 서비스는 1. 선형 및 방사형 가시선 분석, 지형 단면도 분석 등 지형분석, 2. 야지기동 분석, 주둔 최적지 분석 등 전술공간 분석, 3. 상습 결빙 지역 분석, 피아접근로 분석, 엄폐/은폐 분석 등 전투지원 분석, 4. 클러스터 분석, 포인트 고도/경사/사면향 값 분석, 버퍼/다중버퍼 분석 등 기타 공간분석 기능으로 구성되며, 웹 환경에서 분석기능을 효율적으로 구현하고 정확도를 검증하기 위한 방안을 알아본다.<br>
-      사사(Acknowledgment): 본 연구는 대한민국 정부(산업통상자원부 및 방위사업청) 재원으로 민군협력진흥원에서 수행하는 민군기술협력사업의 연구비 지원으로 수행되었습니다.(협약번호 UM22402RD4)</td>
+      <td>서울시는 2017년부터 꾸준히 오픈소스 SW 기반으로 지도정보 플랫폼을 구축 운영하면서,  정책정보를 시민과 소통하기 위하여 스마트서울맵 서비스를 운영해 왔음. 이에 더하여 올해엔 외래 관광객을 위해서 새로운 Geo-Web Service인 매력서울지도(가칭)를 구축 중에 있어 이를 소개하고자 함</td>
     </tr>
     <tr>
-      <td rowspan=3>16:40 ~ 17:00</td>
+      <td rowspan=3>16:20~16:40</td>
       <td>
-        <b>FOSS4G ASIA 2023 유치와 한국어 지부의 역할</b>
-          (<a href="slides/FOSS4GKorea2022-FOSS4GASIA2023-ChoiJunYoung.pdf">slides</a>)
+        <b>물분야 QGIS plugin 개발 회고 (애자일,오픈소스 관점)</b>
       </td>
     </tr>
     <tr>
-      <td>최준영(Junyoung CHOI) / 서울기술연구원</td>
+      <td>원영진 / (주)헤르메시스</td>
     </tr>
     <tr>
-      <td>FOSS4G 2023 ASIA 유치과정을 공유하고 행사를 준비하기 위한 커뮤니티의 역할에 대해 논의</td>
+      <td>물분야 SW 개발에 10년 이상 종사하고 있음초기 상용 SW 중심. 최근엔 오픈소스 중심QGIS 플러그인 개발 사례를 공유하고자 함어떤 특장점이 있었는지어떤 어려움이 있었는지 학술적 연구 발표라기 보다는 사례 공유 수준이 되겠습니다.</td>
+    </tr>
+    <tr>
+      <td rowspan=3>16:40:17:00</td>
+      <td>
+        <b>환경영향평가 스코핑 의사결정 지원 시스템</b>
+      </td>
+    </tr>
+    <tr>
+      <td>이민파 / (주)망고시스템</td>
+    </tr>
+    <tr>
+      <td>환경영향평가를 실시하기 전, 사업자는 「환경영향평가법」 및 「환경영향평가서등 작성 등에 관한 규정」에 따라 평가준비서를 작성하거나 환경영향평가협의회 심의를 이행해야 합니다. 이러한 과정에서 환경영향평가 항목 등의 결정을 지원하는 오픈소스 GIS 소프트웨어와 공간정보 기반의 의사결정 지원 시스템을 소개합니다.<br>
+* 사사: 본 연구는 2024년도 환경부의 재원으로 한국환경산업기술원의 ICT기반 환경영향평가 의사결정지원 기술개발사업의 지원을 받아 수행된 연구임(No. 2020002990003).</td>
     </tr>
   </tbody>
 </table>
