@@ -8,8 +8,8 @@
 
 ## ■ 진행중인 이벤트
  - [기술워크숍 참가자 모집 (진행중)](https://forms.gle/dHqfNoNGSEztqDBz5):  ~ 11월 27일(수) 18:00
- - [행사 후원금 모집 (진행중)](https://foss4g.osgeo.kr/sponsor):  ~ 11월 20일(수) 18:00
- - [행사 및 뒷풀이 참가 사전 등록 (진행중)](https://foss4g.osgeo.kr/register):  ~ 11월 24일(일) 18:00
+ - [행사 후원금 모집 (진행중)](https://foss4g.osgeo.kr/sponsor):  ~ 11월 25일(월) 18:00
+ - [행사 및 뒷풀이 참가 사전 등록 (진행중)](https://foss4g.osgeo.kr/register):  ~ 11월 25일(월) 18:00
 
 ## ■ 자원 봉사자 모집
 - 행사 준비에 도움을 주실 분들은 주저하지 마시고 연락 부탁드립니다.
@@ -41,6 +41,7 @@ FOSS4G Korea 후원 기관에는 다음과 같은 혜택이 주어집니다.
 
 ### ⊙ 골드
 <a href="http://www.e-three.co.kr/"><img src="sponsor/e-three.png" width="150" height="48"></a>
+<a href="https://innopam.com/"><img src="sponsor/innopam.png" width="115" height="48"></a>
 
 ### ⊙ 실버
 <a href="http://www.hermesys.co.kr/"><img src="sponsor/hermesys.png" width="121" height="48"></a>
