@@ -82,7 +82,7 @@ FOSS4G Korea 2024 참가자는 OSGeo 행동 강령에 따라 타인에 대해 �
 <center>
 <a href="https://www.osgeo.kr/"><img src="images/osgeo.kr-2022-logo.png" width="139" height="75"></a>
 <a href="https://kgeofesta.kr/"><img src="images/kgeofesta-logo.png" width="94" height="75"></a>
-<a href="https://lxsiedu.or.kr/"><img src="sponsor/lxsiedu-logo.png" width="211" height="75"></a>
+<a href="https://lxsiedu.or.kr/"><img src="sponsor/lxsiedu-logo.png" width="277" height="75"></a>
 </center>
 
 ## ■ 특별한 감사
