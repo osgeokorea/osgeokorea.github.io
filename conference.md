@@ -34,6 +34,7 @@
       <td rowspan=3>13:40~14:00</td>
       <td>
         <b>인터랙티브 리포트의 현황과 확장방안 - 맞춤형 콘텐츠 제작에서 사용자 정의 도구로</b>
+          (<a href="slides/FOSS4GKorea2024-InteractiveReport-SewonSeo-AeriCho.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -46,6 +47,7 @@
       <td rowspan=3>14:00~14:20</td>
       <td>
         <b>Data(GIS) & Design</b>
+          (<a href="https://namjulee.github.io/njs-lab-public/project/2024-foss4g-korea/2024-foss4g-korea.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -58,6 +60,7 @@
       <td rowspan=3>14:20~14:40</td>
       <td>
         <b>2023년에 최초 공개한 Mago 3DTiler, 그 이후</b>
+          (<a href="slides/FOSS4GKorea2024-mago3DTiler-HakjoonKim.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -98,6 +101,7 @@
       <td rowspan=3>15:40~16:00</td>
       <td>
         <b>북한 강선 핵시설 인근 선박 이동량 모니터링 : Sentinel-1 영상의 객체 탐지와 오픈 소스 GIS를 연계하여</b>
+          (<a href="slides/FOSS4GKorea2024-MonitoringVesselMovements-BongjaeKWON.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -122,6 +126,7 @@
       <td rowspan=3>16:20~16:40</td>
       <td>
         <b>물분야 QGIS plugin 개발 회고 (애자일,오픈소스 관점)</b>
+          (<a href="slides/FOSS4GKorea2024-HermeSys-YJWON.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -134,6 +139,7 @@
       <td rowspan=3>16:40:17:00</td>
       <td>
         <b>환경영향평가 스코핑 의사결정 지원 시스템</b>
+          (<a href="slides/FOSS4GKorea2024-ScopingEIA-MinpaLee.pdf">slides</a>)
       </td>
     </tr>
     <tr>
