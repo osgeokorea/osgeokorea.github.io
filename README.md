@@ -1,20 +1,22 @@
 
 **[OSGeo Korean Chapter](https://www.osgeo.kr/)**의 연례 행사이자 대한민국 오픈소스 GIS 관련 최대 축제인 **FOSS4G Korea 2025** 행사를 개최합니다.
 
-## ■ 프로그램
- - [기술 워크숍](https://foss4g.osgeo.kr/workshop): 2025년 12월 5일(금)
- - [메인 컨퍼런스(구두발표) 및 연례총회](https://foss4g.osgeo.kr/conference): 2025년 12월 5일(금)
+## ■ 전체 프로그램
+ - [기술 워크숍](https://foss4g.osgeo.kr/workshop): 2025년 12월 5일(금) 09:00 ~ 12:00
+ - [메인 컨퍼런스(구두발표) 및 연례총회](https://foss4g.osgeo.kr/conference): 2025년 12월 5일(금) 13:00 ~ 18:00
  - 장소: 서울 구로구 가마산로 242, 3층, LX 공간정보아카데미
 
 
-## ■ 현재 진행중인 이벤트
+## ■ 진행중인 이벤트
  - [행사 슬로건 공모 (진행중)](https://forms.gle/8a7p3tutv92NiHueA):  ~ 10월 22일(수) 18:00
  - [기술워크숍 진행자 모집 (진행중)](https://forms.gle/35Vx4ECCffxQg5HcA):  ~ 10월 31일(금) 18:00
  - [후원금 모집 (진행중)](https://foss4g.osgeo.kr/sponsor):  ~ 11월 28일(금) 18:00
  
  - [올해의 공헌상 후보자 추천 (진행중)](https://forms.gle/jbWh9jkWMFDVNmvM6):  ~ 11월 14일(금) 18:00
  - [구두발표자 모집 (진행중)](https://forms.gle/yexCDHLHARkAEWP29):  ~ 11월 17일(월) 18:00
- - [메인 컨퍼런스 참가 등록 (진행중)](https://foss4g.osgeo.kr/register):  ~ 12월 3일(수) 18:00
+ - [컨퍼런스, 뒷풀이 참가자 등록 (진행중)](https://foss4g.osgeo.kr/register):  ~ 12월 3일(수) 18:00
+ 
+ - 행사 슬로건 선정 투표 (준비중):  ~ 10월 30일(목) 18:00
  - 기술워크숍 참가자 모집 (준비중):  ~ 12월 3일(수) 18:00
 
 
@@ -28,13 +30,14 @@
  - [후원금 모집 (진행중)](https://foss4g.osgeo.kr/sponsor):  ~ 11월 28일(금) 18:00
 
 ### ⊙ 플래티넘
+<a href="https://gaia3d.com/"><img src="sponsor/gaia3d.png" width="128" height="48"></a>
 
 ### ⊙ 골드
 
 ### ⊙ 실버
 
 ### ⊙ 개인
-
+이용익(서울특별시)
 
 
 ## ■ 새소식 및 문의
