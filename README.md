@@ -69,13 +69,7 @@ FOSS4G Korea 2025 참가자는 OSGeo 행동 강령에 따라 타인에 대해 �
 이 행사는 국내 유일 공간정보 전문 교육 기관 [LX 공간정보 아카데미](https://lxsiedu.or.kr), 아시아 최대 공간정보 박람회 [K-GEO Festa](https://kgeofesta.kr/)와 함께합니다.    
 <center>
 <a href="https://www.osgeo.kr/"><img src="images/osgeo.kr-2022-logo.png" width="139" height="75"></a>
-<a href="https://lxsiedu.or.kr/"><img src="images/lxsiedu-logo.png" width="277" height="75"></a>
-<a href="https://kgeofesta.kr/"><img src="images/kgeofesta-logo.png" width="94" height="75"></a>
+<a href="https://lxsiedu.or.kr/"><img src="images/lxsiedu-logo.png" width="221" height="60"></a>
 </center>
 
-## ■ 특별한 감사
-
-행사 장소를 제공해 준 [LX 공간정보 아카데미](https://lxsiedu.or.kr)에 감사드립니다.
-<center>
-<a href="https://lxsiedu.or.kr/"><img src="images/lxsiedu-logo.png" width="277" height="75"></a>
-</center>
+※ 행사 장소를 제공해 준 [LX 공간정보 아카데미](https://lxsiedu.or.kr)에 감사드립니다.
