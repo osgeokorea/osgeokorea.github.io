@@ -1,3 +1,4 @@
+![screenshot](images/foss4gkorea-logo.png?width=600)
 
 **[OSGeo Korean Chapter](https://www.osgeo.kr/)**의 연례 행사이자 대한민국 오픈소스 GIS 관련 최대 축제인 **FOSS4G Korea 2021** 행사를 **온라인**으로 개최합니다.
 
