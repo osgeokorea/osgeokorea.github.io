@@ -2,14 +2,14 @@
 **[OSGeo Korean Chapter](https://www.osgeo.kr/)**의 연례 행사이자 대한민국 오픈소스 GIS 관련 최대 축제인 **FOSS4G Korea 2024** 행사를 개최합니다.
 
 ## ■ 프로그램
- - [기술 워크숍](https://foss4g.osgeo.kr/workshop): 2024년 11월 28일(목)
- - [메인 컨퍼런스(구두발표) 및 연례총회](https://foss4g.osgeo.kr/conference): 2024년 11월 29일(금)
+ - [기술 워크숍](https://foss4g.osgeo.kr/repository/2024/workshop): 2024년 11월 28일(목)
+ - [메인 컨퍼런스(구두발표) 및 연례총회](https://foss4g.osgeo.kr/repository/2024/conference): 2024년 11월 29일(금)
  - 장소: 서울시립대학교 법학관 5층 모의법정실(537호) 
 
 ## ■ 참가 등록
  - 워크숍 + 컨퍼런스(기념품 증정) 등록과 11월 29일 뒷풀이(현장 3만원) 등록으로 구분
  - 후원기관 플래티넘 3인, 골드레벨 2인, 실버레벨 1인, 개인후원 1인에 대해 워크숍 1세션 및 본 행사 참가비 면제
- - [컨퍼런스, 뒷풀이 참가자 등록과 등록비용 납부 방법](https://foss4g.osgeo.kr/register)
+ - [컨퍼런스, 뒷풀이 참가자 등록과 등록비용 납부 방법](https://foss4g.osgeo.kr/repository/2024/register)
 
 ## ■ 후원
 후원해 주신 기관 및 개인 모두에게 진심으로 감사드립니다.
