@@ -1,3 +1,4 @@
+![screenshot](images/foss4gkorea-logo.png?width=600)
 
 **[OSGeo Korean Chapter](https://www.osgeo.kr/)**의 연례 행사이자 대한민국 오픈소스 GIS 관련 최대 축제인 **FOSS4G Korea 2022** 행사를 3년만에 오프라인으로 개최합니다.
 이번 행사는 아시아 최대 규모의 공간정보 기술교류 박람회인 **[2022 스마트국토엑스포](https://smartgeoexpo.kr)**와 함께합니다.
