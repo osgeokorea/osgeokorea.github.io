@@ -45,7 +45,7 @@
  - [OSGeo Korean Chapter 메일링 리스트](http://groups.google.com/group/osgeo-kr)
  - [Facebook Group - OSGeo Korean Chapter](https://www.facebook.com/groups/OSGeoKR)
 
-기타 문의사항은 [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) 또는 [OSGeo Korean Chapter Mailing List](http://groups.google.com/group/osgeo-kr)에 남겨주세요.
+기타 문의사항은 [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) 또는 [메일링 리스트](http://groups.google.com/group/osgeo-kr)에 남겨주세요.
 
 ## ■ 조직위원회
 [신상희](mailto:endofcap@gmail.com), [이민파](mailto:mapplus@gmail.com), [차승훈](mailto:kacgung@gmail.com), [최정주](mailto:jchoi@lx.or.kr)
