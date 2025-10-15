@@ -1,6 +1,9 @@
 [![Korean](https://img.shields.io/badge/language-Korean-blue.svg)](https://foss4g.osgeo.kr/)
 [![English](https://img.shields.io/badge/language-English-orange.svg)](en)
 
+![screenshot](images/foss4gkorea2020-logo.png?width=600)
+
+
 **[OSGeo Korean Chapter](https://www.osgeo.kr/)**의 연례 행사이자 대한민국 오픈소스 GIS 관련 최대 축제인 **FOSS4G Korea 2020** 행사를 **2020년 11월 12일부터 13일**까지 양일간 개최합니다.
 
 이번 행사는 처음으로 **온라인**으로 개최할 예정이며, **한국어 트랙**과 **영어 트랙**으로 구분하여 진행합니다.
