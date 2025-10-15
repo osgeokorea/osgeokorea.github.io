@@ -15,13 +15,17 @@ FOSS4G Korea 후원 기관에는 다음과 같은 혜택이 주어집니다.
 
 후원 등급과 후원금은 다음과 같습니다.
 
-<div class="table-wrapper">
-
-| **후원 등급** | **후원금** |
-|:-------------:|:-----------:|
-| **플래티넘** | **100만원(부가세 별도)** |
-| **골드**     | **50만원(부가세 별도)**  |
-| **실버**     | **30만원(부가세 별도)**  |
-| **개인**     | **10만원**  |
-
-</div>
+<table style="width:100%; text-align:center; border-collapse:collapse;">
+  <thead>
+    <tr>
+      <th>후원 등급</th>
+      <th>후원금</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><b>플래티넘</b></td><td><b>100만원(부가세 별도)</b></td></tr>
+    <tr><td><b>골드</b></td><td><b>50만원(부가세 별도)</b></td></tr>
+    <tr><td><b>실버</b></td><td><b>30만원(부가세 별도)</b></td></tr>
+    <tr><td><b>개인</b></td><td><b>10만원</b></td></tr>
+  </tbody>
+</table>
