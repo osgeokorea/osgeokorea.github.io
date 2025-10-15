@@ -73,9 +73,4 @@ FOSS4G Korea 2025 참가자는 OSGeo 행동 강령에 따라 타인에 대해 �
 <a href="https://kgeofesta.kr/"><img src="images/kgeofesta-logo.png" width="94" height="75"></a>
 </center>
 
-## ■ 특별한 감사
-
-행사 장소를 제공해 준 [LX 공간정보 아카데미](https://lxsiedu.or.kr)에 감사드립니다.
-<center>
-<a href="https://lxsiedu.or.kr/"><img src="images/lxsiedu-logo.png" width="277" height="75"></a>
-</center>
+※ 행사 장소를 제공해 준 [LX 공간정보 아카데미](https://lxsiedu.or.kr)에 감사드립니다.
