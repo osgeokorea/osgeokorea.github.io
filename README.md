@@ -38,7 +38,7 @@
 ### ⊙ 실버
 
 ### ⊙ 개인
-이용익(서울특별시)
+이용익(서울특별시), 이동훈(가이아쓰리디)
 
 
 ## ■ 새소식 및 문의
@@ -53,8 +53,7 @@
 [박재현](mailto:parkj73@gmail.com), [김윤지](mailto:jwithmango@gmail.com), [윤정환](mailto:lenablue12@gmail.com)
 
 ## ■ 행동강령
-FOSS4G Korea 2025 참가자는 OSGeo 행동 강령에 따라 타인에 대해 정중하게 행동해야합니다.
- - [OSGeo Code of Conduct](https://www.osgeo.org/code_of_conduct/).
+FOSS4G Korea 2025 참가자는 OSGeo 행동 강령에 따라 타인에 대해 정중하게 행동해야합니다. [OSGeo Code of Conduct](https://www.osgeo.org/code_of_conduct/).
 
 ## ■ 지난 행사
  - [FOSS4G Korea 2024](https://foss4g.osgeo.kr/repository/2024/)
