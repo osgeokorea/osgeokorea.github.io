@@ -8,11 +8,13 @@
 
 
 ## ■ 진행중인 이벤트
- - [행사 슬로건 공모 (진행중)](https://forms.gle/8a7p3tutv92NiHueA):  ~ 10월 22일(수) 18:00
+ - 행사 슬로건 공모 (마감)]:  ~ 10월 22일(수) 18:00
+ 
+ - [행사 슬로건 선정 투표 (진행중)](https://forms.gle/b4S839DTHpuhvFUq6):  ~ 10월 30일(목) 18:00
  - [기술워크숍 진행자 모집 (진행중)](https://forms.gle/35Vx4ECCffxQg5HcA):  ~ 10월 31일(금) 18:00
- - [후원금 모집 (진행중)](https://foss4g.osgeo.kr/sponsor):  ~ 11월 28일(금) 18:00 
  - [올해의 공헌상 후보자 추천 (진행중)](https://forms.gle/jbWh9jkWMFDVNmvM6):  ~ 11월 14일(금) 18:00
  - [구두발표자 모집 (진행중)](https://forms.gle/yexCDHLHARkAEWP29):  ~ 11월 17일(월) 18:00
+ - [후원금 모집 (진행중)](https://foss4g.osgeo.kr/sponsor):  ~ 11월 28일(금) 18:00 
  
  - [컨퍼런스, 뒷풀이 참가자 등록 (진행중)](https://foss4g.osgeo.kr/register):  ~ 12월 3일(수) 18:00
  
