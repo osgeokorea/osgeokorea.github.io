@@ -40,7 +40,7 @@ FOSS4G Korea 2025 워크숍 데이는 다음의 주제로 워크숍을 개최합
         이 워크샵을 마치면 참가자들은 다음을 수행할 수 있습니다:<br>
           <br>
         1. 워크샵 지역에서 오픈 데이터 수집 및 다운로드<br>
-        2. GDAL 및 <a href="https://github.com/Gaia3D/mago-3d-tiler">mago3DTiler</a>를 사용한 3D 건물 데이터 처리 및 변환<br>
+        2. <a href="https://gdal.org">GDAL</a> 및 <a href="https://github.com/Gaia3D/mago-3d-tiler">mago3DTiler</a>를 사용한 3D 건물 데이터 처리 및 변환<br>
         3. <a href="https://github.com/Gaia3D/mago-3d-terrainer">mago3DTerrainer</a>를 활용한 DEM 데이터 기반 지형 모델 생성<br>
         4. 포인트 클라우드 데이터 변환 및 식생 기반 개체목 가시화<br>
         5. OGC WMTS를 사용한 지오스페이셜 데이터 서빙<br>
@@ -52,13 +52,13 @@ FOSS4G Korea 2025 워크숍 데이는 다음의 주제로 워크숍을 개최합
       <td>
         ※ 준비물:<br>
           1. 소프트웨어 요구사항<br>
-          - Docker Desktop (Windows/Mac) 또는 Docker Engine (Linux)<br>
+          - <a href="https://www.docker.com/">Docker</a> Desktop (Windows/Mac) 또는 Docker Engine (Linux)<br>
           - 저장소 클론을 위한 Git<br>
-          - Python (버전 3.8 이상)<br>
-          - Node.js (버전 14 이상)<br>
-          - IDE: Visual Studio Code 또는 IntelliJ IDEA (권장)<br>
+          - <a href="https://www.python.org/">Python</a> (버전 3.8 이상)<br>
+          - <a href="https://nodejs.org/">Node.js</a> (버전 14 이상)<br>
+          - IDE: <a href="https://code.visualstudio.com/">Visual Studio Code</a> 또는 <a href="https://www.jetbrains.com/ko-kr/idea/">IntelliJ IDEA</a> (권장)<br>
           - 웹 브라우저: Chrome, Firefox 또는 Edge (최신 버전)<br>
-          - Cesium ion access token: cesium.com/ion에서 무료 계정을 생성하고 access token을 발급<br>
+          - Cesium ion access token: <a href="https://ion.cesium.com">Cesium ion</a>에서 무료 계정을 생성하고 access token을 발급<br>
           <br>
           2. 하드웨어 요구사항<br>
           - 개인용 노트북<br>
@@ -92,7 +92,7 @@ FOSS4G Korea 2025 워크숍 데이는 다음의 주제로 워크숍을 개최합
       </td>
     </tr>
     <tr>
-      <td>진행자: <a href="mailto:mapplus@gmail.com">이민파</a> / <a href="https://mangosystem.com/">(주)망고시스템]</a></td>
+      <td>진행자: <a href="mailto:mapplus@gmail.com">이민파</a> / <a href="https://mangosystem.com/">(주)망고시스템</a></td>
     </tr>
     <tr>
       <td>장소: LX 공간정보아카데미 강의실</td>
@@ -117,7 +117,7 @@ FOSS4G Korea 2025 워크숍 데이는 다음의 주제로 워크숍을 개최합
           <br>
           2. 사전 지식<br>
             - <a href="https://qgis.org/">QGIS</a> 기본 기능에 대한 이해와 경험<br>
-            - <a href="https://chatgpt.com/">ChatGPT</a>, <a href="https://qgis.org/">Claude</a>, <a href="https://gemini.google.com/app/">Gemini</a>, <a href="https://grok.com/">Grok</a>, 중 2개 이상의 계정(무료, 유료 모두 가능)<br>
+            - <a href="https://chatgpt.com/">ChatGPT</a>, <a href="https://claude.ai/">Claude</a>, <a href="https://gemini.google.com/">Gemini</a>, <a href="https://grok.com/">Grok</a>, 중 2개 이상의 계정(무료, 유료 모두 가능)<br>
       </td>
     </tr>
   </tbody>
