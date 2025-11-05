@@ -37,9 +37,10 @@
 <a href="https://www.ethree.co.kr/"><img src="sponsor/e-three.png" width="150" height="48"></a>
 
 ### ⊙ 실버
+<a href="https://www.carbonace.co.kr/"><img src="sponsor/carbonace.png" width="201" height="48"></a>
 
 ### ⊙ 개인
-이용익(서울특별시), 이동훈(가이아쓰리디), 남광우(국립군산대학교), 손형수(신한항업), 박천길(가이아쓰리디), 최규성(신한항업)
+이용익(서울특별시), 이동훈(가이아쓰리디), 남광우(국립군산대학교), 손형수(신한항업), 박천길(가이아쓰리디), 최규성(신한항업), 박은순(서울연구원), 이봉주(서울특별시)
 
 
 ## ■ 새소식 및 문의
