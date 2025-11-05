@@ -27,7 +27,7 @@ FOSS4G Korea 2025 워크숍 데이는 다음의 주제로 워크숍을 개최합
       </td>
     </tr>
     <tr>
-      <td>진행자: <a href="mailto:yhjeong@gaia3d.com">정연화, 조성준, 윤정인</a> / 가이아쓰리디(주)</td>
+      <td>진행자: <a href="mailto:yhjeong@gaia3d.com">정연화, 조성준, 윤정인</a> / <a href="https://gaia3d.com/">가이아쓰리디(주)</a></td>
     </tr>
     <tr>
       <td>장소: LX 공간정보아카데미 강의실</td>
@@ -40,8 +40,8 @@ FOSS4G Korea 2025 워크숍 데이는 다음의 주제로 워크숍을 개최합
         이 워크샵을 마치면 참가자들은 다음을 수행할 수 있습니다:<br>
           <br>
         1. 워크샵 지역에서 오픈 데이터 수집 및 다운로드<br>
-        2. GDAL 및 mago3DTiler를 사용한 3D 건물 데이터 처리 및 변환<br>
-        3. mago3DTerrainer를 활용한 DEM 데이터 기반 지형 모델 생성<br>
+        2. GDAL 및 <a href="https://github.com/Gaia3D/mago-3d-tiler">mago3DTiler</a>를 사용한 3D 건물 데이터 처리 및 변환<br>
+        3. <a href="https://github.com/Gaia3D/mago-3d-terrainer">mago3DTerrainer</a>를 활용한 DEM 데이터 기반 지형 모델 생성<br>
         4. 포인트 클라우드 데이터 변환 및 식생 기반 개체목 가시화<br>
         5. OGC WMTS를 사용한 지오스페이셜 데이터 서빙<br>
         6. CesiumJS를 활용한 인터랙티브 3D 웹 애플리케이션 생성<br>
@@ -92,7 +92,7 @@ FOSS4G Korea 2025 워크숍 데이는 다음의 주제로 워크숍을 개최합
       </td>
     </tr>
     <tr>
-      <td>진행자: <a href="mailto:mapplus@gmail.com">이민파</a> / (주)망고시스템</td>
+      <td>진행자: <a href="mailto:mapplus@gmail.com">이민파</a> / <a href="https://mangosystem.com/">(주)망고시스템]</a></td>
     </tr>
     <tr>
       <td>장소: LX 공간정보아카데미 강의실</td>
@@ -112,12 +112,12 @@ FOSS4G Korea 2025 워크숍 데이는 다음의 주제로 워크숍을 개최합
         ※ 준비물:<br>
           1. 하드웨어 및 소프트웨어 요구사항<br>
             - 인터넷 연결 가능한 컴퓨터(아카데미) 또는 개인용 노트북<br>
-            - QGIS LTR 버전 설치<br>
-            - GPT 사용을 위한 계정 준비 및 (가능하다면) API 키 또는 웹 접속 가능 환경<br>
+            - <a href="https://qgis.org/">QGIS</a> LTR 버전 설치<br>
+            - GPT 사용을 위한 계정 준비<br>
           <br>
           2. 사전 지식<br>
-            - QGIS 기본 기능에 대한 이해와 경험<br>
-            - ChatGPT, Claude, Gemini, Grok 중 2개 이상의 계정(무료, 유료 모두 가능)<br>
+            - <a href="https://qgis.org/">QGIS</a> 기본 기능에 대한 이해와 경험<br>
+            - <a href="https://chatgpt.com/">ChatGPT</a>, <a href="https://qgis.org/">Claude</a>, <a href="https://gemini.google.com/app/">Gemini</a>, <a href="https://grok.com/">Grok</a>, 중 2개 이상의 계정(무료, 유료 모두 가능)<br>
       </td>
     </tr>
   </tbody>
