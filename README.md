@@ -15,9 +15,8 @@
  - [올해의 공헌상 후보자 추천 (진행중)](https://forms.gle/jbWh9jkWMFDVNmvM6):  ~ 11월 16일(일) 18:00 
  - [구두발표자 모집 (진행중)](https://forms.gle/yexCDHLHARkAEWP29):  ~ 11월 17일(월) 18:00 
  - [후원금 모집 (진행중)](https://foss4g.osgeo.kr/sponsor):  ~ 11월 28일(금) 18:00  
- - [컨퍼런스, 뒷풀이 참가자 등록 (진행중)](https://foss4g.osgeo.kr/register):  ~ 12월 3일(수) 18:00 
- 
- - 기술워크숍 참가자 모집 (준비중):  ~ 12월 3일(수) 18:00
+ - [컨퍼런스, 뒷풀이 참가자 등록 (진행중)](https://foss4g.osgeo.kr/register):  ~ 12월 3일(수) 18:00  
+ - [기술워크숍 참가자 모집 (진행중)](https://forms.gle/ByxsH3RTTf3jn4VM7):  ~ 12월 3일(수) 18:00
 
 
 ## ■ 참가 등록
