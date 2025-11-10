@@ -76,5 +76,5 @@ FOSS4G Korea 2025 참가자는 OSGeo 행동 강령에 따라 타인에 대해 �
 </center>
 
 ## ■ 특별한 감사
-※ 행사 장소를 제공해 준 [LX 공간정보 아카데미](https://lxsiedu.or.kr)에 감사드립니다.
-※ 행사 전반을 준비해 준 [(주)망고시스템](https://www.mangosystem.com/)에 감사드립니다.
+  ※ 행사 장소를 제공해 준 [LX 공간정보 아카데미](https://lxsiedu.or.kr)에 감사드립니다.  
+  ※ 행사 전반을 준비해 준 [(주)망고시스템](https://www.mangosystem.com/)에 감사드립니다.
