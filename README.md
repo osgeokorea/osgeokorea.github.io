@@ -31,11 +31,13 @@
 
 ### ⊙ 플래티넘
 <a href="https://gaia3d.com/"><img src="sponsor/gaia3d.png" width="128" height="48"></a>
+<a href="http://www.forcewave.co.kr/"><img src="sponsor/forcewave.png" width="104" height="54"></a>
 
 ### ⊙ 골드
 <a href="https://semtleware.com/"><img src="sponsor/semtleware.png" width="205" height="48"></a>
 <a href="https://www.ethree.co.kr/"><img src="sponsor/e-three.png" width="150" height="48"></a>
 <a href="https://www.mangosystem.com/"><img src="sponsor/mangosystem.png" width="142" height="48"></a>
+<a href="https://stadiamaps.com/"><img src="sponsor/stadiamaps.png" width="163" height="48"></a>
 
 ### ⊙ 실버
 <a href="https://www.carbonace.co.kr/"><img src="sponsor/carbonace.png" width="201" height="48"></a>
