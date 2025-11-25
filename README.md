@@ -53,8 +53,9 @@
 기타 문의사항은 [osgeo.kr@gmail.com](mailto:osgeo.kr@gmail.com) 또는 [메일링 리스트](http://groups.google.com/group/osgeo-kr)에 남겨주세요.
 
 ## ■ 조직위원회
-[신상희](mailto:endofcap@gmail.com), [이민파](mailto:mapplus@gmail.com), [차승훈](mailto:kacgung@gmail.com), [최정주](mailto:jchoi@lx.or.kr)
-[박재현](mailto:parkj73@gmail.com), [김윤지](mailto:jwithmango@gmail.com), [윤정환](mailto:lenablue12@gmail.com)
+[신상희](mailto:endofcap@gmail.com), [윤정환](mailto:lenablue12@gmail.com), [이민파](mailto:mapplus@gmail.com), [차승훈](mailto:kacgung@gmail.com), 
+[최정주](mailto:jchoi@lx.or.kr), [박재현](mailto:parkj73@gmail.com), [김윤지](mailto:jwithmango@gmail.com), [정지수](mailto:stopsooya@gmail.com), 
+[박소영](mailto:1124394@naver.com)
 
 ## ■ 행동강령
 FOSS4G Korea 2025 참가자는 OSGeo 행동 강령에 따라 타인에 대해 정중하게 행동해야합니다. [OSGeo Code of Conduct](https://www.osgeo.org/code_of_conduct/).
@@ -80,3 +81,6 @@ FOSS4G Korea 2025 참가자는 OSGeo 행동 강령에 따라 타인에 대해 �
 ## ■ 특별한 감사
   ※ 행사 장소를 제공해 준 [LX 공간정보 아카데미](https://lxsiedu.or.kr)에 감사드립니다.  
   ※ 행사 전반을 준비해 준 [(주)망고시스템](https://www.mangosystem.com/)에 감사드립니다.
+
+
+![screenshot](images/foss4gkorea2025-hbanner.png?width=800)
