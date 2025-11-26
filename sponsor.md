@@ -46,6 +46,7 @@ FOSS4G Korea 후원 기관에는 다음과 같은 혜택이 주어집니다.
 
 ### ⊙ 실버
 <a href="https://www.carbonace.co.kr/"><img src="sponsor/carbonace.png" width="201" height="48"></a>
+<a href="http://www.hermesys.co.kr/"><img src="sponsor/hermesys.png" width="121" height="48"></a>
 
 ### ⊙ 개인
 이용익(서울특별시), 이동훈(가이아쓰리디), 남광우(국립군산대학교), 손형수(신한항업), 박천길(가이아쓰리디), 최규성(신한항업), 천정대(한국해양기상기술), 
