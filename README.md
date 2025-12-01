@@ -4,7 +4,8 @@
 ## ■ 전체 프로그램
  - [기술 워크숍](https://foss4g.osgeo.kr/workshop): 2025년 12월 5일(금) 09:00 ~ 12:00
  - [메인 컨퍼런스(구두발표) 및 연례총회](https://foss4g.osgeo.kr/conference): 2025년 12월 5일(금) 13:00 ~ 18:00
- - 장소: 서울 구로구 가마산로 242, 3층, LX 공간정보아카데미
+ - 장소: 서울 구로구 가마산로 242, 3층, 한국국토정보공사(LX) 공간정보아카데미 
+   - [Kakao](https://place.map.kakao.com/25723488), [Naver](https://naver.me/xZVwfdTY), [Google](https://maps.app.goo.gl/R6h2vo888mH1w63U8), [OpenStreetMap](https://osm.org/go/55kbjxKHw--)
 
 
 ## ■ 진행중인 이벤트
@@ -12,10 +13,10 @@
  - 행사 슬로건 선정 투표 (마감):  ~ 10월 30일(목) 18:00 
  - 기술워크숍 진행자 모집 (마감):  ~ 10월 31일(금) 18:00 
  - 올해의 공헌상 후보자 추천 (마감):  ~ 11월 16일(일) 18:00 
- - 구두발표자 모집 (마감):  ~ 11월 24일(월) 18:00 
+ - 구두발표자 모집 (마감):  ~ 11월 24일(월) 18:00  
+ - 후원금 모집 (마감):  ~ 11월 28일(금) 18:00  
  
  
- - [후원금 모집 (진행중)](https://foss4g.osgeo.kr/sponsor):  ~ 11월 28일(금) 18:00  
  - [컨퍼런스, 뒷풀이 참가자 등록 (진행중)](https://foss4g.osgeo.kr/register):  ~ 12월 3일(수) 18:00  
  - [기술워크숍 참가자 모집 (진행중)](https://forms.gle/ByxsH3RTTf3jn4VM7):  ~ 12월 3일(수) 18:00
 
@@ -27,7 +28,7 @@
 
 ## ■ 후원
 후원해 주신 기관 및 개인 모두에게 진심으로 감사드립니다.
- - [후원금 모집 (진행중)](https://foss4g.osgeo.kr/sponsor):  ~ 11월 28일(금) 18:00
+ - [후원금 모집 ](https://foss4g.osgeo.kr/sponsor)
 
 ### ⊙ 플래티넘
 <a href="https://gaia3d.com/"><img src="sponsor/gaia3d.png" width="139" height="52"></a> 
