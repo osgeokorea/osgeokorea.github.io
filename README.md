@@ -59,7 +59,7 @@
 ## ■ 조직위원회
 [신상희](mailto:endofcap@gmail.com), [윤정환](mailto:lenablue12@gmail.com), [이민파](mailto:mapplus@gmail.com), [차승훈](mailto:kacgung@gmail.com), 
 [최정주](mailto:jchoi@lx.or.kr), [박천길](mailto:pcgill@gaia3d.com), [박재현](mailto:parkj73@gmail.com), [김윤지](mailto:jwithmango@gmail.com), 
-[정지수](mailto:stopsooya@gmail.com), [박소영](mailto:1124394@naver.com)
+[정지수](mailto:stopsooya@gmail.com)
 
 ## ■ 행동강령
 FOSS4G Korea 2025 참가자는 OSGeo 행동 강령에 따라 타인에 대해 정중하게 행동해야합니다. [OSGeo Code of Conduct](https://www.osgeo.org/code_of_conduct/).
