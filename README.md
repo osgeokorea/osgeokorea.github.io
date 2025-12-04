@@ -7,32 +7,20 @@
  - 장소: 서울 구로구 가마산로 242, 3층, 한국국토정보공사(LX) 공간정보아카데미 
    - [Kakao](https://place.map.kakao.com/25723488), [Naver](https://naver.me/xZVwfdTY), [Google](https://maps.app.goo.gl/R6h2vo888mH1w63U8), [OpenStreetMap](https://osm.org/go/55kbjxKHw--)
 
-
-## ■ 진행중인 이벤트
- - 행사 슬로건 공모 (마감)]:  ~ 10월 22일(수) 18:00 
- - 행사 슬로건 선정 투표 (마감):  ~ 10월 30일(목) 18:00 
- - 기술워크숍 진행자 모집 (마감):  ~ 10월 31일(금) 18:00 
- - 올해의 공헌상 후보자 추천 (마감):  ~ 11월 16일(일) 18:00 
- - 구두발표자 모집 (마감):  ~ 11월 24일(월) 18:00  
- - 후원금 모집 (마감):  ~ 11월 28일(금) 18:00  
- 
- 
- - [컨퍼런스, 뒷풀이 참가자 등록 (진행중)](https://foss4g.osgeo.kr/register):  ~ 12월 3일(수) 18:00  
- - [기술워크숍 참가자 모집 (진행중)](https://forms.gle/ByxsH3RTTf3jn4VM7):  ~ 12월 3일(수) 18:00
-
-
 ## ■ 참가 등록
  - 워크숍 + 컨퍼런스(기념품 증정) 등록과 뒷풀이(현장 3만원) 등록으로 구분
  - 후원기관 플래티넘 3인, 골드레벨 2인, 실버레벨 1인, 개인후원 1인에 대해 워크숍 1세션 및 본 행사 참가비 면제
  - [컨퍼런스, 뒷풀이 참가자 등록과 등록비용 납부 방법](https://foss4g.osgeo.kr/register)
 
+
 ## ■ 후원
 후원해 주신 기관 및 개인 모두에게 진심으로 감사드립니다.
- - [후원금 모집 ](https://foss4g.osgeo.kr/sponsor)
+
 
 ### ⊙ 플래티넘
 <a href="https://gaia3d.com/"><img src="sponsor/gaia3d.png" width="139" height="52"></a> 
 <a href="http://www.forcewave.co.kr/"><img src="sponsor/forcewave.png" width="112" height="58"></a> 
+
 
 ### ⊙ 골드
 <a href="https://semtleware.com/"><img src="sponsor/semtleware.png" width="205" height="48"></a> 
@@ -40,9 +28,11 @@
 <a href="https://www.mangosystem.com/"><img src="sponsor/mangosystem.png" width="142" height="48"></a> 
 <a href="https://stadiamaps.com/"><img src="sponsor/stadiamaps.png" width="163" height="48"></a> 
 
+
 ### ⊙ 실버
 <a href="https://www.carbonace.co.kr/"><img src="sponsor/carbonace.png" width="201" height="48"></a> 
 <a href="http://www.hermesys.co.kr/"><img src="sponsor/hermesys.png" width="121" height="48"></a> 
+
 
 ### ⊙ 개인  
 이용익(서울특별시), 이동훈(가이아쓰리디), 남광우(국립군산대학교), 손형수(신한항업), 박천길(가이아쓰리디), 최규성(신한항업), 
