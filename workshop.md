@@ -89,6 +89,7 @@ FOSS4G Korea 2025 워크숍 데이는 다음의 주제로 워크숍을 개최합
     <tr>
       <td rowspan=6>10:00 ~ 12:00</td>
       <td><b>워크숍 2: 모델 설계자와 GPT를 이용한 QGIS 공간처리 툴박스 확장하기</b>
+          (<a href="https://github.com/mapplus/geoedu-pyqgis/tree/main/FOSS4GKorea2025">실습자료</a>)
       </td>
     </tr>
     <tr>

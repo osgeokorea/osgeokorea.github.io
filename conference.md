@@ -22,6 +22,7 @@
       <td rowspan=3>13:20~13:40</td>
       <td>
         <b>오픈소스 기반 OGC 3D Tiles 변환기인 mago3DTiler와 지형변환기 mago3DTerrainer 소개</b>
+          (<a href="slides/FOSS4GKorea2025_mago3DTiler_EN_251205.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -58,6 +59,7 @@
       <td rowspan=3>14:20~14:40</td>
       <td>
         <b>Maritime GIS Open source 소개 (OpenS100의 활용)</b>
+          (<a href="slides/FOSS4GKorea2025_OpenS100 _KRISO_DongwooKANG.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -70,6 +72,7 @@
       <td rowspan=3>14:40~15:00</td>
       <td>
         <b>국토환경성평가 FOSS4G 활용, since 2014</b>
+          (<a href="slides/FOSS4GKorea2025_ECVAM_Since2014_SunghoonCha.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -86,6 +89,7 @@
       <td rowspan=3>15:20~15:40</td>
       <td>
         <b>아조씨가 만든 GeoAI </b>
+          (<a href="slides/FOSS4GKorea2025_GeoAI_TongHoonLee.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -98,6 +102,7 @@
       <td rowspan=3>15:40~16:00</td>
       <td>
         <b>초고속 오픈소스 지오코더, 리버스 지오코더</b>
+          (<a href="slides/FOSS4GKorea2025_OpenSourceGeoCoder_TAEHOYOON.pdf">slides</a>)
       </td>
     </tr>
     <tr>
@@ -121,7 +126,8 @@
     <tr>
       <td rowspan=3>16:20~16:40</td>
       <td>
-        <b>구글어스엔진 과 공개데이터를 활용한 탄소저장량 분석방안</b>
+        <b>구글어스엔진과 공개데이터를 활용한 탄소저장량 분석방안</b>
+          (<a href="slides/FOSS4GKorea2025_GoogleEarthEngine_JiyoonKim.pdf">slides</a>)
       </td>
     </tr>
     <tr>
