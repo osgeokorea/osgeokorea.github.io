@@ -13,8 +13,9 @@
   <tbody>
     <tr>
       <td rowspan=2>13:00~13:20</td>
-      <td><b>행사 소개 및 행동강령</b></td>
+      <td><b>행사 소개 및 행동강령</b>
           (<a href="https://docs.google.com/presentation/d/1Fvf__GI9unc-evqeDLfXZX_SB10NbRJ_/edit?usp=sharing&ouid=102648908904411022462&rtpof=true&sd=true">slides</a>)
+      </td>
     </tr>
     <tr>
       <td>OSGeo 한국어지부</td>
