@@ -14,6 +14,7 @@
     <tr>
       <td rowspan=2>13:00~13:20</td>
       <td><b>행사 소개 및 행동강령</b></td>
+          (<a href="https://docs.google.com/presentation/d/1Fvf__GI9unc-evqeDLfXZX_SB10NbRJ_/edit?usp=sharing&ouid=102648908904411022462&rtpof=true&sd=true">slides</a>)
     </tr>
     <tr>
       <td>OSGeo 한국어지부</td>
@@ -176,6 +177,7 @@
     <tr>
       <td><b>17:30 ~ 18:00</b></td>
       <td><b>OSGeo 한국어지부 연례총회 및 올해의 공헌상 시상식</b>
+          (<a href="https://docs.google.com/presentation/d/18tmNOKmtpHR2TLdfgZVTpkq76DuUPHQ8SIqnNKIaghI/edit?usp=sharing">slides</a>)
       </td>
     </tr>
   </tbody>
