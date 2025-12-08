@@ -154,6 +154,7 @@
       <td rowspan=3>17:00:17:20</td>
       <td>
         <b>Introducing OSGeo Japan and FOSS4G Hiroshima</b>
+          (<a href="https://github.com/asahina820/FOSS4G-Korea-2025-asahina-presentation-slide/blob/main/kr.md>slides</a>)
       </td>
     </tr>
     <tr>
